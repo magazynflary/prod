@@ -6,6 +6,9 @@
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+    {{ range .AlternativeOutputFormats -}}
+        {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
 
     <script src="https://cdn.counter.dev/script.js" data-id="a164b8b2-6f07-48a8-8cd4-91107b2e2ac9" data-utcoffset="1"></script>
 </head>
@@ -16,6 +19,7 @@
             <nav class="site-nav">
                 <a href="{{ .Site.Home.Permalink }}">Start</a>
                 <a href="{{ "posts" | relref . }}">Artykuły</a>
+                <a href="{{ "index.xml" | absURL }}">RSS</a>
             </nav>
         </div>
     </header>
