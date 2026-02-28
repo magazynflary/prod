@@ -105,7 +105,7 @@ fi
 # Test 1: Strona główna
 test_http_status "Strona główna zwraca 200" "http://localhost:$PORT/" "200"
 test_http "Strona główna zawiera tytuł" "http://localhost:$PORT/" "DLR Zin"
-test_http "Strona główna zawiera Welcome" "http://localhost:$PORT/" "Welcome"
+test_http "Strona główna zawiera Najnowsze" "http://localhost:$PORT/" "Najnowsze"
 
 # Test 2: CSS
 test_http_status "CSS dostępny" "http://localhost:$PORT/css/style.css" "200"
@@ -114,24 +114,36 @@ test_http "CSS zawiera max-width" "http://localhost:$PORT/css/style.css" "max-wi
 
 # Test 3: Strona z postami
 test_http_status "Lista postów zwraca 200" "http://localhost:$PORT/posts/" "200"
-test_http "Lista postów zawiera Posts" "http://localhost:$PORT/posts/" "Posts"
+test_http "Lista postów zawiera Artykuły" "http://localhost:$PORT/posts/" "Artykuły"
 
 # Test 4: Przykładowy post
-test_http_status "Pierwszy post zwraca 200" "http://localhost:$PORT/posts/pierwszy-post/" "200"
-test_http "Post zawiera tytuł" "http://localhost:$PORT/posts/pierwszy-post/" "Pierwszy Post"
-test_http "Post zawiera treść" "http://localhost:$PORT/posts/pierwszy-post/" "Testowy nagłówek"
+test_http_status "Pierwszy post zwraca 200" "http://localhost:$PORT/2026/02/07/pierwszy-post/" "200"
+test_http "Post zawiera tytuł" "http://localhost:$PORT/2026/02/07/pierwszy-post/" "Pierwszy Post"
+test_http "Post zawiera treść" "http://localhost:$PORT/2026/02/07/pierwszy-post/" "Testowy nagłówek"
 
-# Test 5: HTML structure
+# Test 5: Lista wydań
+test_http_status "Lista wydań zwraca 200" "http://localhost:$PORT/wydania/" "200"
+test_http "Lista wydań zawiera nagłówek" "http://localhost:$PORT/wydania/" "Wydania"
+test_http "Lista wydań zawiera siatkę" "http://localhost:$PORT/wydania/" "posts-grid"
+test_http "Lista wydań zawiera kartę wydania" "http://localhost:$PORT/wydania/" "post-card"
+
+# Test 6: Pojedyncze wydanie
+test_http_status "Wydanie 2026-4 zwraca 200" "http://localhost:$PORT/wydania/2026-4/" "200"
+test_http "Wydanie zawiera tytuł" "http://localhost:$PORT/wydania/2026-4/" "2026-4"
+test_http "Wydanie zawiera artykuł główny" "http://localhost:$PORT/wydania/2026-4/" "post-card--featured"
+test_http "Wydanie zawiera badge głównego artykułu" "http://localhost:$PORT/wydania/2026-4/" "Artykuł główny wydania"
+
+# Test 7: HTML structure (strona główna)
 test_http "Strona ma DOCTYPE" "http://localhost:$PORT/" "<!DOCTYPE html>"
 test_http "Strona ma charset UTF-8" "http://localhost:$PORT/" "UTF-8"
 test_http "Strona ma viewport" "http://localhost:$PORT/" "viewport"
 test_http "Strona ma link do CSS" "http://localhost:$PORT/" "/css/style.css"
 
-# Test 6: Nawigacja
-test_http "Nawigacja zawiera link Home" "http://localhost:$PORT/" "<a href=\"http://localhost:$PORT/\">Home</a>"
-test_http "Nawigacja zawiera link Posts" "http://localhost:$PORT/" '<a href="/posts/">Posts</a>'
+# Test 8: Nawigacja
+test_http "Nawigacja zawiera link Start" "http://localhost:$PORT/" "<a href=\"http://localhost:$PORT/\">Start</a>"
+test_http "Nawigacja zawiera link Artykuły" "http://localhost:$PORT/" '<a href="/posts/">Artykuły</a>'
 
-# Test 7: Content type headers
+# Test 9: Content type headers
 echo -n "Test: HTML ma prawidłowy Content-Type... "
 content_type=$(curl -s -I http://localhost:$PORT/ | grep -i "content-type" | grep -i "text/html")
 if [ ! -z "$content_type" ]; then

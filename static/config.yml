@@ -47,6 +47,9 @@ collections:
     folder: "content/posts"
     create: true
     slug: "{{slug}}"
+    sortable_fields: ["date", "title", "edition"]
+    view_groups:
+      - {label: "Wydanie", field: "edition"}
     editor:
       preview: true
     fields:
@@ -59,7 +62,43 @@ collections:
       - {label: "Obrazek wyróżniający", name: "image", widget: "image", required: false}
       - {label: "Kadrowanie obrazka wyróżniającego", name: "image_focus", widget: "focal-point", default: "50% 50%", required: false}
       - {label: "Opis (excerpt)", name: "description", widget: "text", required: false}
+      - {label: "Wydanie", name: "edition", widget: "relation", collection: "editions", value_field: "{{slug}}", search_fields: ["title"], display_fields: ["date", "title"], required: false}
       - {label: "Treść", name: "body", widget: "markdown"}
+
+  # Editions - groups of posts
+  - name: "editions"
+    label: "Wydania"
+    folder: "content/editions"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{date}} — {{title}}"
+    sortable_fields: ["date", "title"]
+    editor:
+      preview: false
+    fields:
+      - {label: "Tytuł (np. 2026/wiosna)", name: "title", widget: "string"}
+      - {label: "Data wydania", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ss"}
+      - {label: "Obrazek", name: "image", widget: "image", required: false}
+      - label: "Artykuł główny wydania"
+        name: "artykul_glowny"
+        widget: "relation"
+        collection: "posts"
+        value_field: "{{slug}}"
+        search_fields: ["title"]
+        display_fields: ["title"]
+        required: false
+      - label: "Artykuły"
+        name: "artykuly"
+        widget: "list"
+        required: false
+        field:
+          label: "Artykuł"
+          name: "artykul"
+          widget: "relation"
+          collection: "posts"
+          value_field: "{{slug}}"
+          search_fields: ["title"]
+          display_fields: ["title", "date"]
 
   # Pages (static pages like About, Contact)
   - name: "pages"

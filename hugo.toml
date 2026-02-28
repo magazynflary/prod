@@ -4,6 +4,7 @@ title = 'DLR Zin'
 
 [permalinks]
   posts = '/:year/:month/:day/:slug/'
+  editions = '/wydania/:slug/'
 
 [markup.goldmark.extensions.typographer]
 leftDoubleQuote = '&bdquo;'
