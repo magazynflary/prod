@@ -205,6 +205,14 @@ a:hover {
     color: var(--white);
     text-decoration: none;
     position: relative;
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+}
+
+.site-logo-img {
+    height: 2em;
+    width: auto;
 }
 
 .site-logo::before {
@@ -312,17 +320,22 @@ main {
 .post-card {
     background: var(--white);
     border: 1px solid var(--gray-light);
+    position: relative;
+    transition: box-shadow var(--transition);
+}
+
+.post-card > a {
+    display: block;
     padding: var(--space-6);
     position: relative;
-    transition: transform var(--transition), box-shadow var(--transition);
+    height: 100%;
 }
 
 .post-card:hover {
-    transform: translateY(-2px);
     box-shadow: var(--shadow-lg);
 }
 
-.post-card::before {
+.post-card > a::before {
     content: '';
     position: absolute;
     top: 0;
@@ -335,7 +348,7 @@ main {
     transition: transform 0.3s ease;
 }
 
-.post-card:hover::before {
+.post-card:hover > a::before {
     transform: scaleY(1);
 }
 

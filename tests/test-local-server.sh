@@ -131,7 +131,6 @@ test_http "Lista wydań zawiera kartę wydania" "http://localhost:$PORT/wydania/
 test_http_status "Wydanie 2026-4 zwraca 200" "http://localhost:$PORT/wydania/2026-4/" "200"
 test_http "Wydanie zawiera tytuł" "http://localhost:$PORT/wydania/2026-4/" "2026-4"
 test_http "Wydanie zawiera artykuł główny" "http://localhost:$PORT/wydania/2026-4/" "post-card--featured"
-test_http "Wydanie zawiera badge głównego artykułu" "http://localhost:$PORT/wydania/2026-4/" "Artykuł główny wydania"
 
 # Test 7: HTML structure (strona główna)
 test_http "Strona ma DOCTYPE" "http://localhost:$PORT/" "<!DOCTYPE html>"

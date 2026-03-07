@@ -4,7 +4,7 @@
 {{ if .Pages }}
 <div class="posts-grid">
     {{ range .Pages }}
-    <article class="post-card">
+    <article class="post-card"><a href="{{ .Permalink }}">
         {{ $post := . }}
         {{ with .Params.image }}
         {{ partial "image.html" (dict "src" . "alt" $post.Title "class" "post-card__image" "style" (printf "object-position: %s" ($post.Params.image_focus | default "50% 50%")) "sizes" "(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw") }}
@@ -12,11 +12,9 @@
         <time class="post-card__meta" datetime="{{ .Date.Format "2006-01-02" }}">
             {{ .Date.Format "2006-01-02" }}
         </time>
-        <h3 class="post-card__title">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </h3>
+        <h3 class="post-card__title">{{ .Title }}</h3>
         <p class="post-card__excerpt">{{ .Summary | plainify | truncate 150 }}</p>
-    </article>
+    </a></article>
     {{ end }}
 </div>
 {{ else }}

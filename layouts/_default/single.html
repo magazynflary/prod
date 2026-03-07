@@ -1,9 +1,10 @@
 {{ define "main" }}
 <article class="article">
     <header class="article-header">
-        <time class="article-meta" datetime="{{ .Date.Format "2006-01-02" }}">
-            {{ .Date.Format "2006-01-02" }}
-        </time>
+        <div class="article-meta">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+            {{ with .Params.author }}{{ . }}{{ end }}
+        </div>
         <h1 class="article-title">{{ .Title }}</h1>
     </header>
 
