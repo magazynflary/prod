@@ -1,6 +1,6 @@
 ---
 title: Tekst założycielski
-date: 2026-05-01T00:00:00
+date: 2026-04-28T21:36:00
 draft: true
 tags:
   - prezentacja
