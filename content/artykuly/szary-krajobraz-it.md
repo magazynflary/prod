@@ -8,6 +8,7 @@ image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
 ---
 # Szary krajobraz IT
+ Bartosz Marcinkowski
 
 **Ostatnie dekady to czas przemian społecznych w dużej mierze napędzanych rozwojem technologii informacyjnych. Przez ten czas przeszliśmy od optymizmu do obaw o zagrożenia dla indywidualnych użytkowników i całych społeczeństw. W tej podróży wydajemy się prowadzeni przez procesy, na które nie mamy wpływu. Jako pracownik branży IT chciałbym podzielić się własną perspektywą – i kilkoma pomysłami, jak działać.**
 
