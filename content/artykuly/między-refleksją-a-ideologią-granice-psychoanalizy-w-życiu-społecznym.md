@@ -7,6 +7,9 @@ image: images/uploads/między-refleksją-a-ideologią.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
 ---
+## **Między refleksją a ideologią: granice psychoanalizy w życiu społecznym**
+
+Autor: Arkadiusz Gąsiorek
 **Współczesny psychoanalityk David Morgan napisał w** „**The unconscious in social and political life**”, że w każdej epoce możemy zaobserwować wpływ pierwotnych lęków na jednostki: od zwykłego niepokoju, przez lęk prześladowczy, aż po lęk przed unicestwieniem. Jednak dopiero XX wiek, za sprawą dokonań Freuda, dostarczył narzędzia, dzięki którym można było zacząć je badać. Doświadczenie drugiej wojny światowej wzmocniło zainteresowanie psychoanalityków badaniem zjawisk socjopolitycznych. Czy, jak chciałaby Hanna Segal, powinniśmy przekroczyć granicę spekulacji, aby zacząć zabierać głos w debacie społecznej? Czy wręcz odwrotnie, wzorem Hinshelwooda lub Kernberga powinniśmy jasno oddzielić psychoanalizę od polityki? Ile dzisiaj zostało z wezwania Segal do działania?
 
 **Prawdziwą zbrodnią jest milczenie**
