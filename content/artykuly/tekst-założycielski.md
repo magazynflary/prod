@@ -1,5 +1,5 @@
 ---
-title: Tekst założycielski
+title: Flary
 date: 2026-04-30T21:09:00
 draft: false
 tags:
