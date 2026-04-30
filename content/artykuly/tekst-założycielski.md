@@ -7,6 +7,7 @@ tags:
   - tekst założycielski
 image: images/uploads/flary-v2.jpg
 image_focus: 50% 50%
+edition: "0"
 ---
 Współczesna przestrzeń komunikacji przypomina czasem ciemny ocean, po którym dryfujemy jak rozbitkowie. Raz po raz przykrywają nas kolejne fale: myślimy w biegu, przyjmujemy informacje w nadmiarze i bez namysłu, upraszczamy pojęcia aż do utraty przez nie pierwotnego sensu. Wygłaszamy opinie, ale nie rozmawiamy. Ci z nas, którym bliska jest potrzeba zrozumienia istoty rzeczy i poświęcenia czasu, by spojrzeć na sprawy z wielu perspektyw, dryfują samotnie, w rozproszeniu. W tej toni można odnaleźć drogę tylko wtedy, gdy na niebie zapalają się FLARY.
 
