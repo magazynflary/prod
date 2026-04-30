@@ -7,6 +7,9 @@ image: images/uploads/zautomatyzowany-transhumanistyczny-kapitalizm.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
 ---
+# Zautomatyzowany transhumanistyczny kapitalizm
+Dominik Kacprowski
+
 **Jak pisał Aaron Bastani w książce *W pełni zautomatyzowany luksusowy komunizm,* w świecie post-niedoboru** – **dzięki niemalże darmowej energii, zaawansowanej automatyzacji i górnictwu w kosmosie** – **bylibyśmy w stanie zaspokoić wszelkie materialne potrzeby ludzkości, a zamiast pracy zarobkowej zajmowalibyśmy się czym tylko chcemy. Opowieści o czasach wojen o zasoby i powszechnego ubóstwa moglibyśmy odłożyć na półkę.**
 
 Tej utopii nie bylibyśmy nawet w stanie sobie wyobrazić, gdyby nie to, co wystrzeliło nas w kierunku teraźniejszości. Pod koniec XVIII wieku wraz z rozwojem nauki i techniki w Europie pojawiają się ogniska rewolucji przemysłowej, która pociągnie za sobą przemiany społeczne i polityczne na skalę, której ludzkość wcześniej nie znała, w tempie, które nie przystaje do powolnego nurtu świata przedindustrialnego. Rewolucja ta wyśle nas w podróż w nieznane, da nam ogromny potencjał do poprawy warunków życia, ale też postawi przed nami nowe wyzwania.
