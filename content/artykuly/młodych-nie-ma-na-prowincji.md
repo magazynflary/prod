@@ -1,0 +1,64 @@
+---
+edition: "0"
+title: Młodych nie ma na prowincji
+date: 2026-04-30T21:30:00
+draft: false
+image: images/uploads/młodych-nie-ma-na-prowincji.jpg
+image_focus_banner: 50% 50%
+image_focus_card: 50% 50%
+---
+**Poruszając się w umyśle ulicami naszych miast, zobaczymy dwa obrazy. W metropolii zauważymy zapewne całe ruchliwe masy studenckie i młodych dorosłych. Jednak w małych miejscowościach młodzi skończą się na licealistach okupujących ławki w parkach czy przed galerią handlową, po nich zaś następuje dziura pokoleniowa, po której widoczne są głównie osoby dawno już okrzepłe w swojej dorosłości. Co stało się z młodymi dorosłymi? Czy jeszcze tu są? Gdzie zniknęli i dlaczego nie chcą pozostawać w swoich rodzinnych gminach i powiatach?**
+
+	  
+
+Pomimo chęci pozostania w rodzinnej miejscowości młodzi bardzo często zmuszeni są do wyjazdu do większej aglomeracji. Przyczyną tego jest nie tylko rozlokowanie uczelni wyższych na mapie kraju, ale też współczesne realia rynku pracy. Poszukiwanie pracy dla osób, które dopiero wchodzą w realia dorosłego życia, potrafi być sporym wyzwaniem niezależnie od miejsca zamieszkania. Sytuacja w tym aspekcie jest jednak w małych miejscowościach szczególnie niełatwa, gdyż lokalne warunki często utrudniają możliwość podjęcia zatrudnienia wszystkim nowym pracownikom – przede wszystkim zaś tym, których oczekiwania nie odnajdują się przy kasie w markecie czy na taśmie na hali produkcyjnej. Częstymi zjawiskami są brak etatów na młodsze stanowiska czy minimalna ilość programów stażowych oraz pracowniczki urzędów pracy rozkładające bezradnie ręce.   
+
+Sytuacja kobiet jest tu jeszcze trudniejsza, a pracodawcy podejrzliwie spoglądają na młode dziewczyny, błędnie wierząc w szkodliwy mit o zwiększeniu kosztów, jakie firma rzekomo ponosi na rzecz pracownicy, gdyby ta potencjalnie zaszła w ciąże. W mniejszych miejscowościach brak jest też dużych korporacji, w których młodym obojgu płci łatwiej jest odnaleźć się na początkowych etapach, często też oferujących wdrożeniowe etaty. Kobiety zaś są częściej przyjmowane w dużych przedsiębiorstwach dzięki ich potencjalnie wyższej ugodowości.  
+
+W małych miastach juniorskich etatów jest zdecydowanie mniej. Przeważają za to samodzielne stanowiska i małe wykwalifikowane zespoły, co silnie związane jest z wielkością przedsiębiorstw. W niewielkich firmach pojawia się dodatkowa bolączka związana z brakiem chęci przyuczania młodszych do zawodu przez starszych pracowników. Z drugiej strony pracodawcy nie chcą zatrudniać niedoświadczonych bez fachu w rękach. Często więc by wejść na rynek w Polsce samorządowej, trzeba najpierw nabrać doświadczenia w dużym mieście, a potem – obniżając standardy płacowe oraz jakości życia – wrócić i zatrudnić się na takiej samej posadzie w rodzinnej miejscowości. Trochę lepiej sytuacja wygląda na stanowiskach technicznych, gdzie w zależności od zespołu lub potrzeb kadrowych potrzebne kompetencje są przekazywane najbardziej zaradnym pracownikom.
+
+
+
+**Przestrzeń nie dla młodych**
+
+
+
+Wspominałam wcześniej o młodzieży spotykającej się na ławkach w parkach oraz galeriach handlowych; obraz ten jest symptomem istotnego problemu młodych dorosłych na prowincji. Niezależnie od miejscowości obserwujemy brak tzw. trzecich miejsc – przestrzeni spotkań, budowania relacji, wspólnoty. Nie ma ich ani dla nastolatków, ani innych grup wiekowych – dzieci i osób dojrzałych. Dotyczy to zarówno miast wielkości Kłodzka, jak i Krakowa. Szczególnie boleśnie odczuwają to młodzi dorośli, którzy próbują odnaleźć się w „dojrzałych i poważnych” obowiązkach oraz rutynie. Im mniejsza miejscowość, tym problem wyraźniejszy. Brak takich miejsc może także przejść niezauważony przez wiele osób, zwłaszcza wraz ze wzrostem tzw. helikopterowego rodzicielstwa i sejfityzmu, w którym ze względu na bezpieczeństwo dziecka nie pozwalano mu na przebywanie w miejscach, gdzie samodzielnie mogłoby doświadczać nowych aktywności. Gdy osoba nie doświadczyła dobrodziejstw takich miejsc w swoim dzieciństwie, może ona nie czuć potrzeby ich istnienia i nie być świadoma płynących z nich korzyści. Warto przy tym zauważyć, że problem ten został zauważony już w największych miastach i powstają ruchy społeczne starające się adresować problem braku przestrzeni spotkań w dużych aglomeracjach.  
+
+Gdy dojrzewająca osoba wyrośnie już z placów zabaw, dostępna jej publiczna przestrzeń momentalnie się kurczy. „Pod karą administracyjną” nie gramy już w piłkę, ani nie spotykamy się na dyskotekach jak nasi rodzice – tych obecnie brak lub zastąpiono je klubami 18+, dla których główną motywacją działania jest sprzedaż dużej ilości alkoholu. Nie mamy grup, środowisk, miejsc interakcji z podobnymi sobie ludźmi, a wydarzenia regionalne często są adresowane wyłącznie dla zorganizowanych grup szkolnych o określonym wieku. Przyzwyczailiśmy się spoglądać na świat oczami dorosłych, którzy mają środki finansowe na uczestniczenie w różnych wydarzeniach oraz przebywanie w miejscach takich jak restauracje czy teatry, brakuje przy tym miejsc gdzie za darmo lub małym kosztem osoby mogłyby spędzić razem czas pod dachem, ale nie w mieszkaniach prywatnych.   
+
+Młodzi potrzebują miejsc do socjalizacji, poznawania osób, z którymi później mogą chodzić do kina, organizować domówki czy tworzyć rozmaite formy wspólnot, dzielić zainteresowania czy ambicje. Zwłaszcza na prowincji brakuje nam miejsc do budowania tożsamości czy rozwijania pasji. Gdzieniegdzie znajdziemy jeszcze takie punkty jak stary skatepark, przyszkolny orlik, park czy – dla tych starszych – nowopowstały bar, ale i on często zniknie szybciej niż się pojawił. Zmniejsza się za to rola domów kultury, kół zainteresowań, amatorskich klubów sportowych – zwłaszcza, gdy wzrasta liczba kilometrów do najbliższego miasta wojewódzkiego. Im bliżej do takiego miasta, tym więcej osób dojeżdża tam do pracy, przez co oczekiwania co do usług wpływają na zwiększenie aktywności instytucji społecznych.  
+
+Wobec takich perspektyw młodzi zostają w domu, często z własnym smartfonem czy komputerem i z własnego pokoju kontaktują się ze światem. Muszą w wirtualnej rzeczywistości spotykać znajomych, wyrażać siebie i z małego miasta, opuszczonego nawet przez znajomych ze szkoły, uciec w wielkie internetowe miasto; z przestrzeni fizycznej w cyfrową.
+
+
+
+**Brak bratniej duszy**
+
+
+
+Trzeci powód zmniejszonej obecności młodych dorosłych na prowincji jest poniekąd spowodowany poprzednimi dwoma. Wspomniane wcześniej utrudnienia w funkcjonowaniu sprawiają, że w takich rejonach maleje grupa rówieśnicza. Uruchomił się już mechanizm błędnego koła: młodych jest coraz mniej, co przyśpiesza ich dalszy odpływ. Nie mają znajomych w swoim wieku, więc wszyscy współpracownicy, osoby na ulicy, w miejscach spotkań będą starsi: z własną rodziną i poukładanym życiem, co utrudnia nawiązywanie relacji koleżeńskich i przyjaźni.  
+
+Powoduje to oczywistą trudność we wchodzeniu w związki romantyczne. Problem ten dotyka wszystkich na etapie wczesnej dorosłości, ale nie można ukryć, że jest dotkliwszy dla młodych mężczyzn, którzy, jeśli nie znaleźli partnerki w szkole średniej lub w trakcie studiów, często pozostają samotni na prowincji. Nierzadko, pomimo bardzo dobrych predyspozycji psychologicznych czy życiowych, nie mają szans na spotkanie drugiej połówki, bo zwyczajnie młodych kobiet poza metropoliami jest mniej i wciąż ich ubywa.   
+
+Z całym bagażem samotności, nieradzenia sobie z wyzwaniami dorosłości i dużym poczuciem niesprawiedliwości wiele osób żałuje powrotów i pozostania w rodzinnych stronach. 
+
+
+
+Powodów tego stanu rzeczy jest oczywiście więcej: zarówno samych problemów Polski samorządowej, jak i obecnych post-wspólnotowych czasów. Warto wymienić także wykluczenie komunikacyjne, które utrudnia dostanie się do innych aglomeracji w poszukiwaniu rozwiązania powyższych problemów. Na prowincji często brak też przestrzeni do realizacji nietypowych ścieżek kariery, jak artystyczna, aktywistyczna oraz z zakresu rozwoju społecznego lub innych scenariuszy życiowych, które nie mieszczą się w standardowym duecie „etat z rodziną”.
+
+
+
+Przyglądając się wszystkim wymienionym wyzwaniom, można zauważyć, jak złożone jest to zjawisko i jak szeroko może ono wpływać na całokształt funkcjonowania młodych. Gdyby posłużyć się hierarchią potrzeb Maslowa, okazałoby się, że problemy te wpływają na dobrostan, sięgając każdej kategorii potrzeb psychologicznych człowieka. 
+
+
+
+Pierwszą niezaspokojoną potrzebą młodych będzie potrzeba bezpieczeństwa; tu przede wszystkim warto zwrócić uwagę na wspomniany problem z zatrudnieniem oraz brak możliwości wyprowadzki od rodziców na własne mieszkanie. Następnie w potrzebie przynależności i miłości ujawnia się brak grupy rówieśniczej, relacji romantycznych oraz brak miejsc realizacji zainteresowań w grupie. Niemożność realizacji potrzeby uznania jest spowodowana brakiem możliwości awansu w pracy, realizowania się w bardziej wymagających zadań oraz realizacji nieszablonowej ścieżki kariery. Problem dotyczy również samorealizacji, ograniczanej przez wszystkie z wymienionych czynników w różnym natężeniu.
+
+
+
+Tematem tym nikt na prowincji się nie zajmuje, a w dużych miastach nie jest on szeroko poruszany. Zarówno nasze braki w poczuciu wspólnoty, jak i polityka odsunięta od największych metropolii nie cieszą się dużym zainteresowaniem infosfery, a problem pozostawiony sam sobie gdzieś na prowincji przybiera na sile. Samorząd powinien zauważyć kroczący już kryzys, aby zatrzymać proces wyludniania się miast powiatowych i gminnych i ich zamiany w miejscowości senioralne. 
+
+
+
+Odpowiadając więc na postawione w tytule zagadnienie – mamy młodych na prowincji, lecz grupa ta maleje i nie zmieni się to, póki nie stworzymy dla nich rozwiązań, by chcieli tu zostać.
