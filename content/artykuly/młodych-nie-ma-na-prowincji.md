@@ -7,6 +7,7 @@ draft: false
 image: images/uploads/młodych-nie-ma-na-prowincji.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
+image_credit_author: angelika-frankowska
 ---
 **Poruszając się w umyśle ulicami naszych miast, zobaczymy dwa obrazy. W metropolii zauważymy zapewne całe ruchliwe masy studenckie i młodych dorosłych. Jednak w małych miejscowościach młodzi skończą się na licealistach okupujących ławki w parkach czy przed galerią handlową, po nich zaś następuje dziura pokoleniowa, po której widoczne są głównie osoby dawno już okrzepłe w swojej dorosłości. Co stało się z młodymi dorosłymi? Czy jeszcze tu są? Gdzie zniknęli i dlaczego nie chcą pozostawać w swoich rodzinnych gminach i powiatach?**
 
