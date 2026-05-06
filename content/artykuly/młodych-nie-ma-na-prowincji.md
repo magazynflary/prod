@@ -1,5 +1,6 @@
 ---
 edition: "0"
+author: angelika-frankowska
 title: Młodych nie ma na prowincji
 date: 2026-04-30T21:30:00
 draft: false
@@ -7,8 +8,6 @@ image: images/uploads/młodych-nie-ma-na-prowincji.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
 ---
-Angelika Frankowska
-
 **Poruszając się w umyśle ulicami naszych miast, zobaczymy dwa obrazy. W metropolii zauważymy zapewne całe ruchliwe masy studenckie i młodych dorosłych. Jednak w małych miejscowościach młodzi skończą się na licealistach okupujących ławki w parkach czy przed galerią handlową, po nich zaś następuje dziura pokoleniowa, po której widoczne są głównie osoby dawno już okrzepłe w swojej dorosłości. Co stało się z młodymi dorosłymi? Czy jeszcze tu są? Gdzie zniknęli i dlaczego nie chcą pozostawać w swoich rodzinnych gminach i powiatach?**
 
 Pomimo chęci pozostania w rodzinnej miejscowości młodzi bardzo często zmuszeni są do wyjazdu do większej aglomeracji. Przyczyną tego jest nie tylko rozlokowanie uczelni wyższych na mapie kraju, ale też współczesne realia rynku pracy. Poszukiwanie pracy dla osób, które dopiero wchodzą w realia dorosłego życia, potrafi być sporym wyzwaniem niezależnie od miejsca zamieszkania. Sytuacja w tym aspekcie jest jednak w małych miejscowościach szczególnie niełatwa, gdyż lokalne warunki często utrudniają możliwość podjęcia zatrudnienia wszystkim nowym pracownikom – przede wszystkim zaś tym, których oczekiwania nie odnajdują się przy kasie w markecie czy na taśmie na hali produkcyjnej. Częstymi zjawiskami są brak etatów na młodsze stanowiska czy minimalna ilość programów stażowych oraz pracowniczki urzędów pracy rozkładające bezradnie ręce.   
