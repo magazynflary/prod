@@ -1,13 +1,14 @@
 ---
+edition: "0"
+author: arkadiusz-gąsiorek
 title: Flary
 date: 2026-04-30T21:09:00
 draft: false
+image_focus: 50% 50%
 tags:
   - prezentacja
   - tekst założycielski
 image: images/uploads/flary-v2.jpg
-image_focus: 50% 50%
-edition: "0"
 ---
 Współczesna przestrzeń komunikacji przypomina czasem ciemny ocean, po którym dryfujemy jak rozbitkowie. Raz po raz przykrywają nas kolejne fale: myślimy w biegu, przyjmujemy informacje w nadmiarze i bez namysłu, upraszczamy pojęcia aż do utraty przez nie pierwotnego sensu. Wygłaszamy opinie, ale nie rozmawiamy. Ci z nas, którym bliska jest potrzeba zrozumienia istoty rzeczy i poświęcenia czasu, by spojrzeć na sprawy z wielu perspektyw, dryfują samotnie, w rozproszeniu. W tej toni można odnaleźć drogę tylko wtedy, gdy na niebie zapalają się FLARY.
 
