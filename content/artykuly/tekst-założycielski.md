@@ -4,6 +4,7 @@ author: arkadiusz-gąsiorek
 title: Flary
 date: 2026-04-30T21:09:00
 draft: false
+image_credit_author: angelika-frankowska
 image_focus: 50% 50%
 tags:
   - prezentacja
