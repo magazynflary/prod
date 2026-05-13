@@ -11,7 +11,7 @@ image_credit_author: katarzyna-brzozowska
 ---
 Mówi się, że przewidywanie jest trudne, szczególnie przewidywanie przyszłości. Ja spróbuję zajrzeć w hipotetyczne krótkoterminowe perspektywy, które mogą czekać AI. Oba te scenariusze prowadzą do kryzysu amerykańskiego modelu ekonomicznego w dwóch różnych wymiarach. Żaden z nich nie jest konieczny; może być przedmiotem sporu, czy są prawdopodobne, jednak oba są  w moim przekonaniu jak najbardziej możliwe. 
 
-**Pierwszy scenariusz - bańka**
+## Pierwszy scenariusz - bańka
 
 Czołowe firmy pracujące nad technologią sztucznej inteligencji rozpoczęły kampanię najbardziej agresywnej alokacji kapitału, jaka miała miejsce w historii. Firmy Big Tech zainwestowały w infrastrukturę i rozwój AI około 400 mld dolarów w 2025 roku, a analitycy oraz same firmy przewidują, że liczba ta ma się zwiększyć do 700 mld dolarów w roku 2026. Dla porównania wydatki państwa polskiego w 2025 roku wynosiły około 246 mld dolarów (921 mld złotych).  
 
@@ -42,7 +42,7 @@ Historycznie, bańki często poprzedzały technologie, które okazywały się sp
 
  Tak było w przypadku rozwoju kolei w USA w XIX wieku. Budowie kolei towarzyszyła bańka spekulacyjna, która w końcu pękła i wiele inwestorów i firm zbankrutowało. Infrastruktura jednak została, co przyczyniło się do rozwoju Stanów Zjednoczonych. 
 
-**Drugi scenariusz - zawirowania na rynku pracy**
+## Drugi scenariusz - zawirowania na rynku pracy
 
 Możliwy jest jednak inny wariant rozwoju sztucznej inteligencji na najbliższe lata. Pod koniec lutego obecnego roku Citrini Research, think-tank inwestycyjny, opisał scenariusz, w którym optymizm rynkowy nie opuści sztucznej inteligencji. Utrzyma ona tempo rozwoju, ale przewrotnie zmieni to rynek pracy nie do poznania. 
 
