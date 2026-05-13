@@ -3,8 +3,10 @@ edition: "0"
 title: Samotni wśród ludzi
 date: 2026-05-13T06:54:00
 draft: false
+image: images/uploads/gdzie-podziali-się-wszyscy-ludzie.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
+image_credit_author: katarzyna-brzozowska
 ---
 ## **Samotni wśród ludzi**
 
