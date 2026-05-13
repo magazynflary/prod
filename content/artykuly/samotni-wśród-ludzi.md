@@ -1,5 +1,6 @@
 ---
 edition: "0"
+author: kamil-janda
 title: Samotni wśród ludzi
 date: 2026-05-13T06:54:00
 draft: false
