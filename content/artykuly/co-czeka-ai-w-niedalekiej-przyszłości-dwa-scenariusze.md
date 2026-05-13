@@ -8,7 +8,7 @@ image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
 image_credit_author: katarzyna-brzozowska
 ---
-**Co czeka AI w niedalekiej przyszłości? Dwa scenariusze**
+Jakub Bukowski
 
 Mówi się, że przewidywanie jest trudne, szczególnie przewidywanie przyszłości. Ja spróbuję zajrzeć w hipotetyczne krótkoterminowe perspektywy, które mogą czekać AI. Oba te scenariusze prowadzą do kryzysu amerykańskiego modelu ekonomicznego w dwóch różnych wymiarach. Żaden z nich nie jest konieczny; może być przedmiotem sporu, czy są prawdopodobne, jednak oba są  w moim przekonaniu jak najbardziej możliwe. 
 
