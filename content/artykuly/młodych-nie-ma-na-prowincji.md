@@ -17,7 +17,7 @@ Sytuacja kobiet jest tu jeszcze trudniejsza, a pracodawcy podejrzliwie spogląda
 
 W małych miastach juniorskich etatów jest zdecydowanie mniej. Przeważają za to samodzielne stanowiska i małe wykwalifikowane zespoły, co silnie związane jest z wielkością przedsiębiorstw. W niewielkich firmach pojawia się dodatkowa bolączka związana z brakiem chęci przyuczania młodszych do zawodu przez starszych pracowników. Z drugiej strony pracodawcy nie chcą zatrudniać niedoświadczonych bez fachu w rękach. Często więc by wejść na rynek w Polsce samorządowej, trzeba najpierw nabrać doświadczenia w dużym mieście, a potem – obniżając standardy płacowe oraz jakości życia – wrócić i zatrudnić się na takiej samej posadzie w rodzinnej miejscowości. Trochę lepiej sytuacja wygląda na stanowiskach technicznych, gdzie w zależności od zespołu lub potrzeb kadrowych potrzebne kompetencje są przekazywane najbardziej zaradnym pracownikom.
 
-**Przestrzeń nie dla młodych**
+## Przestrzeń nie dla młodych
 
 Wspominałam wcześniej o młodzieży spotykającej się na ławkach w parkach oraz galeriach handlowych; obraz ten jest symptomem istotnego problemu młodych dorosłych na prowincji. Niezależnie od miejscowości obserwujemy brak tzw. trzecich miejsc – przestrzeni spotkań, budowania relacji, wspólnoty. Nie ma ich ani dla nastolatków, ani innych grup wiekowych – dzieci i osób dojrzałych. Dotyczy to zarówno miast wielkości Kłodzka, jak i Krakowa. Szczególnie boleśnie odczuwają to młodzi dorośli, którzy próbują odnaleźć się w „dojrzałych i poważnych” obowiązkach oraz rutynie. Im mniejsza miejscowość, tym problem wyraźniejszy. Brak takich miejsc może także przejść niezauważony przez wiele osób, zwłaszcza wraz ze wzrostem tzw. helikopterowego rodzicielstwa i sejfityzmu, w którym ze względu na bezpieczeństwo dziecka nie pozwalano mu na przebywanie w miejscach, gdzie samodzielnie mogłoby doświadczać nowych aktywności. Gdy osoba nie doświadczyła dobrodziejstw takich miejsc w swoim dzieciństwie, może ona nie czuć potrzeby ich istnienia i nie być świadoma płynących z nich korzyści. Warto przy tym zauważyć, że problem ten został zauważony już w największych miastach i powstają ruchy społeczne starające się adresować problem braku przestrzeni spotkań w dużych aglomeracjach.  
 
@@ -27,7 +27,7 @@ Młodzi potrzebują miejsc do socjalizacji, poznawania osób, z którymi późni
 
 Wobec takich perspektyw młodzi zostają w domu, często z własnym smartfonem czy komputerem i z własnego pokoju kontaktują się ze światem. Muszą w wirtualnej rzeczywistości spotykać znajomych, wyrażać siebie i z małego miasta, opuszczonego nawet przez znajomych ze szkoły, uciec w wielkie internetowe miasto; z przestrzeni fizycznej w cyfrową.
 
-**Brak bratniej duszy**
+## Brak bratniej duszy
 
 Trzeci powód zmniejszonej obecności młodych dorosłych na prowincji jest poniekąd spowodowany poprzednimi dwoma. Wspomniane wcześniej utrudnienia w funkcjonowaniu sprawiają, że w takich rejonach maleje grupa rówieśnicza. Uruchomił się już mechanizm błędnego koła: młodych jest coraz mniej, co przyśpiesza ich dalszy odpływ. Nie mają znajomych w swoim wieku, więc wszyscy współpracownicy, osoby na ulicy, w miejscach spotkań będą starsi: z własną rodziną i poukładanym życiem, co utrudnia nawiązywanie relacji koleżeńskich i przyjaźni.  
 
