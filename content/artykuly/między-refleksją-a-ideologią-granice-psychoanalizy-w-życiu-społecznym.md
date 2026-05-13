@@ -11,7 +11,7 @@ image_credit_author: katarzyna-brzozowska
 ---
 **Współczesny psychoanalityk David Morgan napisał w** „**The unconscious in social and political life**”, że w każdej epoce możemy zaobserwować wpływ pierwotnych lęków na jednostki: od zwykłego niepokoju, przez lęk prześladowczy, aż po lęk przed unicestwieniem. Jednak dopiero XX wiek, za sprawą dokonań Freuda, dostarczył narzędzia, dzięki którym można było zacząć je badać. Doświadczenie drugiej wojny światowej wzmocniło zainteresowanie psychoanalityków badaniem zjawisk socjopolitycznych. Czy, jak chciałaby Hanna Segal, powinniśmy przekroczyć granicę spekulacji, aby zacząć zabierać głos w debacie społecznej? Czy wręcz odwrotnie, wzorem Hinshelwooda lub Kernberga powinniśmy jasno oddzielić psychoanalizę od polityki? Ile dzisiaj zostało z wezwania Segal do działania?
 
-**Prawdziwą zbrodnią jest milczenie**
+## Prawdziwą zbrodnią jest milczenie
 
 W latach osiemdziesiątych żelazna kurtyna wciąż dzieliła świat na dwa obozy. Zimnowojenna codzienność była przepełniona widmem wiszącej nad światem zagłady nuklearnej. W środowisku ówczesnych filozofów spory i debaty zaczęły wykraczać poza pytanie o moralność wojny. Zainteresowani myśliciele nie pytali już o to, czy wojna jest etyczna, lecz czy zasadne jest posługiwanie się groźbą samozniszczenia gatunku w imię strategii odstraszania. Zaangażowani w tę debatę Hanna Segal i Moses Laufer utworzyli nawet sekcję Psychoanalysts for the Prevention of Nuclear War. Segal na jednym ze spotkań Brytyjskiego Towarzystwa Psychoanalizy odczytała swój manifest: *„Silence is the real crime”*. W odróżnieniu od Marcusego czy przedstawicieli szkoły frankfurckiej jej refleksja opierała się bezpośrednio na doświadczeniu praktycznym, nie była tylko teoretyzowaniem. Z dużą przenikliwością potrafiła rozpoznawać i nazywać nieświadome procesy, opisując je w sposób przystępny i zrozumiały. Była też jedną z pierwszych psychoanalityczek, które wyraźnie sformułowały postulat moralnego obowiązku zabierania głosu publicznie.
 
@@ -39,7 +39,7 @@ Z kolei w „*Understanding right-wing populism*” Rustin (2019) stawia pytanie
 
 Rustin uznaje, że prawicowy populizm jest bezpośrednią konsekwencją neoliberalizmu. W jego tekstach widoczna jest inspiracja myślą Adorno. Nie utożsamia on współczesnej sytuacji z sytuacją w Niemczech lat trzydziestych, wskazuje jednak na wyraźne zapożyczenia między dzisiejszym prawicowym populizmem a faszystowską propagandą. Na tej podstawie argumentuje, że społeczności nie zawsze przeżywają żałobę w sposób dojrzały; zamiast tego całe grupy mogą odwoływać się do mechanizmów projekcji i tworzenia kozła ofiarnego jako form zaprzeczenia doznanej straty. Kiedy pojawia się poczucie utraty stabilności, pracy czy dotychczasowej pozycji społecznej, zamiast uznać złożoność tych procesów i realny charakter straty, zaczyna dominować w społeczeństwie potrzeba znalezienia jednoznacznego winnego. Ujęcie to oferuje klarowną i sugestywną interpretację opisywanych procesów, warto jednak postawić pytanie, na ile przyjęta perspektywa wpływa na sposób tej interpretacji.
 
-**Refleksja zamiast działania**
+## Refleksja zamiast działania
 
 Wskazane wyżej ograniczenia nie prowadzą jednak do całkowitego odrzucenia możliwości zaangażowania psychoanalizy w życie społeczne. Przeciwnie, stają się matrycą do wykształcenia granic i warunków, w których takie zaangażowanie może być realizowane w sposób bardziej świadomy i adekwatny do granic samej metody. Oznacza to jednak konieczność przesunięcia akcentu z roszczeń do wyjaśniania rzeczywistości na rzecz uważności wobec sposobów, w jakie ją ujmujemy. Takie podejście wymaga stałej refleksji nad zakresem własnych kompetencji interpretacyjnych. 
 
@@ -61,7 +61,7 @@ Niemniej dyskurs psychoanalityczny, wykorzystywany do analizy społecznej, nie m
 
 Pytanie nie brzmi więc, czy psychoanaliza zawiera w sobie implikacje polityczne, lecz czy potrafi je rozpoznać także we własnym języku i własnych roszczeniach do wiedzy. Oznacza to konieczność skierowania uwagi nie tylko na analizowane zjawiska, ale również na sposób, w jaki sama psychoanaliza je ujmuje i porządkuje. Dopiero taka podwójna refleksyjność pozwala odróżnić moment, w którym staje się ona narzędziem rozumienia, od momentu, w którym zaczyna reprodukować to, co próbuje krytykować.
 
-**Bibliografia:**
+## Bibliografia:
 
 **Bell, D.** (2017). Prawdziwą zbrodnią jest myślenie. Hanna Segal – zaangażowana intelektualistka. W: J. Groth & A. Topolewska (red.), *Współczesne zastosowania psychoanalizy. Perspektywa postkleinowska*. Instytut Studiów Psychoanalitycznych im. Hanny Segal.
 
