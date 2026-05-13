@@ -11,6 +11,8 @@ tags:
   - tekst założycielski
 image: images/uploads/flary-v2.jpg
 ---
+Redakcja
+
 Współczesna przestrzeń komunikacji przypomina czasem ciemny ocean, po którym dryfujemy jak rozbitkowie. Raz po raz przykrywają nas kolejne fale: myślimy w biegu, przyjmujemy informacje w nadmiarze i bez namysłu, upraszczamy pojęcia aż do utraty przez nie pierwotnego sensu. Wygłaszamy opinie, ale nie rozmawiamy. Ci z nas, którym bliska jest potrzeba zrozumienia istoty rzeczy i poświęcenia czasu, by spojrzeć na sprawy z wielu perspektyw, dryfują samotnie, w rozproszeniu. W tej toni można odnaleźć drogę tylko wtedy, gdy na niebie zapalają się FLARY.
 
 „Flary” to magazyn, który będzie  platformą wymiany myśli. Tworzymy miejsce refleksji i analizy. Otwieramy przestrzeń dla szerokich dyskusji i polemik – zarówno z dynamicznie zmieniającą się rzeczywistością społeczną i polityczną, jak i pomiędzy nami samymi. Poważna rozmowa o sprawach publicznych wymaga czasu, namysłu i gotowości do konfrontowania własnych przekonań z poglądami innych. Chcemy, aby „Flary” przyświecały idei rozmowy jako spotkania ludzi o różnych punktach widzenia. 
