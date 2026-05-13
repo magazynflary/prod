@@ -1,5 +1,6 @@
 ---
 edition: "0"
+author: oleksii-cheplianskyi
 title: Studenci w walce o sprawiedliwość i o przyszłość całego kraju
 date: 2026-05-13T06:29:00
 draft: false
@@ -12,8 +13,6 @@ image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
 image_credit_author: katarzyna-brzozowska
 ---
-Oleksii Cheplianskyi
-
 „Można przeszukać pomieszczenia rektoratu, ale nie można przeszukać sumienia ludzi.”– takie słowa padły 31 marca podczas przemówienia rektora Uniwersytetu Belgradzkiego, Vladana Đokića. W tle najazd policji na budynek uniwersytetu, zagadkowa śmierć jednej ze studentek oraz przeciwstawienie się autorytarnej władzy Vučića. 
 
 Uniwersytet w Belgradzie wraz z innymi uniwersytetami w Serbii pozostaje na celowniku władz po tym, jak jesienią 2024 roku władze uniwersyteckie poparły okupację uniwersytetu zorganizowaną przez studentów. Okupacje uniwersytetów odbyły się w największych miastach w Serbii z powodu tragedii, która wydarzyła się 1 listopada 2024 roku w Nowym Sadzie. Przed świeżo wyremontowanym dworcem kolejowym zawaliło się zadaszenie. W wyniku tej tragedii życie straciło 16 osób. Podczas niezależnego śledztwa dziennikarskiego zostało wykrytych wiele nieprawidłowości, które pojawiły się w trakcie realizacji tego projektu – w tym defraudacja środków publicznych Do tej pory nikt nie poniósł odpowiedzialności za tę tragedię. Protesty zorganizowane przez studentów i zwykłych obywateli były atakowane przez policję, co tylko powiększyło antagonizację wobec władzy i skłoniło więcej osób do poparcia protestujących.
