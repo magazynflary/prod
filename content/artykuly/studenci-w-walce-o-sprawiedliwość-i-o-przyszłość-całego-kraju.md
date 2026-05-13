@@ -10,7 +10,10 @@ tags:
 image: images/uploads/studenci-w-walce-o-sprawiedliwość.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
+image_credit_author: katarzyna-brzozowska
 ---
+Oleksii Cheplianskyi
+
 „Można przeszukać pomieszczenia rektoratu, ale nie można przeszukać sumienia ludzi.”– takie słowa padły 31 marca podczas przemówienia rektora Uniwersytetu Belgradzkiego, Vladana Đokića. W tle najazd policji na budynek uniwersytetu, zagadkowa śmierć jednej ze studentek oraz przeciwstawienie się autorytarnej władzy Vučića. 
 
 Uniwersytet w Belgradzie wraz z innymi uniwersytetami w Serbii pozostaje na celowniku władz po tym, jak jesienią 2024 roku władze uniwersyteckie poparły okupację uniwersytetu zorganizowaną przez studentów. Okupacje uniwersytetów odbyły się w największych miastach w Serbii z powodu tragedii, która wydarzyła się 1 listopada 2024 roku w Nowym Sadzie. Przed świeżo wyremontowanym dworcem kolejowym zawaliło się zadaszenie. W wyniku tej tragedii życie straciło 16 osób. Podczas niezależnego śledztwa dziennikarskiego zostało wykrytych wiele nieprawidłowości, które pojawiły się w trakcie realizacji tego projektu – w tym defraudacja środków publicznych Do tej pory nikt nie poniósł odpowiedzialności za tę tragedię. Protesty zorganizowane przez studentów i zwykłych obywateli były atakowane przez policję, co tylko powiększyło antagonizację wobec władzy i skłoniło więcej osób do poparcia protestujących.
@@ -24,7 +27,6 @@ Protesty studenckie oraz okupacje uniwersytetów trwały przez cały 2025 rok, a
 
 Akademia po stronie studentów
 Władze uniwersyteckie na ogół wsparły działania protestujących. Flagowym przykładem jest tutaj Uniwersytet w Belgradzie i jego rektor Vladan Đokić. Już na samym początku protestów rektor stanął po stronie studentów. Bronił ich w mediach oraz otwarcie konfrontował się z władzami. Mówił publicznie, że „Uniwersytet nie jest placówką władz; władze są przemijające, a uniwersytet – instytucją trwałą”, za co spotkała go krytyka i insynuacje, które wychodziły bezpośrednio od prezydenta oraz całego aparatu władzy. 
-
 
 26 marca 2026 roku na Uniwersytecie w Belgradzie wydarzyła się tragedia. Jedna ze studentek wypadła z okna budynku fakultetu filozofii. Policja informowała od początku, że nie rozpatruje udziału osób trzecich w zdarzeniu, a dzięki wynikom badań toksykologicznych dowiedziono, że we krwi dziewczyny nie znajdowały się żadne substancje zakazane. Władze uniwersyteckie zapewniły, że są one otwarte na współpracę ze służbami w celu wyjaśnienia przyczyn tej tragedii. Mimo to prorządowe media obwiniły ich za śmierć studentki. 31 marca służby bezprawnie wkroczyły na teren kampusu i rekwirowały z budynku rektoratu serwery oraz inny sprzęt, który nie miał związku z tragedią. Operacja spotkała się ze zdecydowanym oporem społeczeństwa. W ciągu kilku godzin na terenie kampusu zebrał się tłum protestujący przeciwko bezprawnej akcji policji. Właśnie podczas tego protestu rektor Đokić wypowiedział słynne słowa: „Można przeszukać pomieszczenia rektoratu, ale nie można przeszukać sumienia ludzi.”. Podczas swojego przemówienia rektor podkreślił, że nie da się zastraszyć oraz przypomniał, że wciąż nikt nie poniósł odpowiedzialności za śmierć 16 osób w Nowym Sadzie. Kilka dni po proteście na kampusie rektor został wezwany na nadzwyczajną sesję Komisji Edukacji, podczas której ponownie ostro skrytykował władze państwowe. „Gdzie była ta sama determinacja i mobilizacja społeczna, gdy w wyniku zawalenia się dachu zginęło 16 osób?” – zapytał on wprost przewodniczącej Parlamentu Serbii Any Brnabić. 
 
