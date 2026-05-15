@@ -1152,6 +1152,7 @@ main {
    ============================================================ */
 .team-section {
     margin-bottom: var(--space-12);
+    display: none;
 }
 
 .team-card {
