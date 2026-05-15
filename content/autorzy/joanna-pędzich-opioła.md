@@ -1,6 +1,7 @@
 ---
 name: Joanna Pędzich-Opioła
 is_active: true
+is_editor: true
 role: Zastępczyni Koordynatora Wydawniczego, redaktorka językowa, graficzka, a
   jeśli kiedyś zajdzie potrzeba – detepowiec. Poprawia przecinki i niespójności
   językowe oraz czepia się layoutu.
