@@ -1,7 +1,7 @@
 ---
 title: O nas
 date: 2026-02-07T10:00:00
-draft: true
+draft: false
 layout: about
 ---
 Jesteśmy niezależnym pismem internetowym poświęconym publicystyce politycznej i kulturalnej z perspektywy lewicowej. Publikujemy artykuły, eseje i recenzje — o pracy, prawach człowieka, kulturze oporu i nie tylko.
