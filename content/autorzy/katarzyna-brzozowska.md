@@ -1,6 +1,7 @@
 ---
 name: Katarzyna Brzozowska
 is_active: true
+is_editor: true
 role: Graficzka, tworzę ilustracje
 weight: 1
 bio: Z wykształcenia jestem architektką, zawodowo przez lata zajmowałam się
