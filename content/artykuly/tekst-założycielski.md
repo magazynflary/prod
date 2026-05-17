@@ -5,7 +5,7 @@ date: 2026-04-30T21:09:00
 draft: false
 image_credit_author: katarzyna-brzozowska
 image_focus: 50% 50%
-title: O nas
+title: Od Redakcji
 tags:
   - prezentacja
   - tekst założycielski
