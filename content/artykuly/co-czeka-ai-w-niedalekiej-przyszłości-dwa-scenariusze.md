@@ -24,7 +24,9 @@ Współpraca pomiędzy nimi byłaby w takim przypadku naturalną konsekwencją o
 
 Znacznie ważniejszym wyznacznikiem tego, że AI może być bańką , jest właśnie ilość kapitału, jaki jest  pompowany w ten sektor. Sztuczna inteligencja może być po prostu przeinwestowana i nie przyczyniać się do takiego wzrostu produktywności, jaki jest optymistycznie zakładany. Jeśli technologia nie wzmocni znacząco produktywności, dochody przestaną rosnąć w wystarczającym tempie, by uzasadniać tę gigantyczną kapitalizację. 
 
-Najbardziej problematycznym aspektem sztucznej inteligencji jest fakt, że amerykańska gospodarka odnotowała wzrost niemal całkowicie dzięki nakładom na sztuczną inteligencję. Bez inwestycji w centra danych wzrost amerykańskiej byłby znacznie mniejszy. 
+{{< pullquote >}}
+
+Najbardziej problematycznym aspektem sztucznej inteligencji jest fakt, że amerykańska gospodarka odnotowała wzrost niemal całkowicie dzięki nakładom na sztuczną inteligencję. Bez inwestycji w centra danych wzrost amerykańskiej byłby znacznie mniejszy.{{< /pullquote >}} 
 
 Jeszcze większa jest zależność wzrostu giełdy amerykańskiej od spółek AI. Pięć największych firm AI odpowiada za prawie 30% wartości indeksu S&P 500. Wnioski nasuwają się same. Przyszły dobrostan USA jest wprost sprzężony z sukcesem lub porażką AI. Jak określił to Financial Times, gospodarka amerykańska jest jednym wielkim zakładem na AI. Jeśli AI nie dowiezie, gospodarka Stanów Zjednoczonych znajdzie się w poważnych opałach. 
 
