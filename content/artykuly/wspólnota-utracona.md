@@ -9,9 +9,7 @@ image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
 image_credit_author: katarzyna-brzozowska
 ---
-**Wspólnota utracona?**
-
-**Coraz częściej w przestrzeni publicznej słyszymy wezwania do odbudowy wspólnoty. Politycy z sejmowych mównic, uczestnicy debat telewizyjnych czy twórcy w mediach społecznościowych powtarzają: „Polacy muszą odbudować wspólnotę”, „Polacy muszą znów być jednością”. Zdania te brzmią efektownie, łatwo zapadają w pamięć, ale niemal zawsze pozostają pustymi deklaracjami. Łatwo powiedzieć coś takiego w studiu telewizyjnym czy zamieścić patetyczny post na Twitterze. Trudniej po zejściu z mównicy pójść na zebranie wspólnoty mieszkaniowej, gdzie sąsiad z pierwszego piętra upiera się, że nie da złotówki na remont windy, bo przecież można chodzić schodami. Tam dopiero zaczyna się prawdziwa wspólnota – w znoju, w różnicy zdań, w konieczności znalezienia konsensusu i kompromisowego rozwiązania.**
+Coraz częściej w przestrzeni publicznej słyszymy wezwania do odbudowy wspólnoty. Politycy z sejmowych mównic, uczestnicy debat telewizyjnych czy twórcy w mediach społecznościowych powtarzają: „Polacy muszą odbudować wspólnotę”, „Polacy muszą znów być jednością”. Zdania te brzmią efektownie, łatwo zapadają w pamięć, ale niemal zawsze pozostają pustymi deklaracjami. Łatwo powiedzieć coś takiego w studiu telewizyjnym czy zamieścić patetyczny post na Twitterze. Trudniej po zejściu z mównicy pójść na zebranie wspólnoty mieszkaniowej, gdzie sąsiad z pierwszego piętra upiera się, że nie da złotówki na remont windy, bo przecież można chodzić schodami. Tam dopiero zaczyna się prawdziwa wspólnota – w znoju, w różnicy zdań, w konieczności znalezienia konsensusu i kompromisowego rozwiązania.
 
 Ilu z nas słuchając tego typu apeli czy wezwań myśli: „Tak, zgadzam się, ale co to naprawdę znaczy?”, „Jak to zrobić?”, „Od czego zacząć?”. Na co dzień bowiem doświadczamy czegoś zupełnie odwrotnego: coraz głębszego rozpadu więzi, coraz większej samotności, coraz bardziej bolesnego poczucia oddzielenia. Nasza codzienność to raczej kakofonia zagłuszających się nawzajem głosów niż harmonijny głos chóru. 
 
@@ -23,11 +21,19 @@ Jednym z największych problemów, na który zwracają uwagę badacze, jest chro
 
 Każdy ruch, każda aktywność, każda inicjatywa wymaga podwójnego wysiłku, bo zawsze towarzyszy im podejrzliwość. Działanie potrzebuje dodatkowej energii, a ta jest dzisiaj towarem deficytowym. Nawet tam, gdzie energia społeczna istnieje, łatwo zwycięża przekonanie, że „lepiej nie ryzykować”, „to się nie uda”, „nie ma sensu ufać”.
 
-Nieufność ma swoje źródła historyczne – w doświadczeniu zaborów, okupacji, komunizmu czy transformacji ustrojowej, a jej wpływ na funkcjonowanie wspólnoty jest zdecydowanie negatywny. Prof. Krystyna Skarżyńska pokazuje, że brak zaufania przekłada się na słabość instytucji, brak kapitału społecznego, utrudnienia w rozwoju społeczeństwa obywatelskiego i rozwoju demokracji w ogóle.
+{{< pullquote >}}
+Nieufność ma swoje źródła historyczne – w doświadczeniu zaborów, okupacji, komunizmu czy transformacji ustrojowej, a jej wpływ na funkcjonowanie wspólnoty jest zdecydowanie negatywny. 
+{{< /pullquote >}}
 
-Kolejnym wymiarem kryzysu jest zmęczenie polaryzacją i konfliktem politycznym. Raport z 2023 r.*Zmęczona wspólnota. Co łączy i dzieli polskie społeczeństwo* opracowany przez More in Common wskazuje, że Polacy są przytłoczeni wiecznym sporem dwóch obozów politycznych. Polaryzacja pożera całą przestrzeń publiczną, redukując tożsamości do barw partyjnych. Wielu ludzi wycofuje się w prywatność: do rodziny, najbliższego kręgu znajomych, własnego podwórka. To mechanizm obronny, a jego konsekwencją jest dalszy rozpad więzi.
+Prof. Krystyna Skarżyńska pokazuje, że brak zaufania przekłada się na słabość instytucji, brak kapitału społecznego, utrudnienia w rozwoju społeczeństwa obywatelskiego i rozwoju demokracji w ogóle.
 
-Raport pokazuje także, że mimo różnic Polacy mają wiele wspólnych trosk: poczucie niestabilności, lęk przed przyszłością, obawa o bezpieczeństwo. Ale te wspólne elementy rzadko stają się podstawą współpracy, bo są przesłonięte przez narrację konfliktu. To paradoks: potencjał wspólnoty istnieje, ale nie znajduje możliwości wyrazu.
+Kolejnym wymiarem kryzysu jest zmęczenie polaryzacją i konfliktem politycznym. Raport z 2023 r. *Zmęczona wspólnota. Co łączy i dzieli polskie społeczeństwo* opracowany przez More in Common wskazuje, że Polacy są przytłoczeni wiecznym sporem dwóch obozów politycznych. Polaryzacja pożera całą przestrzeń publiczną, redukując tożsamości do barw partyjnych. Wielu ludzi wycofuje się w prywatność: do rodziny, najbliższego kręgu znajomych, własnego podwórka. To mechanizm obronny, a jego konsekwencją jest dalszy rozpad więzi.
+
+Raport pokazuje także, że mimo różnic Polacy mają wiele wspólnych trosk: poczucie niestabilności, lęk przed przyszłością, obawa o bezpieczeństwo. Ale te wspólne elementy rzadko stają się podstawą współpracy, bo są przesłonięte przez narrację konfliktu. 
+
+{{< pullquote >}}
+To paradoks: potencjał wspólnoty istnieje, ale nie znajduje możliwości wyrazu.
+{{< /pullquote >}}
 
 **Mit samowystarczalności** 
 
@@ -69,7 +75,13 @@ Można przywołać w tym miejscu wsparcie dla przedsiębiorców w czasie pandemi
 
 **Wspólnota odzyskana?**
 
-W Polsce nie brakuje energii do działania. Mamy szereg cech, które odróżniają nas od innych narodów. Cechy te pomogły nam przetrwać długi okres bez własnego państwa. To co dzisiaj nazywamy przedsiębiorczością, „za komuny” było umiejętnością kombinowania, a w I Rzeczpospolitej nazywało się „genem republikańskim”. Możemy sobie nazywać to jak chcemy. Jednak ta energia, pewna nieszablonowość działania, umiejętność funkcjonowania w trudnym otoczeniu, czy „branie spraw w swoje ręce” są w nas i mogą być wielką siłą, jeśli zostaną dobrze wykorzystane.
+W Polsce nie brakuje energii do działania. Mamy szereg cech, które odróżniają nas od innych narodów. Cechy te pomogły nam przetrwać długi okres bez własnego państwa. 
+
+{{< pullquote >}}
+To co dzisiaj nazywamy przedsiębiorczością, „za komuny” było umiejętnością kombinowania, a w I Rzeczpospolitej nazywało się „genem republikańskim”. 
+{{< /pullquote >}}
+
+Możemy sobie nazywać to jak chcemy. Jednak ta energia, pewna nieszablonowość działania, umiejętność funkcjonowania w trudnym otoczeniu, czy „branie spraw w swoje ręce” są w nas i mogą być wielką siłą, jeśli zostaną dobrze wykorzystane.
 
 Rola centralnej władzy powinna ograniczać się do odpowiedniego rozkładania akcentów, wybierania kierunków rozwoju i alokowania środków finansowych. Po to, aby nasze działanie nie było kolejnym pospolitym ruszeniem tylko miały bardziej ustrukturyzowany, systemowy charakter. Po to, aby lokalnie odzwierciedlały zadania, jakie stoją przed państwem i cele, jakie państwo chce zrealizować. Ale to my – obywatele żyjący w danej lokalnej społeczności – lepiej wiemy, co jest nam konkretnie potrzebne tu na miejscu. Inaczej wygląda to w moim rodzinnym Poznaniu, a inaczej, u kogoś kto mieszka w podsuwalskiej wsi. 
 
