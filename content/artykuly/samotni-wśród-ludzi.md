@@ -9,14 +9,14 @@ image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
 image_credit_author: katarzyna-brzozowska
 ---
-**Dzień w polskim mieście wygląda dziś podobnie niezależnie od tego, czy chodzi o Warszawę, Wrocław, Lublin czy Olsztyn. Ktoś wychodzi z mieszkania, schodzi do garażu albo szybkim krokiem mija sąsiadów na klatce, nie odrywając wzroku od telefonu. Wsiada do auta lub tramwaju, dojeżdża do biura i spędza tam osiem godzin wśród współpracowników, z którymi częściej rozmawia przez firmowy komunikator niż przy kawie. W drodze powrotnej odbiera paczkę z paczkomatu, wpada do dyskontu, a wieczorem zamawia kolację przez aplikację. Po drodze mija dziesiątki, może setki osób. Nie zatrzymuje się przy żadnej.**
+Dzień w polskim mieście wygląda dziś podobnie niezależnie od tego, czy chodzi o Warszawę, Wrocław, Lublin czy Olsztyn. Ktoś wychodzi z mieszkania, schodzi do garażu albo szybkim krokiem mija sąsiadów na klatce, nie odrywając wzroku od telefonu. Wsiada do auta lub tramwaju, dojeżdża do biura i spędza tam osiem godzin wśród współpracowników, z którymi częściej rozmawia przez firmowy komunikator niż przy kawie. W drodze powrotnej odbiera paczkę z paczkomatu, wpada do dyskontu, a wieczorem zamawia kolację przez aplikację. Po drodze mija dziesiątki, może setki osób. Nie zatrzymuje się przy żadnej.
 
 Nie oznacza to jeszcze osamotnienia w potocznym sensie. Ta osoba ma rodzinę, znajomych, grupy w komunikatorach i ludzi z pracy. A jednak w tej codzienności jest coś pustego. Między mieszkaniem, samochodem, biurem a ekranem zostaje dziś niewiele przestrzeni na przypadkowe spotkanie.
 
 Jeszcze dwie lub trzy dekady temu ten sam dzień wyglądałby inaczej. Nie dlatego, że ludzie byli bardziej serdeczni albo mniej zajęci. Codzienność była po prostu gęściej utkana z miejsc pośrednich. Był kiosk, w którym sprzedawca znał klientów po imieniu, bazarek, na którym kupowało się warzywa od tej samej osoby, ławka pod blokiem, osiedlowy sklep, biblioteka, klub osiedlowy, podwórko pełne dzieci. W wielu miejscach te przestrzenie zniknęły. Ich miejsce zajęły parkingi, zamknięte osiedla, galerie handlowe i platformy dostawcze. Małe spotkania znikają bez większego hałasu, ale ich brak zmienia codzienność.
 
 {{< pullquote >}}
-Kryzys samotności, o którym coraz częściej mówi się w Polsce i na świecie, nie jest wyłącznie problemem psychologicznym ani skutkiem indywidualnych zaniedbań. To także efekt tego, jak zostały urządzone miasta, osiedla i rytm codziennego życia. 
+Kryzys samotności, o którym coraz częściej mówi się w Polsce i na świecie, nie jest wyłącznie problemem psychologicznym ani skutkiem indywidualnych zaniedbań. To także efekt tego, jak zostały urządzone miasta, osiedla i rytm codziennego życia.
 {{< /pullquote >}}
 
 Trudno oczekiwać, że ludzie będą częściej się spotykać, jeśli coraz rzadziej mają gdzie i kiedy to robić.
