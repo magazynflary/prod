@@ -15,7 +15,11 @@ Nie oznacza to jeszcze osamotnienia w potocznym sensie. Ta osoba ma rodzinę, zn
 
 Jeszcze dwie lub trzy dekady temu ten sam dzień wyglądałby inaczej. Nie dlatego, że ludzie byli bardziej serdeczni albo mniej zajęci. Codzienność była po prostu gęściej utkana z miejsc pośrednich. Był kiosk, w którym sprzedawca znał klientów po imieniu, bazarek, na którym kupowało się warzywa od tej samej osoby, ławka pod blokiem, osiedlowy sklep, biblioteka, klub osiedlowy, podwórko pełne dzieci. W wielu miejscach te przestrzenie zniknęły. Ich miejsce zajęły parkingi, zamknięte osiedla, galerie handlowe i platformy dostawcze. Małe spotkania znikają bez większego hałasu, ale ich brak zmienia codzienność.
 
-Kryzys samotności, o którym coraz częściej mówi się w Polsce i na świecie, nie jest wyłącznie problemem psychologicznym ani skutkiem indywidualnych zaniedbań. To także efekt tego, jak zostały urządzone miasta, osiedla i rytm codziennego życia. Trudno oczekiwać, że ludzie będą częściej się spotykać, jeśli coraz rzadziej mają gdzie i kiedy to robić.
+{{< pullquote >}}
+Kryzys samotności, o którym coraz częściej mówi się w Polsce i na świecie, nie jest wyłącznie problemem psychologicznym ani skutkiem indywidualnych zaniedbań. To także efekt tego, jak zostały urządzone miasta, osiedla i rytm codziennego życia. 
+{{< /pullquote >}}
+
+Trudno oczekiwać, że ludzie będą częściej się spotykać, jeśli coraz rzadziej mają gdzie i kiedy to robić.
 
 ## Czym są trzecie miejsca
 
@@ -51,7 +55,11 @@ Trzecim ważnym procesem jest cyfryzacja relacji. Nie chodzi o proste potępieni
 
 Relacje online mają inny charakter niż te zakorzenione w miejscu. Są bardziej selektywne i bardziej intencjonalne. W sieci łatwo komunikować się z ludźmi podobnymi do siebie i robić to wtedy, gdy ma się na to ochotę. Trzecie miejsca działają inaczej. Mieszają ludzi, którzy w internecie mogliby się nigdy nie spotkać. Dają miejsce przypadkowi, regularności i drobnym gestom. Sieć dobrze podtrzymuje relacje, ale słabiej tworzy lokalny świat współobecności. Zawęża też często społeczne otoczenie, bo podsuwa przede wszystkim treści i ludzi podobnych. Tymczasem codzienne życie społeczne potrzebuje także kontaktu z tym, co nie zostało wcześniej wybrane.
 
-Znaczenie ma również to, że dom przejął dziś wiele funkcji, które dawniej były rozproszone. Stał się miejscem pracy, odpoczynku, kontaktu, konsumpcji i rozrywki. Praca zdalna, zakupy online, dostawy jedzenia, serwisy streamingowe i telemedycyna są wygodne. Razem tworzą jednak rzeczywistość, w której można przeżyć cały tydzień, nie zamieniając z nikim kilku zdań twarzą w twarz. Wygoda technologiczna ma także koszt społeczny.
+Znaczenie ma również to, że dom przejął dziś wiele funkcji, które dawniej były rozproszone. Stał się miejscem pracy, odpoczynku, kontaktu, konsumpcji i rozrywki. Praca zdalna, zakupy online, dostawy jedzenia, serwisy streamingowe i telemedycyna są wygodne. Razem tworzą jednak rzeczywistość, w której można przeżyć cały tydzień, nie zamieniając z nikim kilku zdań twarzą w twarz. 
+
+{{< pullquote >}}
+Wygoda technologiczna ma także koszt społeczny.
+{{< /pullquote >}}
 
 ## Skutki: anonimowość, nieufność, obcość
 
