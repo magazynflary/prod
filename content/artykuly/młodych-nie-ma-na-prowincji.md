@@ -15,7 +15,13 @@ Pomimo chęci pozostania w rodzinnej miejscowości młodzi bardzo często zmusze
 
 Sytuacja kobiet jest tu jeszcze trudniejsza, a pracodawcy podejrzliwie spoglądają na młode dziewczyny, błędnie wierząc w szkodliwy mit o zwiększeniu kosztów, jakie firma rzekomo ponosi na rzecz pracownicy, gdyby ta potencjalnie zaszła w ciąże. W mniejszych miejscowościach brak jest też dużych korporacji, w których młodym obojgu płci łatwiej jest odnaleźć się na początkowych etapach, często też oferujących wdrożeniowe etaty. Kobiety zaś są częściej przyjmowane w dużych przedsiębiorstwach dzięki ich potencjalnie wyższej ugodowości.  
 
-W małych miastach juniorskich etatów jest zdecydowanie mniej. Przeważają za to samodzielne stanowiska i małe wykwalifikowane zespoły, co silnie związane jest z wielkością przedsiębiorstw. W niewielkich firmach pojawia się dodatkowa bolączka związana z brakiem chęci przyuczania młodszych do zawodu przez starszych pracowników. Z drugiej strony pracodawcy nie chcą zatrudniać niedoświadczonych bez fachu w rękach. Często więc by wejść na rynek w Polsce samorządowej, trzeba najpierw nabrać doświadczenia w dużym mieście, a potem – obniżając standardy płacowe oraz jakości życia – wrócić i zatrudnić się na takiej samej posadzie w rodzinnej miejscowości. Trochę lepiej sytuacja wygląda na stanowiskach technicznych, gdzie w zależności od zespołu lub potrzeb kadrowych potrzebne kompetencje są przekazywane najbardziej zaradnym pracownikom.
+W małych miastach juniorskich etatów jest zdecydowanie mniej. Przeważają za to samodzielne stanowiska i małe wykwalifikowane zespoły, co silnie związane jest z wielkością przedsiębiorstw. W niewielkich firmach pojawia się dodatkowa bolączka związana z brakiem chęci przyuczania młodszych do zawodu przez starszych pracowników. Z drugiej strony pracodawcy nie chcą zatrudniać niedoświadczonych bez fachu w rękach. 
+
+{{< pullquote >}}
+Często więc by wejść na rynek w Polsce samorządowej, trzeba najpierw nabrać doświadczenia w dużym mieście, a potem – obniżając standardy płacowe oraz jakości życia – wrócić i zatrudnić się na takiej samej posadzie w rodzinnej miejscowości. 
+{{< /pullquote >}}
+
+Trochę lepiej sytuacja wygląda na stanowiskach technicznych, gdzie w zależności od zespołu lub potrzeb kadrowych potrzebne kompetencje są przekazywane najbardziej zaradnym pracownikom.
 
 ## Przestrzeń nie dla młodych
 
@@ -25,7 +31,11 @@ Gdy dojrzewająca osoba wyrośnie już z placów zabaw, dostępna jej publiczna 
 
 Młodzi potrzebują miejsc do socjalizacji, poznawania osób, z którymi później mogą chodzić do kina, organizować domówki czy tworzyć rozmaite formy wspólnot, dzielić zainteresowania czy ambicje. Zwłaszcza na prowincji brakuje nam miejsc do budowania tożsamości czy rozwijania pasji. Gdzieniegdzie znajdziemy jeszcze takie punkty jak stary skatepark, przyszkolny orlik, park czy – dla tych starszych – nowopowstały bar, ale i on często zniknie szybciej niż się pojawił. Zmniejsza się za to rola domów kultury, kół zainteresowań, amatorskich klubów sportowych – zwłaszcza, gdy wzrasta liczba kilometrów do najbliższego miasta wojewódzkiego. Im bliżej do takiego miasta, tym więcej osób dojeżdża tam do pracy, przez co oczekiwania co do usług wpływają na zwiększenie aktywności instytucji społecznych.  
 
-Wobec takich perspektyw młodzi zostają w domu, często z własnym smartfonem czy komputerem i z własnego pokoju kontaktują się ze światem. Muszą w wirtualnej rzeczywistości spotykać znajomych, wyrażać siebie i z małego miasta, opuszczonego nawet przez znajomych ze szkoły, uciec w wielkie internetowe miasto; z przestrzeni fizycznej w cyfrową.
+Wobec takich perspektyw młodzi zostają w domu, często z własnym smartfonem czy komputerem i z własnego pokoju kontaktują się ze światem. 
+
+{{< pullquote >}}
+Muszą w wirtualnej rzeczywistości spotykać znajomych, wyrażać siebie i z małego miasta, opuszczonego nawet przez znajomych ze szkoły, uciec w wielkie internetowe miasto; z przestrzeni fizycznej w cyfrową.
+{{< /pullquote >}}
 
 ## Brak bratniej duszy
 
@@ -33,7 +43,9 @@ Trzeci powód zmniejszonej obecności młodych dorosłych na prowincji jest poni
 
 Powoduje to oczywistą trudność we wchodzeniu w związki romantyczne. Problem ten dotyka wszystkich na etapie wczesnej dorosłości, ale nie można ukryć, że jest dotkliwszy dla młodych mężczyzn, którzy, jeśli nie znaleźli partnerki w szkole średniej lub w trakcie studiów, często pozostają samotni na prowincji. Nierzadko, pomimo bardzo dobrych predyspozycji psychologicznych czy życiowych, nie mają szans na spotkanie drugiej połówki, bo zwyczajnie młodych kobiet poza metropoliami jest mniej i wciąż ich ubywa.   
 
+{{< pullquote >}}
 Z całym bagażem samotności, nieradzenia sobie z wyzwaniami dorosłości i dużym poczuciem niesprawiedliwości wiele osób żałuje powrotów i pozostania w rodzinnych stronach. 
+{{< /pullquote >}}
 
 Powodów tego stanu rzeczy jest oczywiście więcej: zarówno samych problemów Polski samorządowej, jak i obecnych post-wspólnotowych czasów. Warto wymienić także wykluczenie komunikacyjne, które utrudnia dostanie się do innych aglomeracji w poszukiwaniu rozwiązania powyższych problemów. Na prowincji często brak też przestrzeni do realizacji nietypowych ścieżek kariery, jak artystyczna, aktywistyczna oraz z zakresu rozwoju społecznego lub innych scenariuszy życiowych, które nie mieszczą się w standardowym duecie „etat z rodziną”.
 
