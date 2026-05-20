@@ -28,7 +28,7 @@ Najbardziej problematycznym aspektem sztucznej inteligencji jest fakt, że amery
 
 Jeszcze większa jest zależność wzrostu giełdy amerykańskiej od spółek AI. Pięć największych firm AI odpowiada za prawie 30% wartości indeksu S&P 500. Wnioski nasuwają się same. Przyszły dobrostan USA jest wprost sprzężony z sukcesem lub porażką AI. Jak określił to Financial Times, gospodarka amerykańska jest jednym wielkim zakładem na AI. Jeśli AI nie dowiezie, gospodarka Stanów Zjednoczonych znajdzie się w poważnych opałach. 
 
-Tezie, że sztuczna inteligencja jest bańką, wiarygodności dodają stwierdzenia CEO czołowych spółek. Otwarcie  przyznają oni,  i przyjmują ten stan rzeczy z otwartymi ramionami, że są częścią sztucznie pompowanego balonika. 
+Tezie, że sztuczna inteligencja jest bańką, wiarygodności dodają stwierdzenia CEO czołowych spółek. Otwarcie  przyznają oni, i przyjmują ten stan rzeczy z otwartymi ramionami, że są częścią sztucznie pompowanego balonika. 
 
 Sam Altman, prezes OpenAI, twierdzi, że „AI będzie wielką wygraną netto dla ekonomii, nawet jeśli olbrzymia ilość pieniędzy zostanie stracona”, a zdaniem Jeffa Bezosa, CEO Amazonu, AI jest przykładem „dobrej bańki”. 
 
@@ -38,9 +38,13 @@ Pęknięcie tej  bańki będzie bolesne dla konkretnych inwestorów i firm, sztu
 
 Sztuczna inteligencja odpowiada za wzrost, ale nie jest w samym centrum struktury finansowej amerykańskiej gospodarki, tak jak było to w przypadku hipotek subprime w 2008. Kryzys będzie dotkliwy, ale zlokalizowany, podobnie jak pęknięcie bańki dot-com. 
 
-Historycznie, bańki często poprzedzały technologie, które okazywały się społecznie transformacyjnymi. Ostatecznie bańki pękały, ale nie doprowadzało to do zatrzymania rozwoju technologii, a jedynie do autokorekty rynkowej.
 
- Tak było w przypadku rozwoju kolei w USA w XIX wieku. Budowie kolei towarzyszyła bańka spekulacyjna, która w końcu pękła i wiele inwestorów i firm zbankrutowało. Infrastruktura jednak została, co przyczyniło się do rozwoju Stanów Zjednoczonych. 
+
+{{< pullquote >}}
+Historycznie, bańki często poprzedzały technologie, które okazywały się społecznie transformacyjnymi. Ostatecznie bańki pękały, ale nie doprowadzało to do zatrzymania rozwoju technologii, a jedynie do autokorekty rynkowej.
+{{< /pullquote >}}
+
+Tak było w przypadku rozwoju kolei w USA w XIX wieku. Budowie kolei towarzyszyła bańka spekulacyjna, która w końcu pękła i wiele inwestorów i firm zbankrutowało. Infrastruktura jednak została, co przyczyniło się do rozwoju Stanów Zjednoczonych. 
 
 ## Drugi scenariusz - zawirowania na rynku pracy
 
@@ -52,7 +56,7 @@ Kluczowym założeniem jest to, że biało-kołnierzykowy rynek pracy zostanie w
 
 Agenci AI to programy używające sztucznej inteligencji, które mają pełnić funkcję personalnego asystenta. Mogą one podejmować autonomiczne oraz nakierowane na określony cel działania. Bazują one na podobnych fundamentach jak generatywne AI, ale dodatkowo podejmują decyzje i są w stanie wykonywać całe ciągi działań samodzielnie. 
 
-Jeśli ktoś obecnie jest wyraźnie optymistyczny względem możliwości sztucznej inteligencji na zrewolucjonizowanie produktywności, prawdopodobnie wiąże je z agenturalną AI.  Ewentualnie marzy o generalnej sztucznej inteligencji, czyli systemach, które byłyby faktycznie świadome. Od takiej technologii nadal jesteśmy bardzo daleko. 
+Jeśli ktoś obecnie jest wyraźnie optymistyczny względem możliwości sztucznej inteligencji na zrewolucjonizowanie produktywności, prawdopodobnie wiąże je z agenturalną AI. Ewentualnie marzy o generalnej sztucznej inteligencji, czyli systemach, które byłyby faktycznie świadome. Od takiej technologii nadal jesteśmy bardzo daleko. 
 
 Można łatwo wyobrazić sobie zwolnienia na dużą skalę, jeśli firmy zdecydowałyby się zintegrować technologię w swoich operacjach. Taki scenariusz wydaje się prawdopodobny, biorąc pod uwagę, że redukcje, przynajmniej oficjalnie, motywowane zwiększeniem efektywności już się rozpoczęły. W zeszłym roku Amazon zwolnił w dwóch falach 30 tysięcy pracowników z korporacyjnych pozycji, podając inwestycje w sztuczną inteligencję jako główny powód zwolnień. 
 
@@ -63,9 +67,9 @@ Bezrobocie wzrosłoby gwałtownie, a ludzie z braku możliwości  zostaliby zmus
 
 Co bardziej sceptyczni mogą uznać takie scenariusze za zbyt katastrofalne. Być może AI zmieni rynek pracy, ale stanie się to, co działo się przy adaptacji każdej kluczowej technologii. Wiele ludzi straci pracę, ale w zamian powstaną nowe miejsca pracy, część ściśle powiązanych ze sztuczną inteligencją, a inne pośrednio. Zawody jak trenerzy AI lub eksperci od etycznego użycia AI mogą stać się atrakcyjnymi ścieżkami kariery. 
 
-Jednocześnie w tym momencie wiele firm boryka się z trudnościami w zintegrowaniu sztucznej inteligencji tak, by zwiększała ona produktywność. Każdy chce używać AI w swojej, ale mało kto wie, jak to zrobić. Firmy, które przez ostatnie miesiące zwalniały pracowników, wierząc, że AI pozwoli im zautomatyzować ich pracę, dzisiaj żałują swoich decyzji albo w rzeczywistości  outsourcowały pracę tańszym pracownikom, korzystając z AI jedynie jako wymówki do zwolnień. Sztuczna inteligencja jest bardzo daleka od bycia zdolną do całkowitego zastępowania pracowników. 
+Jednocześnie w tym momencie wiele firm boryka się z trudnościami w zintegrowaniu sztucznej inteligencji tak, by zwiększała ona produktywność. Każdy chce używać AI w swojej, ale mało kto wie, jak to zrobić. Firmy, które przez ostatnie miesiące zwalniały pracowników, wierząc, że AI pozwoli im zautomatyzować ich pracę, dzisiaj żałują swoich decyzji albo w rzeczywistości outsourcowały pracę tańszym pracownikom, korzystając z AI jedynie jako wymówki do zwolnień. Sztuczna inteligencja jest bardzo daleka od bycia zdolną do całkowitego zastępowania pracowników. 
 
-To najpewniej prawda, lecz trzeba zauważyć dwie rzeczy. Po pierwsze, AI może być unikatowe w tym, że ma potencjał do zastąpienia czegoś, co nigdy wcześniej nie mogło być zastąpione - ludzkiego intelektu. Po drugie, faktycznie AI radzi sobie bardzo słabo w wykonywaniu całego spektrum zadań pracowników, ale w skomplikowanych zadaniach z dużą ilością danych już dzisiaj radzi sobie znakomicie. 
+To najpewniej prawda, lecz trzeba zauważyć dwie rzeczy. Po pierwsze, AI może być unikatowe w tym, że ma potencjał do zastąpienia czegoś, co nigdy wcześniej nie mogło być zastąpione – ludzkiego intelektu. Po drugie, faktycznie AI radzi sobie bardzo słabo w wykonywaniu całego spektrum zadań pracowników, ale w skomplikowanych zadaniach z dużą ilością danych już dzisiaj radzi sobie znakomicie. 
 
 Wymienione powyżej możliwości to tylko dwa z wielu potencjalnych przebiegów wydarzeń, jakie mogą spotkać technologię sztucznej inteligencji w niedalekiej przyszłości. Nie są one ze sobą zbieżne, ale nie wykluczają też siebie nawzajem, zwłaszcza jeśli przyznamy, że pewne procesy mogą zdarzyć się później. 
 
