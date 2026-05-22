@@ -42,7 +42,7 @@
       {{- end -}}
     {{- end -}}
     {{- if not $socialImageSrc -}}
-      {{- $socialImageSrc = "images/logo.webp" -}}
+      {{- $socialImageSrc = "images/logo.png" -}}
     {{- end -}}
     {{- $src := strings.TrimLeft "/" $socialImageSrc -}}
     {{- $isExternal := or (hasPrefix $src "http://") (hasPrefix $src "https://") -}}
@@ -118,7 +118,7 @@
         "name": "{{ .Site.Title }}",
         "logo": {
           "@type": "ImageObject",
-          "url": "{{ "images/logo.webp" | absURL }}"
+          "url": "{{ "images/logo.png" | absURL }}"
         }
       }
     }
