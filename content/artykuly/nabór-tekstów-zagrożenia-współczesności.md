@@ -19,7 +19,7 @@ W pełni niezależna inicjatywa Magazynu „Flary” rozpoczyna nabór tekstów 
 
 Posiadasz wiedzę lub zainteresowania, które mogą wzbogacić debatę publiczną na temat wyzwań i zagrożeń współczesnego świata? Jesteś pasjonatem, który ma przemyślenia warte przedstawienia szerszemu gronu odbiorców? A może po prostu uważasz, że masz coś wartościowego do powiedzenia?
 
-Jeśli tak, wyślij nam swój tekst, a my pomożemy Ci go opracować i opublikować.
+Jeśli tak, wyślij nam swój tekst na **redakcja@magazynflary.pl**, a my pomożemy Ci go opracować i opublikować.
 
 **Termin nadsyłania tekstów: 30.06**\
 \
