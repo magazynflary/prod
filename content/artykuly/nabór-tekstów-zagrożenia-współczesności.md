@@ -1,7 +1,7 @@
 ---
 edition: 2026-2
 author: redakcja
-title: Nabór tekstów - Zagrożenia Współczesności
+title: "Nabór tekstów: „Zagrożenia współczesności”"
 url: /cfp/
 date: 2026-06-07T14:53:00
 draft: false
@@ -10,10 +10,11 @@ image_focus_banner: 50% 50%
 image_focus_card: 0% 50%
 image_credit: Katarzyna Brzozowska
 image_credit_author: katarzyna-brzozowska
-description: Nabór tekstów - "Zagrożenia Współczesności".
+description: Nabór tekstów – „Zagrożenia Współczesności”.
 noindex: false
 ---
-Zapewne, podobnie jak my, słyszałeś to zdanie wielokrotnie. Tym razem masz jednak okazję, by jednym z tych głosów stał się także Twój.
+Lewica potrzebuje wielu niezależnych głosów.\
+Zapewne, podobnie jak my, słyszałeś to zdanie wielokrotnie. Tym razem nadarza się okazja, by jednym z tych głosów stał się Twój.
 
 W pełni niezależna inicjatywa Magazynu „Flary” rozpoczyna nabór tekstów do drugiego wydania poświęconego tematowi: **„Zagrożenia współczesności”**.
 
@@ -31,23 +32,22 @@ Przyjmujemy:
 * komentarze
 * recenzje
 
+Co warto wiedzieć zanim zaczniesz pisać?
 
-
-Wymagania techniczne
-
-* Sugerowana długość: ok. 1500-4500 słów
-* Wszystkie teksty publikujemy pod imieniem i nazwiskiem.
-* Formatowanie tekstu jest drugorzędne, ono zostanie ustandaryzowane w szablonie do publikacji, ale warto na początku przewidzieć lead: Pogrubioną część przed rozpoczęciem artykułu opisującą krótko tezy i treść
+* Sugerowana długość: ok. 1500–4500 słów
 * [Wskazówki dla autorów](https://docs.google.com/document/d/1aTPBboBHMja_Z3CxKtQ1WFpLsCopwl6PA6O7vZuEJUI/edit?usp=sharing)
+* Weź pod uwagę, że pierwszy akapit to tzw. lead – zapisany pogrubieniem będzie swego rodzaju zaproszeniem do dalszej lektury. Nie powinien być za długi.
+* Wszystkie teksty publikujemy pod imieniem i nazwiskiem.
+* Formatowanie tekstu jest drugorzędne. Zostanie ono ujednolicone w szablonie do publikacji.
 
 **Jaką ścieżkę przejdzie Twój artykuł?**
 
-* zatwierdzenie do publikacji
-* redakcja
-* autoryzacja
-* korekta
-* publikacja na magazynflary.pl
+1. zatwierdzenie do publikacji
+2. redakcja
+3. autoryzacja
+4. korekta
+5. publikacja na magazynflary.pl
 
 Nie musisz mieć doświadczenia autorskiego. Pomożemy Ci dopracować tekst i przejść przez cały proces.
 
-**W razie pytań pisz na readakcja@magazynflary.pl.**
+**Jeśli masz pytania lub wątpliwości pisz na redakcja@magazynflary.pl.**
