@@ -1,7 +1,7 @@
 ---
 edition: 2026-2
 author: arkadiusz-gąsiorek
-title: Zapowiedź Nº 1 „Zagrożenia współczeności”
+title: Zapowiedź Nº 1 „Zagrożenia współczesności”
 date: 2026-08-27T17:10:00
 draft: false
 image: images/uploads/wyzwania-współczesności-flary-n1_okładka.jpg
