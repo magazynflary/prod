@@ -18,7 +18,7 @@ noindex: false
 
 *Pierwszy artykuł z serii „O odczarowaniu Świata”. Drugi artykuł „Nowa (bez)nadzieja” dostępny jest [tutaj](https://magazynflary.pl/o-odczarowaniu-swiata-2/).*
 
-# O chłopcu, który nie umiał opowiadać historii
+## O chłopcu, który nie umiał opowiadać historii
 
 W swoim eseju *Kryzys narracji*., Byung Chul Han, aby oddać naszą współczesną kondycję, przywołuje bajkę autorstwa Paula Maara o chłopcu, który nie umie opowiadać. Wywodzący się z kochającej rodziny chłopiec nie potrafi dojrzeć w swoim życiu nic poza warstwą suchych faktów i opisów. Jego dzień to zbiór zjawisk powiązanych ze sobą jedynie chronologicznym następstwem. Bez oceny i selekcji faktów, nie potrafi opowiedzieć bliskim tego, co mu się przydarza, a tym samym nie może dzielić z nimi doświadczenia życia. Skupienie uwagi na „nagich faktach”, prowadzi nas w ujęciu Hana do „nagiego życia”, któremu 
 
@@ -34,7 +34,7 @@ Kryterium istotności nie istnieje przy tym jako fakt. Istnieje tylko w postaci 
 
 Jedyną formą związków między informacjami a zdarzeniami, z którą wydaje się, że współcześnie czujemy się jeszcze komfortowo, jest faktyczny związek przyczynowo-skutkowy. A ten, jak zwraca uwagę Han: „jest tylko jedną z możliwych form związku” i „jej totalizacja prowadzi do ubóstwa świata i doświadczenia” (Han, 2024, s. 171). 
 
-# Trzej czarnoksiężnicy
+## Trzej czarnoksiężnicy
 
 Odczarowanie, nie jest więc w gruncie rzeczy odczarowaniem. Jest urokiem. Pytanie skąd ów urok się wziął, kto go na nas rzucił i do czego nas prowadzi? Wydaje się, że korzenie tego procesu sięgają znacznie wcześniej niż zakładał Weber. Fundamentów intelektualnych, które pozwoliły na tę zmianę, można poszukiwać już w dyskusjach teologicznych i filozoficznych z okresu późnego średniowiecza. 
 
@@ -56,7 +56,7 @@ Ostatnim z czarowników, jest William Ockham, filozof i teolog franciszkański, 
 
 Nominalizm próbuje zastosować brzytwę Ockhama i usunąć formę drzewa jako byt zbędny. Tylko, że po jej usunięciu musi i tak przemycić ją z powrotem pod nazwami takimi jak „podobieństwo”, czy „cechy istotne”, albo innymi koncepcjami składającymi się w gruncie rzeczy z większej liczby elementów niż sama forma. Nominalizm nie tyle eliminuje uniwersalia, ile korzysta z nich nieświadomie, nie przyznając im żadnego własnego sposobu istnienia. Zapomina o rzeczywistości bardziej pierwotnej względem tworzonych przez człowieka reprezentacji rzeczywistości. Traci z oczu podział między mapą a terytorium, a z czasem pozwala wręcz mapie zająć jego miejsce. 
 
-# Urok władztwa ilości
+## Urok władztwa ilości
 
 Czysta natura Tomasza, jednoznaczność bytu Szkota i nominalizm Ockhama nie muszą być rozumiane jako błędy, ani bezpośrednie przyczyny nowoczesności. Można jednak dostrzec, że każda z tych koncepcji przesuwa środek ciężkości ludzkiego poznania coraz bardziej ku temu, co skończone, uchwytne i dostępne dla pojęciowej kontroli. Proces ten osiąga swój punkt kulminacyjny w tym, co René Guénon nazwał w swojej książce *The Reign of Quantity and the Signs of the Times* (1945) „władztwem ilości”. Dla Guenon’a nasza współczesna perspektywa jest przede wszystkim perspektywą redukującą rzeczywistość do jej reprezentacji. Do tworzenia coraz bardziej doskonałych map rzeczywistości, ale jednocześnie tracenia z oczu samego terytorium. To jest nasza główna zasada jedności. Tam, gdzie dawniej postrzegaliśmy rzeczywistość i składające się na nią zjawiska przez pryzmat ich jakości, celu czy znaczenia - tego jak jej doświadczamy i jak w niej uczestniczymy, nowoczesność coraz bardziej postrzega je przez pryzmat ilości i wymiarów. Nie sens, a parametr. Nie wartość, a wartość wymienna. Nie uczestnictwo, a pomiar. W fundamentalny sposób zmieniło się po prostu nasze postrzeganie prawdy. 
 
