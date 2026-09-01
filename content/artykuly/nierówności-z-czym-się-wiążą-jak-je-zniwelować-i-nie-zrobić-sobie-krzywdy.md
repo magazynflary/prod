@@ -13,7 +13,11 @@ noindex: false
 ---
 **W czerwcu świat obiegła wiadomość, że szacowany majątek Elona Muska przekracza bilion dolarów po tym, jak sprzedał on część swoich udziałów w SpaceX. To ponad trzykrotnie więcej, niż kontroluje drugi na liście najbogatszych Larry Page, współtwórca Alphabet, czyli firmy-matki m.in. Google'a. To dobry moment, by porozmawiać o nierównościach.**
 
-Z danych [World Inequality Database](https://wir2026.wid.world/insight/executive-summary/) wynika, że globalnie promil najbogatszych – mniej niż 60 tys. osób – kontroluje obecnie około 6% całego światowego majątku. Jednocześnie 50% najbiedniejszych posiada jedynie 2%. Udział grupy najbogatszych w światowym majątku wzrósł na przestrzeni ostatnich 20 lat o połowę. Kiedy reszta populacji bogaciła się o 2–4% rocznie, promil najbogatszych przyrastał o 9%. Dane pokazują, że gdzieś po roku 1980 35-letni okres bezprecedensowej równości zachodnich społeczeństw dobiegł końca, a obecne nierówności przypominają już te z początku XX wieku.
+Z danych [World Inequality Database](https://wir2026.wid.world/insight/executive-summary/) wynika, że globalnie promil najbogatszych – mniej niż 60 tys. osób – kontroluje obecnie około 6% całego światowego majątku. Jednocześnie 50% najbiedniejszych posiada jedynie 2%. Udział grupy najbogatszych w światowym majątku wzrósł na przestrzeni ostatnich 20 lat o połowę. Kiedy reszta populacji bogaciła się o 2–4% rocznie, promil najbogatszych przyrastał o 9%. 
+
+{{< pullquote >}}
+Dane pokazują, że gdzieś po roku 1980 35-letni okres bezprecedensowej równości zachodnich społeczeństw dobiegł końca, a obecne nierówności przypominają już te z początku XX wieku.
+{{< /pullquote >}}
 
 Kapitał nie jest wirtualny – odpowiada realnym zasobom, które nie są nieograniczone. Daje też władzę i aktywnie broni swoich interesów. Rosnące nierówności to nie tylko kwestia sprawiedliwości – wpływają na to, kto kontroluje media, jak działa państwo i czy kolejne pokolenia mają szansę na równy start. Polska nie jest tu wyjątkiem – po ponad trzech dekadach gospodarki rynkowej zaczynamy dostrzegać problemy znane z krajów anglosaskich. Przeciwdziałanie postępującemu rozwarstwieniu jest przy tym trudniejsze, niż się wydaje: kapitał jest mobilny, a źle skonstruowane narzędzia potrafią zaszkodzić gospodarce bardziej, niż pomóc społeczeństwu – zwłaszcza w kraju na dorobku.
 
@@ -33,7 +37,12 @@ Mówi się, że media to czwarta władza. To one kreują ramy dyskursu publiczne
 
 Niepokoi postępująca konsolidacja znanych marek medialnych w wielkich koncernach, co prowadzi do ujednolicenia przekazu. Tym gorzej, kiedy kontroluje je jedna osoba, jak w przypadku francuskiego koncernu Vivendi kontrolowanego przez Vincenta Bolloré, który, choć przeszedł ostatnio podział, de facto dalej zależy od rodziny Bolloré. W jego skład wchodzi cała grupa Canal+, firma reklamowa Havas, wydawnictwa Louis Hachette Group. W ramach tej konstelacji medialnej mamy np. popularne kanały telewizyjne CNews i C8, nazywane francuskimi odpowiednikami Fox News ze względu na kontrowersyjnych, konserwatywnych komentatorów i skandalizujące wypowiedzi. Do spółki z Bernardem Arnaultem, Rodolphem Saadé i rodziną Dassault, Bolloré kupił nawet jedną ze szkół dziennikarskich – ESJ Paris. Wszystkie przytoczone w kontekście Francji osoby charakteryzuje to, że nie są ludźmi mediów, tylko biznesmenami, których fortuny pochodzą m.in. z działalności w obszarze dóbr luksusowych, w logistyce czy przemyśle zbrojeniowym. 
 
-Miliarderzy nie inwestują w media, aby bezpośrednio na nich zarabiać – służą one bardziej jako luksusowa własność, która daje im prestiż i wpływ na politykę. Profil biznesów właściciela zazwyczaj pokrywa się z linią redakcyjną medium. Na szczęście media publiczne mają we Francji silną pozycję i pozostają przeciwwagą dla zoligopolizowanego rynku mediów prywatnych.
+{{< pullquote >}}
+Miliarderzy nie inwestują w media, aby bezpośrednio na nich zarabiać – służą one bardziej jako luksusowa własność, która daje im prestiż i wpływ na politykę.
+{{< /pullquote >}}
+
+
+Profil biznesów właściciela zazwyczaj pokrywa się z linią redakcyjną medium. Na szczęście media publiczne mają we Francji silną pozycję i pozostają przeciwwagą dla zoligopolizowanego rynku mediów prywatnych.
 
 Jeśli chodzi o niezależność mediów, unijny raport [Media Pluralism Monitor 2026](https://cadmus.eui.eu/entities/publication/5f8312b3-487b-4c7c-889f-bae9540cd2b7) plasuje Francję w środku stawki, podobnie jak Polskę. Węgry, ze względu na zawłaszczenie mediów przez państwo i oligarchów bezpośrednio powiązanych z obozem władzy, dostały najgorsze noty. Nie znaczy to bynajmniej, że sytuacja jest dobra. Jedynie kraje nordyckie i Niemcy zostały ocenione pozytywnie, a reszta boryka się czy to z oligopolizacją, czy też – jak Węgry – z kontrolą przez jedno środowisko polityczne.
 
@@ -55,7 +64,12 @@ Nieruchomości nie są istotną częścią portfeli promila najbogatszych na św
 
 Polskie fortuny dostały w 2023 roku ustawę o fundacjach rodzinnych. Lobbowane przez środowiska biznesowe rozwiązanie miało rzekomo zapobiec rozwadnianiu majątku i wyprzedawaniu polskich firm po śmierci ich właścicieli. W praktyce stało się kolejnym narzędziem optymalizacji podatkowej. Choć Ministerstwo Finansów zaproponowało radykalne uszczelnienie tego prawa już w 2025 roku, to nowelizacja przepisów została zablokowana przez prezydenta Karola Nawrockiego i trudno sobie wyobrazić, żeby w najbliższych latach coś się w tej kwestii zmieniło. Fundacje rodzinne w obecnej formie tylko pogłębiają problem regresywności systemu podatkowego w Polsce, gdzie na przywileje podatkowe najbogatszego procenta składa się całe społeczeństwo, a jednoosobowe działalności gospodarcze (jest ich 2,5 miliona) pozwalają płacić niższy podatek dochodowy, mniejsze składki zdrowotne i społeczne, odliczać VAT i kwalifikować wątpliwe wydatki jako koszty prowadzenia działalności.
 
-Regresywny system podatkowy oznacza, że usługi publiczne są niedofinansowane, a długie kolejki do lekarza, wykluczenie transportowe czy spadająca jakość edukacji publicznej dotykają najmocniej tych, których nie stać na to, by skorzystać z sektora prywatnego. Człowiek, który najpierw płaci składkę zdrowotną, a potem musi płacić 1000 zł za prywatną wizytę u dentysty, ma wrażenie bycia oszukanym, co daje podatny grunt dla narracji stawiających państwo nie w roli dobra wspólnego, a oprawcy i złodzieja. To z kolei utrudnia uzyskanie poparcia dla koniecznych reform podatkowych i poprawę jakości świadczeń.
+Regresywny system podatkowy oznacza, że usługi publiczne są niedofinansowane, a długie kolejki do lekarza, wykluczenie transportowe czy spadająca jakość edukacji publicznej dotykają najmocniej tych, których nie stać na to, by skorzystać z sektora prywatnego. 
+
+{{< pullquote >}}
+Człowiek, który najpierw płaci składkę zdrowotną, a potem musi płacić 1000 zł za prywatną wizytę u dentysty, ma wrażenie bycia oszukanym, co daje podatny grunt dla narracji stawiających państwo nie w roli dobra wspólnego, a oprawcy i złodzieja.
+{{< /pullquote >}}
+To z kolei utrudnia uzyskanie poparcia dla koniecznych reform podatkowych i poprawę jakości świadczeń.
 
 ## **Życie na minusie**
 
