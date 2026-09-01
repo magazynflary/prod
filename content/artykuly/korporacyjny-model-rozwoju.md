@@ -13,7 +13,7 @@ description: Od złotych lat 90. po wielkie zwolnienia. Jak polskie miasta
   biznesu do Indii?
 noindex: false
 ---
-**Polska lat 90. Kraj rodzącego się kapitalizmu, nazywanego przez niektórych dzikim; czasy opływające w technikolorze, jak z teledysku *„*Koło Fortuny” grupy PROBL3M i dźwięków czołówki odcinków Podcastexu. Nieujarzmiony Wschód otwierający się na zachodni dobrobyt, którego symbolem były markowe auta, chemia z Niemiec, kolorowe słodycze, gumy kulki i chrupki, plastikowe reklamówki, kasety porno i obietnica kariery – szybkiej, dynamicznej, przynoszącej duże pieniądze, a co za tym idzie, również awans społeczny. Niejaki amerykański sen na polskiej ziemi.**
+Polska lat 90. Kraj rodzącego się kapitalizmu, nazywanego przez niektórych dzikim; czasy opływające w technikolorze, jak z teledysku „Koło Fortuny” grupy PROBL3M i dźwięków czołówki odcinków Podcastexu. Nieujarzmiony Wschód otwierający się na zachodni dobrobyt, którego symbolem były markowe auta, chemia z Niemiec, kolorowe słodycze, gumy kulki i chrupki, plastikowe reklamówki, kasety porno i obietnica kariery – szybkiej, dynamicznej, przynoszącej duże pieniądze, a co za tym idzie, również awans społeczny. Niejaki amerykański sen na polskiej ziemi.
 
 Ucieleśnieniem miejsca, w którym spełniają się wszystkie marzenia, była w świadomości wielu Polaków Warszawa z powstającymi powoli drapaczami chmur i wielkoformatowymi reklamami. Jednak to nie stolica w późniejszych latach stała się centrum dowodzenia zagranicznych korporacji, tylko Kraków – miasto, które w poezji śpiewanej grupy Pod Budą, szczególnie na płycie o przewrotnym tytule „Jak kapitalizm, to kapitalizm”, jawiło się jako przestrzeń sprzeciwu wobec kultu sukcesu i narastającej komercjalizacji życia.
 
