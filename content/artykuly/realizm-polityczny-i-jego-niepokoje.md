@@ -4,8 +4,10 @@ author: piotr-domański
 title: Realizm polityczny i jego niepokoje
 date: 2026-09-01T20:00:00
 draft: false
+image: images/uploads/n1_realizm-polityczny-i-jego-niepokoje.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
+image_credit_author: katarzyna-brzozowska
 description: Demokracja w kryzysie, sukces populistów i rola „głębokiego
   państwa”. Dlaczego polityczny pragmatyzm prowadzi do impasu?
 noindex: false
