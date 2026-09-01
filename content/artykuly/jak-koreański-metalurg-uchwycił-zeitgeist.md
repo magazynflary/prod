@@ -4,9 +4,9 @@ author: arkadiusz-gąsiorek
 title: Jak koreański metalurg uchwycił Zeitgeist?
 date: 2026-09-01T20:00:00
 draft: false
-image: images/uploads/wyzwania-współczesności-flary-n1_okładka.jpg
+image: images/uploads/n1_jak-koreański-metalurg-uchwycił-zeitgeist.jpg
 image_focus_banner: 50% 50%
-image_focus_card: 0% 50%
+image_focus_card: 57% 50%
 description: Zmęczenie, samotność i przymus sukcesu. Dlaczego filozof Byung-Chul
   Han tak celnie diagnozuje współczesność? Przeczytaj esej o społeczeństwie
   wypalenia.
