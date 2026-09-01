@@ -4,8 +4,13 @@ author: gabriela-palonek
 title: Korporacyjny model rozwoju
 date: 2026-09-01T20:00:00
 draft: false
+image: images/uploads/wyzwania-współczesności-flary-n1_okładka.jpg
 image_focus_banner: 50% 50%
-image_focus_card: 50% 50%
+image_focus_card: 36% 50%
+image_credit_author: katarzyna-brzozowska
+description: Od złotych lat 90. po wielkie zwolnienia. Jak polskie miasta
+  uzależniły się od zagranicznych korporacji i co oznacza dla nas ucieczka
+  biznesu do Indii?
 noindex: false
 ---
 **Polska lat 90. Kraj rodzącego się kapitalizmu, nazywanego przez niektórych dzikim; czasy opływające w technikolorze, jak z teledysku *„*Koło Fortuny” grupy PROBL3M i dźwięków czołówki odcinków Podcastexu. Nieujarzmiony Wschód otwierający się na zachodni dobrobyt, którego symbolem były markowe auta, chemia z Niemiec, kolorowe słodycze, gumy kulki i chrupki, plastikowe reklamówki, kasety porno i obietnica kariery – szybkiej, dynamicznej, przynoszącej duże pieniądze, a co za tym idzie, również awans społeczny. Niejaki amerykański sen na polskiej ziemi.**
@@ -20,7 +25,12 @@ Praca w dużych zagranicznych korporacjach była drogą do błyskawicznego awans
 
 Amerykańska socjologia terminem *yuppies* (*young urban professionals*) opisywała młodych, zdolnych i wykształconych ludzi, którzy w latach 80. w USA zrywali z kontrkulturą poprzednich dwóch dekad i rzucali się w wir szalejącego, agresywnego kapitalizmu. Liczyły się odwaga, ryzyko i tzw. **pogoń za pieniędzmi**. Głównie byli to pracownicy sektora usług, finansów i prawa – *white collars*, znani z bardzo materialistycznego podejścia do życia i podkreślania statusu społecznego. Do pewnego stopnia obecny trend *office siren* nawiązuje do tej grupy: afirmując liminalne przestrzenie biur, szare i dobrze skrojone damskie garnitury oraz romantyzując pracę w korporacji. 
 
-W Polsce odpowiednikiem *yuppies* byli **karierowicze** nastawieni na szybkie awanse, wysokie pensje oraz możliwość wyjazdów zagranicznych. Ich sukces utrwalał mit o istnieniu **transformacyjnych zwycięzców** – ludzi, którzy bardzo łatwo przystosowali się do nowej rzeczywistości i osiągnęli wymierny sukces zostając dyrektorami polskich oddziałów lub zakładając własne firmy. Historie pojedynczych pracowników zaczynających na najniższych stanowiskach i pnących się po szczeblach korporacyjnej drabiny w górę jeszcze bardziej umocniły wiarę w historię od pucybuta do milionera oraz opowieść o kapitalizmie, w którym aby zyskać, trzeba chcieć, a trampoliną do sukcesu jest oparcie rozwoju na zagranicznym kapitale.
+W Polsce odpowiednikiem *yuppies* byli **karierowicze** nastawieni na szybkie awanse, wysokie pensje oraz możliwość wyjazdów zagranicznych. Ich sukces utrwalał mit o istnieniu **transformacyjnych zwycięzców** – ludzi, którzy bardzo łatwo przystosowali się do nowej rzeczywistości i osiągnęli wymierny sukces zostając dyrektorami polskich oddziałów lub zakładając własne firmy. 
+
+{{< pullquote >}}
+Historie pojedynczych pracowników zaczynających na najniższych stanowiskach i pnących się po szczeblach korporacyjnej drabiny w górę jeszcze bardziej umocniły wiarę w historię od pucybuta do milionera
+{{< /pullquote >}}
+oraz opowieść o kapitalizmie, w którym aby zyskać, trzeba chcieć, a trampoliną do sukcesu jest oparcie rozwoju na zagranicznym kapitale.
 
 ## Centrum usług wspólnych
 
@@ -38,11 +48,16 @@ Ciągły wzrost inwestycji zagranicznych firm i zatrudnienia sprawiał, że elit
 
 Pracownicy korporacji w ciągu ostatniej dekady przyczynili się do znacznego rozwoju zagranicznych przedsiębiorstw, owocującego zaawansowaną automatyzacją oraz standaryzacją powtarzalnych procesów. Krakowskie uczelnie wyższe koncentrowały się na kształceniu nowych kadr mających zasilić nowo powstające miejsca pracy. Powstawały nowe kierunki skrojone pod kariery w finansach oraz szeroko pojętej analityce. Niestety, z czasem przyszło nam obserwować załamanie się wybranego modelu rozwoju, kiedy wielkie korporacje zaczęły ogłaszać wielkie redukcje etatów.
 
+
 Od 2023 roku powoli i systematycznie procesy transakcyjne w różnych centrach SSC zaczęły być przenoszone do Indii, ze względu na nieopłacalność ich wykonywania w Polsce (w myśl zasady „trzy razy gorzej, ale dziesięć razy taniej”). Presja płacowa w sektorze usług stale rośnie i trudno się temu dziwić: wykwalifikowane kadry po prostu chcą zarabiać więcej. Wydatki ponoszone przez młodych ludzi na edukację wyższą rosną, a koszty życia w dużych miastach z roku na rok wcale nie maleją.
 
 Wielkie firmy jak Shell, Heineken, HSBC, UBS, PepsiCo przechodzą zaplanowane globalne restrukturyzacje, których ofiarami stają się polscy pracownicy. Uwięzieni w pułapce kosztów pracy i automatyzacji są zmuszeni do akceptacji nowych warunków rynkowych. 
 
-Polska nie jest już krajem taniej siły roboczej, czego zdają się nie dostrzegać elity rządzące. Pomimo widocznych sygnałów, które zwiastują wyczerpanie się dotychczasowego modelu rozwoju kraju opartego na dobrej jakościowo wykonywanej pracy przez wykształconych ludzi przy niskich kosztach zatrudnienia, nie ma pomysłu, jak można byłoby konkurować na rynku europejskim i światowym. 
+{{< pullquote >}}
+Polska nie jest już krajem taniej siły roboczej, czego zdają się nie dostrzegać elity rządzące.
+{{< /pullquote >}}
+
+Pomimo widocznych sygnałów, które zwiastują wyczerpanie się dotychczasowego modelu rozwoju kraju opartego na dobrej jakościowo wykonywanej pracy przez wykształconych ludzi przy niskich kosztach zatrudnienia, nie ma pomysłu, jak można byłoby konkurować na rynku europejskim i światowym. 
 
 Kraków jest idealnym przykładem miejsca, w którym zaniechano rozwoju innych sektorów gospodarki oraz innowacji, które mogłyby znacząco poprawić kompetencje pracowników oraz przygotować miasto na ewentualne zmiany koniunktury gospodarczej.
 
