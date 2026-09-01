@@ -1,6 +1,6 @@
 ---
 edition: 2026-2
-author: ""
+author: mateusz-bratkowski
 title: „Nie będziesz posiadał niczego i będziesz szczęśliwy” — o tym, jak branża
   gier zamieniła własność w warunkowy dostęp
 date: 2026-09-01T20:00:00
