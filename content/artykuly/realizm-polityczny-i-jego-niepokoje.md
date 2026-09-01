@@ -6,17 +6,23 @@ date: 2026-09-01T20:00:00
 draft: false
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
+description: Demokracja w kryzysie, sukces populistów i rola „głębokiego
+  państwa”. Dlaczego polityczny pragmatyzm prowadzi do impasu?
 noindex: false
 ---
 **Parafrazując Petera Turchina, możemy powiedzieć, że żyjemy w czasach ostatecznych. Nasz świat się dezintegruje. Narastający kryzys można uznać za naturalny etap rozwoju lub stan, do którego doprowadziło wyczerpanie się dotychczas dominującej formuły. Tak czy inaczej stajemy w obliczu poważnych wyzwań i musimy dokonać wyboru.**
 
 Jest jesień 2008 roku. W kierownictwie instytucji finansowej zapada decyzja o masowej wyprzedaży toksycznych aktywów. Oznacza świadome działanie wbrew interesom nabywców. Nadużycie zaufania**.** Jeden z menedżerów nie chce jej dłużej firmować i postanawia odejść. Przełożony, Tuld, próbuje go zatrzymać:
 
-**Tuld:** *Daj spokój. Uśmiechnij się. Dziś wykonałeś kawał dobrej roboty. \[...] To tylko pieniądze. Ludzki wymysł. Papierki z nadrukiem. \[...] Nie ma w tym nic złego. I nic nowego. \[...] Tak czy inaczej wychodzi na to samo. Nic nie możemy na to poradzić. Ani ty, ani ja nie jesteśmy w stanie zatrzymać biegu spraw, spowolnić go ani choćby odrobinę zmienić. Możemy jedynie reagować. Jeśli nam się uda, zrobimy grubą forsę. Jeżeli nie – zmiecie nas z planszy.* 
+> **Tuld:** Daj spokój. Uśmiechnij się. Dziś wykonałeś kawał dobrej roboty. \[...] To tylko pieniądze. Ludzki wymysł. Papierki z nadrukiem. \[...] Nie ma w tym nic złego. I nic nowego. \[...] Tak czy inaczej wychodzi na to samo. Nic nie możemy na to poradzić. Ani ty, ani ja nie jesteśmy w stanie zatrzymać biegu spraw, spowolnić go ani choćby odrobinę zmienić. Możemy jedynie reagować. Jeśli nam się uda, zrobimy grubą forsę. Jeżeli nie – zmiecie nas z planszy.
 
 John Tuld (Jeremy Irons), *Chciwość* (*Margin Call*, reż. J.C. Chandor, 2011), tłumaczenie własne
 
-Tuld przedstawia swoją wizję porządku spraw z charakterystyczną chłodną precyzją. Należy odrzucić pozory i skupić się na faktach. Na twardych podstawach. Kryzysy powtarzają się z nieubłaganą regularnością. W niestabilnym świecie obowiązują jednak niezmienne reguły gry. Gracze mogą jedynie starać się poprawiać własny bilans. Nie mogą zmieniać zasad. Tylko grać.
+Tuld przedstawia swoją wizję porządku spraw z charakterystyczną chłodną precyzją. Należy odrzucić pozory i skupić się na faktach. Na twardych podstawach. Kryzysy powtarzają się z nieubłaganą regularnością. 
+
+{{< pullquote >}}
+W niestabilnym świecie obowiązują jednak niezmienne reguły gry. Gracze mogą jedynie starać się poprawiać własny bilans. Nie mogą zmieniać zasad. Tylko grać.
+{{< /pullquote >}}
 
 ## Ekonomia realizmu
 
@@ -42,9 +48,15 @@ Realista Bismarck mógł jeszcze zasadę równości obywateli w prawach i obowi�
 
 3 czerwca 2016 roku, w toku kampanii przedreferendalnej, stronnik Brexitu lord Gove sformułował hasło, które do dziś niesie „populistów” i alt-prawicę:
 
-*\[…] nasz naród dość już nasłuchał się ekspertów \[…] przekonujących, że wiedzą, co dla nas najlepsze, a potem raz za razem źle oceniających sytuację.* (tłumaczenie własne)
+> \[…] nasz naród dość już nasłuchał się ekspertów \[…] przekonujących, że wiedzą, co dla nas najlepsze, a potem raz za razem źle oceniających sytuację. (tłumaczenie własne)
 
-Na głębokim poziomie to ciężkie oskarżenie nie tylko wobec brytyjskiej klasy eksperckiej, ale elit politycznych w ogóle. Mechanizm działa uniwersalnie. Lider takiej partii jak Konfederacja Korony Polskiej wykonuje podobny ruch polityczny: aby zakwestionować podstawę demokracji liberalnej, wskazuje ekskluzywny krąg ludzi wynoszących się ponad innych i prowadzących wszystkich na manowce. Sukces Grzegorza Brauna w takim kontekście zasadza się nie na tym, że proponuje proste rozwiązania trudnych problemów. Także historie o podziemnych bunkrach pod CPK i obcych interwencjach nie są jego głównym ostrzem. Na fundamentalnym poziomie jego przekaz trafia bowiem w czuły punkt. Pod sztafażem teorii spiskowych eksploatuje rzeczywiste sprzeczności systemu. Alt-right odnosi sukcesy, ponieważ model polityki prowadzonej przez elity na własną odpowiedzialność wchodzi w strukturalny konflikt z egalitarną podstawą współczesnej demokracji. Wystarczy tę odpowiedzialność wyciągnąć na światło dzienne. I podbić przekaz.
+Na głębokim poziomie to ciężkie oskarżenie nie tylko wobec brytyjskiej klasy eksperckiej, ale elit politycznych w ogóle. Mechanizm działa uniwersalnie. Lider takiej partii jak Konfederacja Korony Polskiej wykonuje podobny ruch polityczny: aby zakwestionować podstawę demokracji liberalnej, wskazuje ekskluzywny krąg ludzi wynoszących się ponad innych i prowadzących wszystkich na manowce. Sukces Grzegorza Brauna w takim kontekście zasadza się nie na tym, że proponuje proste rozwiązania trudnych problemów. Także historie o podziemnych bunkrach pod CPK i obcych interwencjach nie są jego głównym ostrzem. Na fundamentalnym poziomie jego przekaz trafia bowiem w czuły punkt. Pod sztafażem teorii spiskowych eksploatuje rzeczywiste sprzeczności systemu. 
+
+{{< pullquote >}}
+Alt-right odnosi sukcesy, ponieważ model polityki prowadzonej przez elity na własną odpowiedzialność wchodzi w strukturalny konflikt z egalitarną podstawą współczesnej demokracji. 
+{{< /pullquote >}}
+
+Wystarczy tę odpowiedzialność wyciągnąć na światło dzienne. I podbić przekaz.
 
 ## Rozczarowanie
 
@@ -52,7 +64,7 @@ Ceną polityczną merytokracji zarządzającej systemem w imię racji stanu jest
 
 W otwierającym monologu Tuld konsekwentnie przemilcza ważne pojęcie. A ono podważa całą jego argumentację. Zaufanie. Zrozumieć współczesny pieniądz to zdać sobie sprawę, co oznacza określenie „pieniądz fiducjarny”. Oparty na zaufaniu. Mówiąc o pieniądzach, Tuld, jak zręczny iluzjonista, kieruje uwagę na „papierki z nadrukiem”. Ale to nie pieniądze, to banknoty. O ich wartości nie decyduje nadrukowana cyfra. Podstawą systemu jest zaufanie. A ponieważ ekonomia systemów opisuje nie tylko finanse, ale zachowanie różnych modeli, analogicznie można rozumieć kryzys współczesnej polityki. Kiedy zasada zaufania zostaje naruszona, wystarczy, że znajdzie się ktoś, kto stwierdzi, że model sprzeniewierza się własnej obietnicy. A to już poważny problem nie tylko teoretyczny, ale polityczny.
 
-*Rozczarowanie nie jest jednak politycznie neutralne. \[…] rozziew między obietnicą a rzeczywistością bywa siłą zmiany: „Solidarność” współtworzyli \[…] robotnicy, którzy dostrzegli, że państwo socjalistyczne nie dotrzymuje własnych obietnic.*
+> Rozczarowanie nie jest jednak politycznie neutralne. \[…] rozziew między obietnicą a rzeczywistością bywa siłą zmiany: „Solidarność” współtworzyli \[…] robotnicy, którzy dostrzegli, że państwo socjalistyczne nie dotrzymuje własnych obietnic.
 
 Magda Szcześniak *[O czym marzy dziś klasa ludowa i dlaczego niewiele o tym wiemy?](https://krytykapolityczna.pl/kraj/o-czym-marzy-dzis-klasa-ludowa-magda-szczesniak/)* 
 
@@ -60,15 +72,19 @@ Magda Szcześniak *[O czym marzy dziś klasa ludowa i dlaczego niewiele o tym wi
 
 Często jako głównego przeciwnika realizmu przedstawia się nierozważny romantyzm czy idealizm. Postawę pragmatyczną, skupioną na trwaniu, stabilizacji lub odbudowywaniu warunków brzegowych modelu kontrastuje się z nierozsądnymi i ryzykownymi aktami politycznej woli czy wiary. Jednak wyzwanie rzucone przez politykę alternatywną ma inny charakter. Nie przedstawia się jako anty-realizm, przeciwnie, często zarzuca polityce mainstreamowej odejście od realistycznego credo. Ujawnia natomiast napięcia wychodzące z wnętrza systemu. Sprawia, że realizm dekonstruuje się sam. Dochodzi do impasu.
 
-Kryzys klasycznej polityki dzisiaj to przede wszystkim kryzys zaufania. To sprawia, że pat jest tak głęboki. Przy silnej nieufności do samego modelu i do operujących w kluczowych jego punktach ludzi właściwie każde proponowane rozwiązanie może się wydać niewystarczające albo mało wiarygodne. Ba, każdy ruch może być interpretowany jako działanie w złej wierze, kolejny podstęp. Propozycja reformy wydaje się w sposób oczywisty próbą wzmocnienia opresji, jeśli wychodzimy z założenia, że ofertę składają przedstawiciele globalnego sprzysiężenia możnych.
+{{< pullquote >}}
+Kryzys klasycznej polityki dzisiaj to przede wszystkim kryzys zaufania.
+{{< /pullquote >}}
 
-Nie potrzeba tutaj, aby wszyscy uwierzyli w teorie spiskowe. Wystarczy, w przejmującej ciszy, jeden mocny głos nieprzekonanego. Veto. Od tego się zaczyna. Zaufanie czasem traci się w jednej chwili, a czasem w długim, powolnym procesie erozji. Tak na przykład [Timothy Snyder opowiada o rozpadzie systemu komunistycznego ](https://www.youtube.com/playlist?list=PLh9mgdi4rNewfxO7LhBoz_1Mx1MaO6sw). Najpierw robotnicy przekonali się, że nie spełnia obietnic. Potem elity zwątpiły w nieuchronne prawa historii i nadchodzące zwycięstwo. Gdy wiary zabrakło po obu stronach, rządzącym pozostała już tylko technologia władzy, przedłużanie status quo. Ochrona pola gry. Trwanie.
+To sprawia, że pat jest tak głęboki. Przy silnej nieufności do samego modelu i do operujących w kluczowych jego punktach ludzi właściwie każde proponowane rozwiązanie może się wydać niewystarczające albo mało wiarygodne. Ba, każdy ruch może być interpretowany jako działanie w złej wierze, kolejny podstęp. Propozycja reformy wydaje się w sposób oczywisty próbą wzmocnienia opresji, jeśli wychodzimy z założenia, że ofertę składają przedstawiciele globalnego sprzysiężenia możnych.
+
+Nie potrzeba tutaj, aby wszyscy uwierzyli w teorie spiskowe. Wystarczy, w przejmującej ciszy, jeden mocny głos nieprzekonanego. Veto. Od tego się zaczyna. Zaufanie czasem traci się w jednej chwili, a czasem w długim, powolnym procesie erozji. Tak na przykład [Timothy Snyder opowiada o rozpadzie systemu komunistycznego](https://www.youtube.com/playlist?list=PLh9mgdi4rNewfxO7LhBoz_1Mx1MaO6sw). Najpierw robotnicy przekonali się, że nie spełnia obietnic. Potem elity zwątpiły w nieuchronne prawa historii i nadchodzące zwycięstwo. Gdy wiary zabrakło po obu stronach, rządzącym pozostała już tylko technologia władzy, przedłużanie status quo. Ochrona pola gry. Trwanie.
 
 ## Akt
 
-*Uważamy prawdy te za święte i niepodważalne*: takiej formuły użył w pierwotnej wersji Deklaracji Niepodległości USA Thomas Jefferson (tłumaczenie własne). Po redakcji przybrała ona jednak brzmienie *Uważamy prawdy te za samooczywiste…* (tłum. Teresa Pełka). Sformułowanie to otwiera część uzasadniającą podjętą 250 lat temu przez przedstawicieli Kongresu Kontynentalnego decyzję o radykalnym zerwaniu z metropolią. Drobna, wydawałoby się, korekta zmienia jednak istotnie znaczenie tego aktu. Zamiast odwoływania się do odwiecznie obowiązujących, nienaruszalnych prawd reprezentanci Kongresu przedstawiają po prostu niewymagającą dalszego uzasadniania listę reguł, którymi chcą się odtąd kierować. Małą poprawką redakcyjną powołują do życia nowy porządek swego świata. Samym aktem. Wprost z wymienionych dalej wartości.
+„Uważamy prawdy te za święte i niepodważalne”: takiej formuły użył w pierwotnej wersji Deklaracji Niepodległości USA Thomas Jefferson (tłumaczenie własne). Po redakcji przybrała ona jednak brzmienie „Uważamy prawdy te za samooczywiste…” (tłum. Teresa Pełka). Sformułowanie to otwiera część uzasadniającą podjętą 250 lat temu przez przedstawicieli Kongresu Kontynentalnego decyzję o radykalnym zerwaniu z metropolią. Drobna, wydawałoby się, korekta zmienia jednak istotnie znaczenie tego aktu. Zamiast odwoływania się do odwiecznie obowiązujących, nienaruszalnych prawd reprezentanci Kongresu przedstawiają po prostu niewymagającą dalszego uzasadniania listę reguł, którymi chcą się odtąd kierować. Małą poprawką redakcyjną powołują do życia nowy porządek swego świata. Samym aktem. Wprost z wymienionych dalej wartości.
 
-W ciągu piętnastu lat od tego momentu rewolucyjne zmiany wstrząsnęły także Francją i Rzeczpospolitą. W Konstytucji 3 Maja czytamy: *chcąc korzystać \[…] z tej dogorywającej chwili, która nas samym sobie wróciła.* Znów krótka formuła mówi bardzo dużo: mamy do czynienia z ulotnym i rzadkim momentem aktywnego stanowienia o swoim świecie. Kongres Kontynentalny, Konwencję Narodową i Sejm Wielki, przy wszystkich różnicach w zakresie, radykalizmie i treści polityki, którą formułowały, łączy z pewnością to śmiałe przekonanie o możliwości, wręcz konieczności ustanowienia nowego otwarcia. Polityczny impas przełamywany jest przez pozornie drobne zmiany akcentów czy też starannie dobrane sformułowania, które mają odtąd organizować wyobraźnię całych społeczności na nowo. Pokazywać im w innym świetle świat. Ich samych.
+W ciągu piętnastu lat od tego momentu rewolucyjne zmiany wstrząsnęły także Francją i Rzeczpospolitą. W Konstytucji 3 Maja czytamy: „chcąc korzystać \[…] z tej dogorywającej chwili, która nas samym sobie wróciła.” Znów krótka formuła mówi bardzo dużo: mamy do czynienia z ulotnym i rzadkim momentem aktywnego stanowienia o swoim świecie. Kongres Kontynentalny, Konwencję Narodową i Sejm Wielki, przy wszystkich różnicach w zakresie, radykalizmie i treści polityki, którą formułowały, łączy z pewnością to śmiałe przekonanie o możliwości, wręcz konieczności ustanowienia nowego otwarcia. Polityczny impas przełamywany jest przez pozornie drobne zmiany akcentów czy też starannie dobrane sformułowania, które mają odtąd organizować wyobraźnię całych społeczności na nowo. Pokazywać im w innym świetle świat. Ich samych.
 
 Bilans powinien być jednak do końca uczciwy. Trzeba oprzeć się wrażeniu, że świat przebudować można pociągnięciem pióra. We wszystkich trzech przypadkach nowo powołane czy też radykalnie przebudowane wspólnoty musiały stoczyć w swojej obronie ciężkie wojny. Rewolucja francuska ugrzęzła na lata w terrorze i wojnie domowej, a potem nowa Francja krwawiła na polach bitew całej Europy, co ostatecznie przyniosło restaurację monarchii. Polska konstytucja nie zdążyła w praktyce wejść w życie, bo wojna w jej obronie zakończyła się klęską i rozbiorem niszczącym w praktyce podłoże przetrwania państwa. Jedynie Amerykanom udało się wbrew niekorzystnym okolicznościom dobrnąć do brzegu. W akcie fundacyjnym nie ma ustępu o gwarancjach sukcesu. Fundamenty są niezbędne. Ale nie są wystarczające.
 
