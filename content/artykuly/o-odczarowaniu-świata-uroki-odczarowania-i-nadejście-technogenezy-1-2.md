@@ -2,6 +2,7 @@
 edition: 2026-2
 author: jakub-barański
 title: "O odczarowaniu Świata: Uroki odczarowania i nadejście technogenezy (1/2)"
+url: /o-odczarowaniu-swiata-1/
 date: 2026-09-01T20:00:00
 draft: false
 image: images/uploads/n1_odczarowanie-świata.jpg
@@ -15,7 +16,7 @@ noindex: false
 ---
 **Powszechnie uznajemy, że wraz z nadejściem nowoczesności ludzkość dokonała odczarowania świata. Niemiecki socjolog żyjący w XX w. Max Weber opisywał ten proces jako stopniowe wypieranie magicznego, symbolicznego i religijnego sposobu przeżywania rzeczywistości przez nowoczesną racjonalność. Świat przestał być miejscem zamieszkałym przez bogów, a stał się układem przewidywalnych mechanizmów. Odczarowanie jawi się jako dojrzalszy i bardziej uczciwy sposób obcowania z rzeczywistością. Droga od mitu do faktu. Od symbolu do mechanizmu. Od tajemnicy do wyjaśnienia. Wreszcie dotarliśmy do rzeczywistości.**
 
-*Pierwszy artykuł z serii „O odczarowaniu Świata”. Drugi artykuł „Nowa (bez)nadzieja” dostępny jest [tutaj](link).*
+*Pierwszy artykuł z serii „O odczarowaniu Świata”. Drugi artykuł „Nowa (bez)nadzieja” dostępny jest [tutaj](https://magazynflary.pl/o-odczarowaniu-swiata-2/).*
 
 # O chłopcu, który nie umiał opowiadać historii
 
@@ -81,7 +82,7 @@ To przekonanie, że poza naszymi reprezentacjami rzeczywistości tak naprawdę n
 
 Doskonałym przykładem tego jak mapa bezwiednie zlewa się nam z terytorium, wzmacniając w nas postawę depresyjno-lękową, jest zjawisko, które Mark Fisher nazwał realizmem kapitalistycznym: perspektywą na rzeczywistość tak totalną, że pretendującą do miana jej całkowitego odzwierciedlenia – mapą, która twierdzi, że pokrywa się z terytorium. Jest to dominująca ideologia naszych czasów, jest tym: „co pozostaje, gdy dawne wiary rozpadają się na poziomie organizacji rytualnej i symbolicznej, a jedyne co pozostaje to widz-konsument, z trudem przedzierający się przez rumowiska i zgliszcza*”* (Fisher, 2020, s. 13)*.* Siłą napędową realizmu kapitalistycznego, jest tzw. „system ekwiwalencji”, czyli mechanizm, który pozwala przeliczać jakościowo różne dobra, idee i doświadczenia na jeden wspólny język ceny i wartości rynkowej*.* Kapitalizm traktuje ten „zwrot od wiary do estetyki, od zaangażowania do biernego przypatrywania się” (Fisher, 2020, s. 13) jako jedną ze swoich największych cnót. Kultywuje w nas postawę ironicznego dystansu, twierdząc, że w ten sposób „«wybawił» nas od «zgubnych abstrakcji» inspirowanych przez ideologie przeszłości” (Fisher, 2020, s. 13)*.* Mówi nam: „jasne, być może nie żyjemy w stanie doskonałego Dobra. Ale mamy szczęście, że nie żyjemy w Złu*”* (Fisher, 2020, s. 14). Fałszywy „realizm” realizmu kapitalistycznego jest więc „analogiczny z zaniżonym horyzontem oczekiwań osoby cierpiącej na depresję, która sądzi, że każdy stan pozytywny, jakakolwiek nadzieja, to już niebezpieczne złudzenie” (Fisher, 2020, s. 13)*.* Nie ma nadziei na nic więcej, bo jest zbyt niebezpieczna – wszelka nadzieja musi się przecież z pewnością wiązać z jakimś (innym) totalitaryzmem, czającym się tuż za horyzontem. Jak mawiała Margaret Thatcher – „there is no alternative”.
 
-*To był pierwszy artykuł z serii „O odczarowaniu Świata”. Drugi artykuł „Nowa (bez)nadzieja” dostępny jest [tutaj](link).*
+*To był pierwszy artykuł z serii „O odczarowaniu Świata”. Drugi artykuł „Nowa (bez)nadzieja” dostępny jest [tutaj](https://magazynflary.pl/o-odczarowaniu-swiata-2/).*
 
 ## Bibliografia
 
