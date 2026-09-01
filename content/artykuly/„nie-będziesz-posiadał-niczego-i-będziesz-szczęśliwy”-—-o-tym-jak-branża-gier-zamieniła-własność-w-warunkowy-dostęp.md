@@ -5,8 +5,13 @@ title: „Nie będziesz posiadał niczego i będziesz szczęśliwy” — o tym,
   gier zamieniła własność w warunkowy dostęp
 date: 2026-09-01T20:00:00
 draft: false
+image: images/uploads/n1_giereczkowo.jpg
 image_focus_banner: 50% 50%
-image_focus_card: 50% 50%
+image_focus_card: 8% 50%
+image_credit_author: katarzyna-brzozowska
+description: Decyzja Sony o wycofaniu płyt to sygnał szerszych przemian w
+  branży. Esej o cyfryzacji dystrybucji, modelu GaaS i malejącej kontroli graczy
+  nad grami.
 noindex: false
 ---
 **[Zapowiedź Sony](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/) dotycząca zakończenia produkcji płyt z nowymi grami na PlayStation od stycznia 2028 roku nie rozpoczyna nowego procesu. Jest raczej jednym z tych momentów, w których proces trwający od lat staje się niemożliwy do dalszego ignorowania. To istotny punkt na drodze do całkowitej cyfryzacji dystrybucji, ale również kolejny symptom głębszego kryzysu rynku gier.**
@@ -19,7 +24,7 @@ Nie był to rezultat jednego spójnego planu przygotowanego przez Microsoft, Son
 
 Każde z tych zjawisk można było początkowo przedstawić jako postęp lub wygodę dla gracza. Razem doprowadziły jednak do przemiany rynku, na którym coraz częściej nie kupujemy już skończonego produktu, lecz uzyskujemy warunkowy dostęp do treści kontrolowanych przez kilka wielkich korporacji.
 
-## **Cyfrowy śmietnik**
+## Cyfrowy śmietnik
 
 Jednym z pierwszych symboli nadchodzącej zmiany stała się słynna zbroja dla konia, wydana w 2006 roku do The Elder Scrolls IV: Oblivion. Nie była pierwszym dodatkiem pobieranym w historii gier, ale okazała się wydarzeniem na tyle absurdalnym, że do dziś funkcjonuje jako jeden z mitów założycielskich współczesnej monetyzacji. PC Gamer podsumował to po latach krótko: zbroja dla konia wygrała, bo złamała starą umowę „kupujesz grę — dostajesz całą grę" i otworzyła nowe możliwości finansowe dla wydawców.
 
@@ -31,7 +36,11 @@ Przez pewien czas rzeczywiście istniało coś, co można nazwać złotym okrese
 
 Problem polegał na tym, że ta sama infrastruktura umożliwiła również coś zupełnie przeciwnego.
 
-Skoro grę można było aktualizować po premierze, można było także wydać ją niedokończoną. Skoro dodatkową zawartość dało się łatwo sprzedawać, można było wycinać ją z podstawowego produktu albo projektować już na etapie produkcji jako osobny element. Skoro gracz podpiął kartę do konta platformowego, można było rozbić cenę pojedynczych dodatków na dziesiątki mniejszych, mniej zwracających uwagę zakupów.
+{{< pullquote >}}
+Skoro grę można było aktualizować po premierze, można było także wydać ją niedokończoną.
+{{< /pullquote >}}
+
+Skoro dodatkową zawartość dało się łatwo sprzedawać, można było wycinać ją z podstawowego produktu albo projektować już na etapie produkcji jako osobny element. Skoro gracz podpiął kartę do konta platformowego, można było rozbić cenę pojedynczych dodatków na dziesiątki mniejszych, mniej zwracających uwagę zakupów.
 
 DLC przestało być dodatkiem do gry. Coraz częściej sama gra stawała się platformą służącą do ich sprzedaży.
 
@@ -41,7 +50,7 @@ W tym sensie cyfrowa dystrybucja stworzyła cyfrowy śmietnik: środowisko, w kt
 
 To nie była aberracja systemu. System zadziałał dokładnie tak, jak został zaprojektowany.
 
-## **Zmiana przy sterach**
+## Zmiana przy sterach
 
 Steve Jobs potrafił trafnie opisywać sposób, w jaki firmy technologiczne tracą zdolność tworzenia dobrych produktów.
 
@@ -79,7 +88,7 @@ Nie oznacza to, że Jim Ryan i Hermen Hulst nie rozumieli gier albo celowo chcie
 
 Właśnie w ten sposób zmienia się logika przedsiębiorstwa. Nie dochodzi do jednego zamachu na jego kulturę i nikt nie ogłasza, że firma przestaje troszczyć się o dobre produkty. Zmieniają się wskaźniki, kryteria sukcesu oraz ludzie awansowani na stanowiska decyzyjne. W końcu organizacja nadal zatrudnia tysiące utalentowanych twórców, ale coraz więcej ich pracy podporządkowuje celom powstałym poza samym procesem tworzenia gier. Dawna logika PlayStation się odwraca: to nie dobre gry mają zapewniać wzrost platformie, lecz gry są projektowane tak, aby realizować z góry określone potrzeby całego korporacyjnego ekosystemu.
 
-## **Koszt optymalizacji**
+## Koszt optymalizacji
 
 Branża gier opiera się na wiedzy, której nie da się w całości zapisać w dokumentacji. To doświadczenie gromadzone przez zespoły pracujące przez lata na tych samych silnikach, narzędziach i seriach: wiedza o tym, dlaczego konkretna mechanika działa, jak skonstruowany jest stary fragment kodu, które rozwiązania próbowano już wdrożyć i dlaczego się nie udały. To także nieformalne relacje między projektantami, programistami, artystami i producentami. W zarządzaniu określa się ją mianem wiedzy ukrytej lub organizacyjnej, a jej utrata ma bardzo konkretne konsekwencje.
 
@@ -109,15 +118,15 @@ Dlatego niemal każdy duży wydawca przez pewien czas chciał posiadać własne 
 
 Problem matematyczny był oczywisty: gracze mają ograniczony czas i nie mogą jednocześnie przez dziesięć lat aktywnie uczestniczyć w kilkudziesięciu różnych usługach. Nie przeszkodziło to jednak korporacjom inwestować miliardów w próbę zdobycia tego samego odbiorcy. Efektem stała się fala kosztownych projektów, anulowanych produkcji, zamykanych studiów i gier wyłączanych zaledwie kilka miesięcy po premierze.
 
-Najbardziej gorzkim kosztem tej gorączki nie były jednak same pieniądze. Było nim marnotrawstwo kompetencji. Studia, które przez lata doskonaliły się w bardzo konkretnych niszach — w zamkniętych opowieściach, immersyjnych symulacjach, autorskich światach — dostawały zadanie stworzenia własnego Fortnite'a. Arkane, mistrzowie immersive simów, zostali skierowani do produkcji[ sieciowej strzelanki Redfall](https://www.forbes.com/sites/paultassi/2023/06/02/suicide-squad-should-be-terrified-of-what-happened-with-redfall/), której klęska przyczyniła się do zamknięcia Arkane Austin. Rocksteady, twórcy trylogii Arkham, spędzili lata nad usługowym Suicide Squad: Kill the Justice League. Naughty Dog przez[ siedem lat rozwijało sieciowe The Last of Us](https://www.svg.com/2145237/why-the-last-of-us-online-canceled/), które ostatecznie anulowano — studio samo przyznało, że utrzymanie gry-usługi „poważnie wpłynęłoby na rozwój przyszłych gier dla jednego gracza".
+Najbardziej gorzkim kosztem tej gorączki nie były jednak same pieniądze. Było nim marnotrawstwo kompetencji. Studia, które przez lata doskonaliły się w bardzo konkretnych niszach — w zamkniętych opowieściach, immersyjnych symulacjach, autorskich światach — dostawały zadanie stworzenia własnego Fortnite'a. Arkane, mistrzowie immersive simów, zostali skierowani do produkcji [sieciowej strzelanki Redfall](https://www.forbes.com/sites/paultassi/2023/06/02/suicide-squad-should-be-terrified-of-what-happened-with-redfall/), której klęska przyczyniła się do zamknięcia Arkane Austin. Rocksteady, twórcy trylogii Arkham, spędzili lata nad usługowym Suicide Squad: Kill the Justice League. Naughty Dog przez [siedem lat rozwijało sieciowe The Last of Us](https://www.svg.com/2145237/why-the-last-of-us-online-canceled/), które ostatecznie anulowano — studio samo przyznało, że utrzymanie gry-usługi „poważnie wpłynęłoby na rozwój przyszłych gier dla jednego gracza".
 
 Za każdym z tych projektów stały zespoły posiadające rzadkie, budowane latami umiejętności — wykorzystywane do gonienia za produktem, którego rynek nie potrzebował w kilkudziesięciu egzemplarzach. To tak, jakby kazać zegarmistrzom składać zegarki z reklam teleskopowych, bo konkurencja dobrze na nich zarabia.
 
 Ryzyko tych decyzji nie zostało przy tym poniesione głównie przez ludzi, którzy je podejmowali. Ponosili je pracownicy tracący zatrudnienie i gracze zostający z produktem, którego serwery przestawały istnieć.
 
-## **Cyberpunk miał rację**
+## Cyberpunk miał rację
 
-Pamiętacie słynne zdanie: *„Nie będziesz posiadał niczego i będziesz szczęśliwy"*?
+Pamiętacie słynne zdanie: „Nie będziesz posiadał niczego i będziesz szczęśliwy"?
 
 W internecie zaczęło funkcjonować jako mem, polityczne hasło i podsumowanie lęku przed światem, w którym każda dziedzina życia zostanie zamieniona w abonament. Niezależnie od jego pierwotnego kontekstu trudno znaleźć rynek, do którego pasowałoby ono lepiej niż współczesne gry.
 
@@ -125,17 +134,19 @@ Kupując grę cyfrową, zazwyczaj nie otrzymujemy własności porównywalnej z p
 
 Fizyczny nośnik zachowuje kilka fundamentalnych cech własności: można go pożyczyć, sprzedać, podarować i kupić poza sklepem kontrolowanym przez producenta konsoli.
 
-Trzeba jednak uczciwie przyznać, że sama płyta od dawna nie gwarantuje już tego, co obiecuje. Ghost Recon Breakpoint w wersji 1.0 — tej wytłoczonej na nośniku — był zupełnie inną grą niż ta, w którą można grać dzisiaj. Ubisoft w ramach[ aktualizacji Ghost Experience](https://news.ubisoft.com/en-us/article/7C8HVvopbmChkAXpkXK1eX/major-ghost-recon-breakpoint-update-introduces-ghost-experience) przebudował całą strukturę rozgrywki:[ wyrzucił system poziomów wyposażenia](https://opencritic.com/news/1227/ghost-recon-breakpoint-removes-gear-levels-with-immersive-mode-update), poprawił balans i dodał tryb immersyjny, który zmienił charakter gry. Podobnie z Wiedźminem 3 i Cyberpunkiem 2077: wersje zamknięte na płytach były produktami w najlepszym razie surowymi, a w przypadku Cyberpunka — miejscami niedziałającymi.
+Trzeba jednak uczciwie przyznać, że sama płyta od dawna nie gwarantuje już tego, co obiecuje. Ghost Recon Breakpoint w wersji 1.0 — tej wytłoczonej na nośniku — był zupełnie inną grą niż ta, w którą można grać dzisiaj. Ubisoft w ramach [aktualizacji Ghost Experience](https://news.ubisoft.com/en-us/article/7C8HVvopbmChkAXpkXK1eX/major-ghost-recon-breakpoint-update-introduces-ghost-experience) przebudował całą strukturę rozgrywki: [wyrzucił system poziomów wyposażenia](https://opencritic.com/news/1227/ghost-recon-breakpoint-removes-gear-levels-with-immersive-mode-update), poprawił balans i dodał tryb immersyjny, który zmienił charakter gry. Podobnie z Wiedźminem 3 i Cyberpunkiem 2077: wersje zamknięte na płytach były produktami w najlepszym razie surowymi, a w przypadku Cyberpunka — miejscami niedziałającymi.
 
 Kompletna gra nie znajduje się już na nośniku. Znajduje się na serwerach wydawcy, w postaci kolejnych aktualizacji, do których dostęp jest — znów — warunkowy. Fizyczna kopia daje dziś własność punktu wyjścia, ale niekoniecznie własność skończonego dzieła.
 
 Nie jest to argument za likwidacją płyt. Jest to dowód, że erozja własności zaczęła się na długo przed decyzją Sony. Płyta umierała od środka, zanim ktokolwiek oficjalnie ogłosił jej pogrzeb. Otwarte pozostaje pytanie, którego branża wolała nigdy nie zadać: jak mógłby wyglądać model, w którym gracz kupujący fizyczną kopię zachowuje trwały dostęp także do jej ostatecznej, poprawionej wersji — niezależnie od tego, czy serwery wydawcy będą jeszcze istnieć za piętnaście lat.
 
+{{< pullquote >}}
 Likwidacja nośnika nie jest więc wyłącznie zmianą sposobu dostarczania danych. To likwidacja alternatywnego obiegu gospodarczego.
+{{< /pullquote >}}
 
 Bez płyt znika rynek gier używanych. Znika możliwość odsprzedaży nietrafionego zakupu. Znika konkurencja cenowa pomiędzy sklepami posiadającymi własne zapasy. Znika także część możliwości zachowywania gier poza infrastrukturą ich wydawców.
 
-Sony[ uzasadnia zakończenie produkcji płyt](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/) dla nowych gier od stycznia 2028 roku dominacją sprzedaży cyfrowej — według firmy w ostatnim kwartale roku finansowego 2025[ około 85 procent sprzedaży pełnych gier](https://www.softonic.pl/artykuly/sony-oglasza-koniec-plytowych-wydan-gier-na-playstation-nowe-tytuly-tylko-cyfrowo-od-2028-roku) przypadało na dystrybucję cyfrową (choć[ część graczy kwestionuje metodologię tych wyliczeń](https://www.gry-online.pl/newsroom/decyzja-sony-o-koncu-plyt-zszokowala-wielu-ale-szerszy-obraz-cyfr/zf31335)). Grunt pod tę decyzję przygotował zresztą największy wydawca branży:[ GTA VI ukaże się wyłącznie cyfrowo](https://www.gamedeveloper.com/business/playstation-ending-production-of-physical-software-in-january-2028), nawet w pudełkowych wydaniach zamiast płyty znajdzie się kod. Z biznesowego punktu widzenia decyzja Sony jest więc zrozumiała.
+Sony [uzasadnia zakończenie produkcji płyt](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/) dla nowych gier od stycznia 2028 roku dominacją sprzedaży cyfrowej — według firmy w ostatnim kwartale roku finansowego 2025 [około 85 procent sprzedaży pełnych gier](https://www.softonic.pl/artykuly/sony-oglasza-koniec-plytowych-wydan-gier-na-playstation-nowe-tytuly-tylko-cyfrowo-od-2028-roku) przypadało na dystrybucję cyfrową (choć [część graczy kwestionuje metodologię tych wyliczeń](https://www.gry-online.pl/newsroom/decyzja-sony-o-koncu-plyt-zszokowala-wielu-ale-szerszy-obraz-cyfr/zf31335)). Grunt pod tę decyzję przygotował zresztą największy wydawca branży: [GTA VI ukaże się wyłącznie cyfrowo](https://www.gamedeveloper.com/business/playstation-ending-production-of-physical-software-in-january-2028), nawet w pudełkowych wydaniach zamiast płyty znajdzie się kod. Z biznesowego punktu widzenia decyzja Sony jest więc zrozumiała.
 
 Tylko że dominacja określonego modelu nie oznacza automatycznie, że jego całkowite zwycięstwo leży w interesie konsumentów.
 
@@ -143,12 +154,14 @@ Gracze wybierali dystrybucję cyfrową, ponieważ była wygodna. Nie oznacza to,
 
 I być może właśnie tutaj postawiły na nas krzyżyk.
 
+{{< pullquote >}}
 Nie jesteśmy już klientami, których trzeba przekonać do zakupu dobrego produktu. Jesteśmy użytkownikami zamkniętego ekosystemu: posiadaczami kont, subskrybentami, źródłami danych i prognozowanymi strumieniami przyszłych przychodów.
+{{< /pullquote >}}
 
-Gracze próbowali się temu przeciwstawić. Inicjatywa Stop Killing Games zebrała blisko 1,3 miliona podpisów pod postulatem, by wydawcy mieli prawny obowiązek pozostawiania gier w grywalnym stanie po zakończeniu wsparcia — i była dopiero czternastą inicjatywą obywatelską w historii Unii, która przebiła się przez wszystkie formalne progi. 16 czerwca 2026 roku[ Komisja Europejska odrzuciła jej główne żądanie](https://cdaction.pl/newsy/komisja-europejska-odrzucila-zadania-stop-killing-games-ponad-milion-podpisow-nie-wystarczyl-by-zmusic-wydawcow-do-ratowania-gier/). Uznała, że taki obowiązek byłby „nieproporcjonalny" i kolidowałby z prawami własności intelektualnej wydawców. Zamiast regulacji zaproponowała[ dobrowolny kodeks postępowania](https://www.instalki.pl/news/gry/unia-europejska-odrzuca-stop-killing-games/), którego nikt nie musi przestrzegać. Smaku sprawie dodaje fakt, że[ przed ogłoszeniem decyzji Komisja spotkała się z Ubisoftem](https://cdaction.pl/newsy/komisja-europejska-odrzucila-zadania-stop-killing-games-ponad-milion-podpisow-nie-wystarczyl-by-zmusic-wydawcow-do-ratowania-gier/) — firmą, której wyłączenie serwerów The Crew zapoczątkowało cały ruch.
+Gracze próbowali się temu przeciwstawić. Inicjatywa Stop Killing Games zebrała blisko 1,3 miliona podpisów pod postulatem, by wydawcy mieli prawny obowiązek pozostawiania gier w grywalnym stanie po zakończeniu wsparcia — i była dopiero czternastą inicjatywą obywatelską w historii Unii, która przebiła się przez wszystkie formalne progi. 16 czerwca 2026 roku [Komisja Europejska odrzuciła jej główne żądanie](https://cdaction.pl/newsy/komisja-europejska-odrzucila-zadania-stop-killing-games-ponad-milion-podpisow-nie-wystarczyl-by-zmusic-wydawcow-do-ratowania-gier/). Uznała, że taki obowiązek byłby „nieproporcjonalny" i kolidowałby z prawami własności intelektualnej wydawców. Zamiast regulacji zaproponowała [dobrowolny kodeks postępowania](https://www.instalki.pl/news/gry/unia-europejska-odrzuca-stop-killing-games/), którego nikt nie musi przestrzegać. Smaku sprawie dodaje fakt, że [przed ogłoszeniem decyzji Komisja spotkała się z Ubisoftem](https://cdaction.pl/newsy/komisja-europejska-odrzucila-zadania-stop-killing-games-ponad-milion-podpisow-nie-wystarczyl-by-zmusic-wydawcow-do-ratowania-gier/) — firmą, której wyłączenie serwerów The Crew zapoczątkowało cały ruch.
 
 Dwa tygodnie później Sony ogłosiło koniec płyt.
 
-Trudno o lepszą ilustrację tego, jak rozłożone są siły. Ponad milion obywateli formalnie zażądał minimalnych gwarancji własności — i usłyszał, że istniejące przepisy wystarczą. Korporacja jednostronnie zlikwidowała ostatni fizyczny obieg gier — i nie musiała pytać nikogo o zgodę. Organizatorzy inicjatywy[ przenoszą teraz walkę do Parlamentu Europejskiego](https://www.eurogamer.pl/stop-killing-games-przegrywa-w-parlamencie-europejskim-prawa-graczy-sa-zagrozone), licząc na poprawki do Digital Fairness Act, ale na razie to korporacje rozdają karty.
+Trudno o lepszą ilustrację tego, jak rozłożone są siły. Ponad milion obywateli formalnie zażądał minimalnych gwarancji własności — i usłyszał, że istniejące przepisy wystarczą. Korporacja jednostronnie zlikwidowała ostatni fizyczny obieg gier — i nie musiała pytać nikogo o zgodę. Organizatorzy inicjatywy [przenoszą teraz walkę do Parlamentu Europejskiego](https://www.eurogamer.pl/stop-killing-games-przegrywa-w-parlamencie-europejskim-prawa-graczy-sa-zagrozone), licząc na poprawki do Digital Fairness Act, ale na razie to korporacje rozdają karty.
 
 Cyberpunk nie miał racji dlatego, że przewidział neonowe miasta, implanty i gigantyczne wieżowce należące do korporacji. Miał rację, ponieważ rozumiał, że prawdziwa władza korporacyjna nie musi polegać na brutalnym zmuszaniu ludzi do posłuszeństwa.
