@@ -1,0 +1,59 @@
+---
+edition: 2026-2
+author: bartosz-marcinkowski
+title: "Punkty krytyczne gospodarki cyfrowej: Google"
+date: 2026-09-01T20:00:00
+draft: false
+image: images/uploads/n1_punkty-krytyczne-gospodarki-cyfrowej-google.jpg
+image_focus_banner: 50% 50%
+image_focus_card: 52% 50%
+image_credit_author: katarzyna-brzozowska
+description: Co by się stało, gdyby Google użyło swojej pozycji jako broni?
+  Analiza suwerenności cyfrowej i ukrytej władzy technologicznego giganta nad
+  rynkiem.
+noindex: false
+---
+**Książka *Punkty krytyczne* Edwarda Fishmana opowiada o władzy, jaką dysponują Stany Zjednoczone, zajmując szczególne miejsce w światowej gospodarce. W tym tekście chciałbym w podobnym kluczu przyjrzeć się roli jednej firmy w naszym życiu gospodarczym. Przyjmijmy role różnych podmiotów i zobaczmy, czy uda nam się unikać kluczowych elementów infrastruktury gospodarki cyfrowej kontrolowanych przez Google.**
+
+*Punkty krytyczne* Edwarda Fishmana opisują, jak powszechne mechanizmy, niezauważalne na co dzień i uchodzące za neutralne, mogą stać się bardzo skuteczną bronią w razie konfliktu z tym, kto je kontroluje. Łatwiej było w latach 90. i 2000. traktować ustrój handlowy świata jako przezroczysty i naturalny. Natura władzy wynikającej z tego ustroju stała się jawna w czasie konfliktów USA z Iranem, Chinami i Rosją.
+
+Rozważając kwestię suwerenności technologicznej, warto rozpatrzyć następujący scenariusz: co by się stało, gdyby dane państwo albo nawet jedna firma zaczęła wykorzystywać swoją pozycję jako broń? Jak poradzą sobie nasze serwisy internetowe? Czy rząd jest w stanie dystrybuować oprogramowanie dające dostęp do usług obywatelskich? Dopiero kiedy wyobrazimy sobie skutki wrogości ze strony firmy, będziemy w stanie odróżnić korzystną współpracę od asymetrycznej zależności. Żeby jak najlepiej przedstawić zachodzące relacje, przyjmę w tekście perspektywę różnych podmiotów polegających na usługach firmy Google i rozważę, na ile byłyby w stanie funkcjonować, gdyby miały unikać produktów tej jednej korporacji.
+
+## Reklama internetowa
+
+Wcielmy się najpierw w rolę polskiego producenta AGD, który chce dotrzeć do konsumentów z nową linią zmywarek. Jeżeli potencjalny klient szuka produktów przez internet trudno o lepsze miejsce na reklamę niż wyszukiwarka, gdzie sam ujawni swoją intencję, wpisując kluczowe słowo „zmywarka” w pole wyszukiwania. Jak wiadomo, najpopularniejszą wyszukiwarką i jednocześnie najbardziej popularną stroną internetową jest Google. Drugi w kolejności YouTube, gdzie można znaleźć recenzje, unboxing i porównania – również należy do tej samej korporacji. Możemy unikać Google i YouTube, ale nasza konkurencja ich nie unika. Dla nich te kanały to bardzo wartościowe źródła transakcji, w których potencjalny klient poprzez swoje wyszukiwania sam wskaże odpowiednią treść.
+
+Teraz stańmy po drugiej stronie internetowej reklamy – w miejscu wydawcy darmowego serwisu, który utrzymuje się z reklam. Żeby przedsięwzięcie się finansowało, chcemy by reklamodawcy w jak największej liczbie licytowali jak najwyższe stawki za wyświetlenie reklamy w naszym serwisie. Największą pulę zapewnia Google Ad Manager –  producenci AGD i innych produktów skuszeni do ekosystemu Google będą zintegrowani z naszym serwisem, jeżeli i my wejdziemy do tego ekosystemu. Stawki też będą wyższe, jeżeli dopasowywanie reklam będzie wspomagane przez Google: obliczane na podstawie wcześniejszych wyszukiwań i historii użytkowania YouTube, GMail, Google Play.
+
+Te dwie perspektywy pokazują, jak to się dzieje, że gdy polski producent AGD wyświetla reklamę polskim konsumentom w polskim serwisie internetowym, to i tak ma w tym udział Google, czasem nawet trzykrotnie: pobiera marżę jako operator giełdy reklam (Google Ad Exchange), jako dostawca integracji z giełdą dla reklamodawcy (Google Display & Video 360) i z drugiej strony dla wydawcy (Google Ad Manager). 
+
+{{< pullquote >}}
+Zasadne jest pytanie – jeżeli na giełdzie ta sama firma reprezentuje kupującego, sprzedającego i przeprowadza aukcję, to co optymalizuje? Maksymalizuje cenę dla sprzedającego? Minimalizuje dla kupującego? Czy ta infrastruktura jest bezstronna?
+{{< /pullquote >}}
+
+
+Śledztwa związane ze [sprawami](https://en.wikipedia.org/wiki/United_States_v._Google_LLC_(2020)#Remedies_trial_(2025)) przed sądami w [USA](https://en.wikipedia.org/wiki/United_States_v._Google_LLC_(2023)) i [UE](https://en.wikipedia.org/wiki/Antitrust_cases_against_Google_by_the_European_Union) ujawniły, że nie jest – jeżeli monopol jednego komponentu Google w ekosystemie był zagrożony, dostawał [wsparcie](https://www.adexchanger.com/antitrust/project-cheat-sheet-a-rundown-on-all-of-googles-secret-internal-projects-as-revealed-by-the-doj/) przy wykorzystaniu innych. Na przykład według amerykańskiego departamentu sprawiedliwości w 2014 Google uruchomił „Project Bell”, w ramach którego komponent reprezentujący reklamodawcę zmieniono tak, żeby zniechęcać wydawców do szukania alternatywy do Google Ad Exchange. Algorytm obliczający oferowaną cenę zakupu na aukcji w imieniu reklamodawcy zaczął rozróżniać wydawców dopuszczających konkurencyjne wobec Google kanały sprzedaży powierzchni reklamowej – otrzymywali oni niższe stawki. Reklamodawcy nie byli tego świadomi – z ich punktu widzenia taka reguła nie była uzasadniona. Ze względu na ogromną skalę popytu skumulowaną w ekosystemie Google efekt był dla wydawców dotkliwy. Otrzymali sygnał, że ogłaszanie aukcji u konkurencji wiąże się ze spadkiem dochodów z głównego źródła.
+
+## Usługi cyfrowe
+
+Google dominuje nie tylko ekosystem reklamy, ale też technologię dostępu do usług cyfrowych. Najpopularniejsze przeglądarki są oparte na Chromium (Google Chrome, Microsoft Edge, Opera, Vivaldi, Brave), w kluczowych aspektach technologicznych kontrolowane przez Google. Monopolista dzięki temu może wprowadzić nowy standard tworzenia rozszerzeń Manifest V3, który znacząco utrudnia tworzenie wtyczek ad-block i chroni zyski z reklam (w oficjalnej komunikacji dotyczy prywatności i bezpieczeństwa). Potężne doinwestowanie darmowej przeglądarki dzięki zyskom z marketingu powoduje, że tworzenie potencjalnych alternatyw jest mało opłacalne. Nawet Firefox utrzymuje się z pieniędzy Google otrzymywanych za integrację z wyszukiwarką. W efekcie Google nie musi się martwić o dostosowanie do standardów technologicznych – w dużej mierze je wyznacza.
+
+Jeżeli Google wdroży jakieś rozwiązanie w swojej przeglądarce i swoich serwisach, poprawiając ich działanie, to twórcy innych przeglądarek i innych serwisów muszą się dostosować. Użytkownik alternatywnej przeglądarki zwykle chce, aby Google Search, YouTube czy Gmail działały równie wydajnie jak w Chrome, więc jej twórca musi priorytetyzować standardy wyznaczone przez Google. Strony internetowe będą dostosowywane, ponieważ cokolwiek wdroży Google w przeglądarce dotyczy zdecydowanej większości użytkowników.
+
+Wejdźmy w rolę banku spółdzielczego, który chce oferować swoim klientom uczciwe warunki, dobre usługi, zminimalizować koszty obsługi. Zastanówmy się nad ekonomią dotarcia do klienta w jego przeglądarce internetowej. Czy opłacimy stworzenie serwisu internetowego testowanego na Google Chrome (i automatycznie kompatybilnego z Edge, Opera, Vivaldi i Brave), czy podwyższymy koszty operacyjne dla tych kilku procent użytkowników, którzy korzystają z bardziej niszowych przeglądarek? Jako klient banku spółdzielczego, przekonałem się na własnej skórze – aplikacja działa prawidłowo tylko na przeglądarkach spokrewnionych z Google Chrome.
+
+Kolejnym, po przeglądarce, kanałem dostępu do usług cyfrowych są aplikacje na urządzenia mobilne. Jeżeli wcielimy się w producenta telefonów, możemy zaczynać od zera z własnym sklepem aplikacji, gdzie użytkownik nie znajdzie swojego banku ani mObywatela, nie podłączy telefonu do systemu samochodu. Możemy też porozumieć się z Google, który rozwija Androida i umożliwi integrację z Play Store, o ile zaakceptujemy jego warunki.
+
+Mogłoby się wydawać, że w łatwiejszej sytuacji jest bank spółdzielczy dostarczający aplikację na telefon. Jeżeli istniejące mechanizmy zabezpieczeń w przeglądarce są wystarczające do zalogowania się do banku, to są też wystarczające do dystrybucji aplikacji. Mogłoby być tak, że od strony internetowej banku zaczyna się proces instalacji aplikacji na telefon, oparty o bezpośrednie połączenie pomiędzy użytkownikiem i stroną internetową, włącznie z zarejestrowaniem w systemie telefonu sposobu pozyskiwania przyszłych aktualizacji. Jednak tak nie jest – dystrybucja aplikacji jest scentralizowana w Google Play, dając gigantowi silną pozycję wobec producentów telefonów i twórców aplikacji. Na stronie banku znajdujemy informację „Dostępne w Google Play”, a nie przycisk „Pobierz aplikację na Android” umożliwiający bezpośrednie połączenie użytkownika i twórcy.
+
+{{< pullquote >}}
+Jako użytkownicy zostaliśmy tak do tego przyzwyczajeni, że nie tylko nas to nie dziwi, ale nawet oczekujemy od swojego banku i własnego państwa, że będą dystrybuować oprogramowanie za pośrednictwem Google Play i na jego warunkach.
+{{< /pullquote >}}
+
+Dystrybucja aplikacji na telefony z Android bez pośrednictwa Google jest od dawna [możliwa](https://f-droid.org/pl/), choć cyfrowy gigant walczy, żeby ją utrudnić. Tak jak „dla naszego bezpieczeństwa” Google zwalcza wsparcie ad-block w przeglądarkach, tak na telefonach chce [chronić nas przed niezaufanymi aplikacjami](https://keepandroidopen.org/pl/). Dąży do tego, żebyśmy na telefonie, za który już zapłaciliśmy, nie mogli po prostu zainstalować i uruchomić aplikacji, którą sobie wybraliśmy, bez Google jako pośrednika. Google zamierza skomplikować procedurę odblokowywania niezależnych aplikacji w ten sposób, aby zaczynała się ona od przejścia w głęboko ukryty „tryb programisty”, z niepokojącym użytkownika pytaniem „Czy nikt Cię do tego nie zmusza?”, a kończyła się odczekaniem 24 godzin. Czy prowadząc bank spółdzielczy chcielibyśmy, aby każdy z naszych klientów był zmuszony przechodzić przez tak skomplikowaną procedurę?
+
+## Punkty krytyczne
+
+W opisanych wyżej sytuacjach trudno jest uniknąć Google, ale nie są one jednakowe. W jednej grupie problemem jest zdolność monopolisty do narzucania warunków firmom, które w asymetrycznej relacji mogą zostać wykorzystane do dalszego wzmocnienia jego pozycji na rynku. W drugiej jest ustalanie standardów, kontrolowanie powszechnie używanych kanałów dystrybucji i komunikacji, pozycjonowanie się w roli pośrednika nawet między obywatelem a państwem albo organizacją non-profit.
+
+Zauważmy, że do pewnego stopnia problemy z Google ma też kraj macierzysty, USA – tamtejsi kontrahenci giganta również mierzą się z jego dominacją na rynku. Seria postępowań antymonopolowych w Ameryce, w tym wyroki stwierdzające monopol, nie przyniosła jednak jak dotąd wystarczających rozwiązań. Możliwe, że wpływ ogromnej korporacji sięga dość daleko, żeby chronić ją przed interwencją, ale niewykluczone, że państwo uznało, że niekorzystne skutki wewnętrzne są zrównoważone przez korzyści na arenie międzynarodowej. *Punkty krytyczne* Edwarda Fishmana pokazują użycie handlu i finansów jako narzędzi polityki zagranicznej – może kiedyś przeczytamy o analogicznym wykorzystaniu Google.
