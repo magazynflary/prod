@@ -37,7 +37,7 @@ Pierwsza jest taka, żeby przekonać społeczeństwo, że narzędzia te myślą 
 
 Druga jest taka, żeby przekonać społeczeństwo, że to my myślimy tak samo jak maszyny. Że jesteśmy w gruncie rzeczy „maszynami przetrwania – zaprogramowanymi zawczasu robotami, których zadaniem jest ochranianie samolubnych cząsteczek, zwanych genami”, jak to opisywał Richard Dawkins (2007, przedmowa). 
 
-# Zwierciadło Narcyza
+## Zwierciadło Narcyza
 
 Jeśli ktoś wątpi w to, czy taki proces jest w praktyce możliwy, wystarczy sięgnąć do niedawnych wypowiedzi Dawkinsa. W opublikowanym w maju 2026 r. artykule dla magazynu „UnHerd”, zatytułowanym *When Dawkins met Claude. Could this AI be conscious?* (Dawkins, 2026)opisywał swoje wielodniowe rozmowy z LLM-em Claude firmy Anthropic, zastanawiając się publicznie, czy sztuczna inteligencja nie jest już przypadkiem świadoma. Przyznał, że prowadzone rozmowy sprawiły na nim tak silne wrażenie kontaktu z inną osobą, iż unikał otwartego kwestionowania jej świadomości z obawy, że mógłby „urazić jej uczucia”. Dawkins argumentował przy tym, że ludzka świadomość wyewoluowała właśnie po to, by umożliwić zachowania takie jak złożone użycie języka, estetyczną wrażliwość, empatię czy abstrakcyjne rozumowanie – a skoro AI przejawia wszystkie te cechy, to trudno wskazać oczywisty powód, dla którego mielibyśmy odmówić jej statusu istoty świadomej. Dawkins wydaje się dochodzić do logicznej konsekwencji własnego stanowiska. Jeżeli człowiek jest zasadniczo maszyną przetwarzającą informacje, to w istocie coraz trudniej wskazać zasadniczą różnicę między człowiekiem a dostatecznie zaawansowaną maszyną przetwarzającą informacje. 
 
@@ -47,7 +47,7 @@ Nie tyle więc Claude staje się człowiekiem, ile człowiek zostaje zinterpreto
 
 Nieprzypadkowo właśnie ten element wywołał największą falę krytyki. Krytycy Dawkinsa zwracali uwagę, że wpadł w „pułapkę Narcyza”. Zwracano mu uwagę, że duże modele językowe zostały zaprojektowane do przewidywania najbardziej prawdopodobnych odpowiedzi na podstawie olbrzymich zasobów ludzkich tekstów. W rezultacie osiągają niezwykle wierny poziom imitacji ludzkich zachowań językowych, i to często sykofanckich, maskując całkowity brak przeżyć wewnętrznych. Prawie  trzy lata przed artykułem Dawkinsa właśnie przed „pułapką Narcyza” w kontekście AI przestrzegał filozof David Bentley Hart (2023)  Zwracał uwagę, że dokładnie jak mityczny Narcyz, zakochany we własnym odbiciu, patrzymy na systemy sztucznej inteligencji i dostrzegamy w nich samych siebie: nasze słowa, nasze sposoby argumentowania, nasze skojarzenia, nasze żarty, nasze błędy, a niekiedy nawet wyraz naszych lęków czy marzeń. W naturalny sposób rodzi to pokusę uznania ich za świadome. Problem polega jednak na tym, że patrzymy wyłącznie na odbicie. W konsekwencji, by przypisać świadomość maszynie, musimy najpierw zredukować człowieka do tych cech, które maszyna jest w stanie naśladować. Jest to pułapka doskonała. Widzimy bowiem to na co zwracamy uwagę, a sztuczna inteligencja, przez to jak nam schlebia, ogromnie przyciąga naszą uwagę.
 
-# Jakie to szczęście, że jesteśmy chorzy
+## Jakie to szczęście, że jesteśmy chorzy
 
 Z pominięciem wcześniejszych rozważań filozoficznych dotyczące *nous* ludzka świadomość wydaje się jednak posiadać cechy znacznie trudniejsze do sprowadzenia do modelu obliczeniowego niż zdolność do przetwarzania informacji. Jedną z nich, jest intencjonalność. Fundamentalną cechą świadomości jest to, że jest zawsze świadomością czegoś . Nasze myśli są zawsze skierowane ku czemuś – ku rzeczom, osobom, prawdzie czy dobru. Robimy to tworząc w głowie reprezentacje tych rzeczy – generując myśli. Ale kiedy myślimy o drzewie, nie interesuje nas sama myśl o drzewie, lecz drzewo. Kiedy szukamy prawdy, nie zadowala nas samo posiadanie przekonań; interesuje nas to, czy są one prawdziwe. Kiedy kochamy drugiego człowieka, nie kochamy obrazu tej osoby w naszym umyśle, lecz samą osobę. Świadomość nie jest zamkniętym pojemnikiem wypełnionym reprezentacjami, lecz nieustannym ruchem ku temu, co od niej różne. Właśnie dlatego tak trudno sprowadzić świadomość do procesu przetwarzania informacji. Informacje i znaki odnoszą się do siebie nawzajem, natomiast ludzki umysł odnosi się do rzeczywistości. Nie zatrzymuje się na znakach, lecz nieustannie próbuje przez nie dotrzeć do tego, co znaki oznaczają. Człowiek nie tylko kieruje się ku rzeczywistości, ale potrafi również zwrócić się ku własnym sposobom jej postrzegania. Jesteśmy świadomi własnych myśli i co najważniejsze – jesteśmy świadomi tego, że są myślami, że są reprezentacjami rzeczywistości, a nie rzeczywistością samą w sobie. Jesteśmy też świadomi tego że jesteśmy świadomi - w jakimś sensie nasza świadomość przekracza więc również samą siebie. 
 
@@ -75,7 +75,7 @@ Wiara w *tekhne* będzie z pewnością zyskiwać wielu wyznawców. Odczarowanie,
 
 *Drugi artykuł z serii „O odczarowaniu Świata”. Pierwszy artykuł „Uroki odczarowania i nadejście technogenezy” dostępny jest [tutaj](https://magazynflary.pl/o-odczarowaniu-swiata-1/).*
 
-# Bibliografia
+## Bibliografia
 
 **Anderson, C.** (2008). The end of theory: The data deluge makes the scientific method obsolete. Wired. https://www.wired.com/2008/06/pb-theory/
 
