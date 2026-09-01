@@ -6,6 +6,9 @@ date: 2026-09-01T20:00:00
 draft: false
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
+description: Zmęczenie, samotność i przymus sukcesu. Dlaczego filozof Byung-Chul
+  Han tak celnie diagnozuje współczesność? Przeczytaj esej o społeczeństwie
+  wypalenia.
 noindex: false
 ---
 **Jego książki stały się przedmiotem dyskusji zarówno na zachodnich uniwersytetach, jak i w reelsach na TikToku. Cytuje go zarówno prawica, jak i lewica. W rozpiętej koszuli, z włosami spiętymi w samurajską kitę i nierzadko z fajką nabitą tytoniem, Byung-Chul Han pyta, ile zostało z człowieka w epoce nieustannej produktywności. Współczesny alchemik. W swoich esejach powraca do pytań o zanik relacji, erozję wspólnoty i podporządkowanie życia logice wydajności. Co takiego mówi nam jego myśl o nas samych, że z taką łatwością widzimy w niej dzisiaj ducha czasu?**
@@ -24,7 +27,13 @@ Zdaniem Hana nie potrzeba już dzisiaj zewnętrznej instytucji władzy, aby uleg
 
 Obywatel zanurzony w linkedinowo-instagramowej filozofii samorozwoju i sukcesów, naprzemiennie doznaje wątpliwych gratyfikacji i wewnętrznych scen kaźni. Walczy już tylko ze sobą i siebie samego eksploatuje. Potrzeba więcej, potrzeba ciągle. Sukcesy są chwilowe, a rozwój jest nieustanny. Skoro wszystko jest możliwe, to jak można niczego nie osiągać i nie robić nic? Niepowodzenie przestaje być wypadkową losu lub niesprawiedliwością systemu, a staje się osobistą porażką. Życie jest wówczas przeszkodą w realizacji samego siebie. Na końcu tej logiki, w niemych trzaskach bicza ideału ego, pojawia się narcystyczna depresja.
 
-Pracowakacje. Pracopasje. Pracoidentyfikacje. Tożsamość nie jest już złożoną opowieścią i indywidualną historią doświadczeń, ale sumą własnych osiągnięć, umiejętności i ambicji. Han twierdzi, że niewolnicy neoliberalizmu sami nałożyli sobie kajdany wolności, w których nigdy wolni być nie mogą i w których niemożliwym jest uciec przed samym sobą. Foucaultowski dyskurs władzy, w obliczu nieustannego przymusu osiągnięć i pozytywności, staje się niewystarczający.
+Pracowakacje. Pracopasje. Pracoidentyfikacje. Tożsamość nie jest już złożoną opowieścią i indywidualną historią doświadczeń, ale sumą własnych osiągnięć, umiejętności i ambicji. 
+
+{{< pullquote >}}
+Han twierdzi, że niewolnicy neoliberalizmu sami nałożyli sobie kajdany wolności, w których nigdy wolni być nie mogą i w których niemożliwym jest uciec przed samym sobą.
+{{< /pullquote >}}
+
+Foucaultowski dyskurs władzy, w obliczu nieustannego przymusu osiągnięć i pozytywności, staje się niewystarczający.
 
 ## Pornografia autoprezentacji
 
@@ -38,7 +47,11 @@ Im więcej posiadamy, tym mniej doświadczamy. Ulotne staje się poczucie zachwy
 
 A jednak nie pozostajemy obojętni wobec przesytu. Nadmiar nas upośledza. Han pyta, czy nadal możemy myśleć o sobie jako o społeczeństwie freudowskim, pełnym wewnętrznych konfliktów, zakazów i wyparcia. Coraz częściej podstawowym doświadczeniem nie jest bowiem konflikt, lecz przeciążenie. Nie zakaz, lecz nadmiar możliwości. Nie represja, lecz przestymulowanie. Ciągła przerzutność uwagi i wyczerpanie poznawcze. Czy zaburzenie ADHD można opisać w języku nieświadomości?
 
-Na dopaminowym łańcuchu sięgamy po media antyspołecznościowe tak, jak kiedyś sięgano po używki. A jednocześnie żyjemy fit. Jak dowodzi Han, nasze ciała również nie są wolne od doktryny samorozwoju. Memiczny obraz Włocha z paczką Marlboro i czarną kawą ustąpił pod ciężarem nowych ikon: porannej matchy albo shake’a po treningu, śniadania bogatego w błonnik i białko, precyzyjnie dobranej suplementacji. Okularów filtrujących niebieskie światło. Zegarka i aplikacji mierzących sen, kroki oraz tętno. Wszystko po to, aby lepiej funkcjonować w świecie, który sam produkuje zmęczenie. Aby czuć się dobrze, coraz rzadziej doświadczając przyjemności danej chwili. Szczęście i zdrowie budowane na zaprzeczeniu. Posiłki bogate w antyoksydanty, antystresowa aplikacja oddechowa i dwie dzienne dawki antydepresantów. Tam, gdzie brakuje życia, zostaje już tylko ciągły lęk przed śmiercią.
+Na dopaminowym łańcuchu sięgamy po media antyspołecznościowe tak, jak kiedyś sięgano po używki. A jednocześnie żyjemy fit. Jak dowodzi Han, nasze ciała również nie są wolne od doktryny samorozwoju. Memiczny obraz Włocha z paczką Marlboro i czarną kawą ustąpił pod ciężarem nowych ikon: porannej matchy albo shake’a po treningu, śniadania bogatego w błonnik i białko, precyzyjnie dobranej suplementacji. Okularów filtrujących niebieskie światło. Zegarka i aplikacji mierzących sen, kroki oraz tętno. Wszystko po to, aby lepiej funkcjonować w świecie, który sam produkuje zmęczenie. Aby czuć się dobrze, coraz rzadziej doświadczając przyjemności danej chwili. 
+
+{{< pullquote >}}
+Szczęście i zdrowie budowane na zaprzeczeniu. Posiłki bogate w antyoksydanty, antystresowa aplikacja oddechowa i dwie dzienne dawki antydepresantów. Tam, gdzie brakuje życia, zostaje już tylko ciągły lęk przed śmiercią.
+{{< /pullquote >}}
 
 ## Dawne rewolucje społeczne stały się dzisiaj indywidualną depresją
 
@@ -56,7 +69,11 @@ Han obrazowo ujmuje to w przeciwstawieniu społeczeństwa zasad i społeczeństw
 
 Dla Hana czas rytuału jest prawdziwie czasem święta. Swego rodzaju czasem poza czasem. Nie należy do samotnego „Ja”, nie służy poprawianiu wyników i nie domaga się natychmiastowego efektu. Rozgrywa się w obecności innych. Powtarzalność obrzędu pozwala się zatrzymać, zwolnić i zobaczyć nie tylko świat wokół siebie, ale także relacje, które nas z nim wiążą. To czas nieproduktywny. Podobnie jak nuda. A właśnie tam, gdzie nic nie musi natychmiast czemuś służyć, może pojawić się myśl, twórczość i prawdziwe spotkanie.
 
-Jak dowodzi Han, pozbawieni wielkich i wspólnych narracji czujemy się samotni. Nadal chcemy przynależeć i być częścią czegoś większego, nawet jeśli każdy nasz dzień podporządkowany jest logice indywidualizmu. Żyjąc szybko, zapełniamy pustkę impulsywnie. Chwytamy gotowe i antagonizujące narracje, których później czujemy się zobowiązani desperacko bronić. Do miana wartości wynosimy symulakrum. Indywidualnie bierzemy na siebie odpowiedzialność za niezdolność radzenia sobie w systemie, ukierunkowując swój gniew do środka lub przeciwko sobie. Nie szukamy już realnej wspólnoty, lecz samego poczucia przynależności. Nie potrafimy i nie chcemy rozmawiać. Nie mamy w sobie ani odwagi, ani siły, by otworzyć się na Innego i pozwolić, żeby nas zmienił. Zamiast tego zamykamy się w bańkach ciągłego potwierdzenia i demonizacji.
+{{< pullquote >}}
+Jak dowodzi Han, pozbawieni wielkich i wspólnych narracji czujemy się samotni. Nadal chcemy przynależeć i być częścią czegoś większego, nawet jeśli każdy nasz dzień podporządkowany jest logice indywidualizmu.
+{{< /pullquote >}}
+
+Żyjąc szybko, zapełniamy pustkę impulsywnie. Chwytamy gotowe i antagonizujące narracje, których później czujemy się zobowiązani desperacko bronić. Do miana wartości wynosimy symulakrum. Indywidualnie bierzemy na siebie odpowiedzialność za niezdolność radzenia sobie w systemie, ukierunkowując swój gniew do środka lub przeciwko sobie. Nie szukamy już realnej wspólnoty, lecz samego poczucia przynależności. Nie potrafimy i nie chcemy rozmawiać. Nie mamy w sobie ani odwagi, ani siły, by otworzyć się na Innego i pozwolić, żeby nas zmienił. Zamiast tego zamykamy się w bańkach ciągłego potwierdzenia i demonizacji.
 
 ## Filozof, który ciągle pisze tę samą książkę
 
