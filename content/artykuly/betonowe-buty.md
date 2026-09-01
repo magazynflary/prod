@@ -12,15 +12,31 @@ noindex: false
 
 „Kategorie ekonomiczne są tylko wyrażeniami teoretycznymi, abstrakcjami społecznych stosunków produkcji” — Karol Marks, Nędza filozofii
 
-Chcę mocnego otwarcia. Postawię więc prowokacyjną tezę, a potem pokażę na przykładzie z własnego doświadczenia, że jest ona w gruncie rzeczy niekontrowersyjna i że jej zaakceptowanie robi istotną różnicę. Do rzeczy: nie da się „należeć” do klasy społecznej tak jak nie da się „należeć” do dyskontu w sąsiedztwie, nawet jeśli odwiedzamy go regularnie, lubimy i cenimy za wybór towarów, miłą obsługę oraz przystępne ceny i mówimy o nim „nasz sklep”. W obu przypadkach mamy do czynienia z relacją, nie — przynależnością. Przynajmniej tak definiuje to Karol Marks, a wybór takiego a nie innego modelu rozumienia klas społecznych musi obronić się siłą argumentów tego tekstu. 
+Chcę mocnego otwarcia. Postawię więc prowokacyjną tezę, a potem pokażę na przykładzie z własnego doświadczenia, że jest ona w gruncie rzeczy niekontrowersyjna i że jej zaakceptowanie robi istotną różnicę. Do rzeczy: 
 
-Poprzeczka zawieszona wysoko, trzeba wziąć dłuższy rozbieg. Opowiem więc anegdotę z własnego doświadczenia. Wydaje się niepowiązana z tematem, ale cierpliwości: będę pracowicie łączył wątki! Pracuję w branży lokalizacyjnej – ta nazwa większości czytelników nic nie powie, więc dla uproszczenia – jestem tłumaczem. W tym sektorze dokonuje się głęboka rewolucja technologiczna skutkująca radykalnymi zmianami w płaszczyźnie stosunków pracy: LLMy jadą przez niego jak walec. Na jednej z konferencji branżowych usłyszałem dosłownie: „Klienci oczekują, że tłumaczenia będą dziś darmowe”. To w brutalnym skrócie pokazuje dynamikę rynku. Pracownik zostaje wypchnięty do wyścigu – wyścigu stawek w dół. Utrzymanie identycznego przychodu wymaga spędzenia o wiele większej liczby godzin przy komputerze.
+{{< pullquote >}}
+nie da się „należeć” do klasy społecznej tak jak nie da się „należeć” do dyskontu w sąsiedztwie,
+{{< /pullquote >}}
+
+nawet jeśli odwiedzamy go regularnie, lubimy i cenimy za wybór towarów, miłą obsługę oraz przystępne ceny i mówimy o nim „nasz sklep”. W obu przypadkach mamy do czynienia z relacją, nie — przynależnością. Przynajmniej tak definiuje to Karol Marks, a wybór takiego a nie innego modelu rozumienia klas społecznych musi obronić się siłą argumentów tego tekstu. 
+
+Poprzeczka zawieszona wysoko, trzeba wziąć dłuższy rozbieg. Opowiem więc anegdotę z własnego doświadczenia. Wydaje się niepowiązana z tematem, ale cierpliwości: będę pracowicie łączył wątki! Pracuję w branży lokalizacyjnej – ta nazwa większości czytelników nic nie powie, więc dla uproszczenia – jestem tłumaczem. W tym sektorze dokonuje się głęboka rewolucja technologiczna skutkująca radykalnymi zmianami w płaszczyźnie stosunków pracy: LLMy jadą przez niego jak walec. 
+
+{{< pullquote >}}
+Na jednej z konferencji branżowych usłyszałem dosłownie: „Klienci oczekują, że tłumaczenia będą dziś darmowe”. 
+{{< /pullquote >}}
+
+To w brutalnym skrócie pokazuje dynamikę rynku. Pracownik zostaje wypchnięty do wyścigu – wyścigu stawek w dół. Utrzymanie identycznego przychodu wymaga spędzenia o wiele większej liczby godzin przy komputerze.
 
 Napisać, że wśród tłumaczy panuje w związku z tym głęboki niepokój o przyszłość, to niedopowiedzenie w stylu skeczu Monty’ego Pythona. Poszukuje się więc dróg ucieczki do przodu, strategii przetrwania, a w braku rozwiązań systemowych różnego rodzaju „łatek”. Jednocześnie bogaty plon zbierają autorzy szkoleń i właściciele całych „szkół przetrwania” wyciągający pomocną rękę ku potrzebującym wsparcia (drugą ręką inkasując opłaty). Tytuł *Diversify and Prosper* brzmiał, muszę przyznać, zachęcająco, postanowiłem więc, że sprawdzę, co zrobić, by iść pod prąd rynkowym trendom i wbrew wszystkiemu, prosperować.
 
 Na wstępie usłyszałem, żeby się nie niepokoić, bo strach jest złym doradcą, co jest poradą tyleż prawdziwą, co zwykle mało pomocną. Następnie, że w niektórych przypadkach właściwie można rozważyć emeryturę (heh!). Potem nastąpiły przykłady ludzi, którzy do przynoszących coraz niższy przychód tłumaczeń dodawali sobie coraz to nowe prace weekendowe albo wymyślne specjalizacje (opera, szkolenia narciarskie, amatorskie pilotowanie samolotów itp.). Wszystkie te strategie łączyła pewna cecha: polegały na inwestowaniu czasu i wysiłku w podnoszenie swoich kwalifikacji w nadziei na łut szczęścia, na znalezienie bardzo szczególnego i bardzo rzadkiego rodzaju klienta. Swoiste polowanie na białego kruka.
 
-Tymczasem przypomnijmy: systemowo rynek oczekuje przede wszystkim, że wykonawca będzie konkurował ceną. Samorozwój rozumiany tak jak w przytoczonych historiach jest w takiej sytuacji bardziej obciążeniem niż inwestycją. Proste podwyższanie kwalifikacji i dodawanie specjalizacji kosztują dużo dodatkowego czasu i pracy. Z punktu widzenia ekonomii pracy kolejne nisze specjalizacyjne, certyfikaty i dodatkowe zajęcia ciągną tylko mikro-przedsiębiorcę w dół jak te tytułowe „betonowe buty”.
+Tymczasem przypomnijmy: systemowo rynek oczekuje przede wszystkim, że wykonawca będzie konkurował ceną. Samorozwój rozumiany tak jak w przytoczonych historiach jest w takiej sytuacji bardziej obciążeniem niż inwestycją. Proste podwyższanie kwalifikacji i dodawanie specjalizacji kosztują dużo dodatkowego czasu i pracy.
+ 
+{{< pullquote >}}
+Z punktu widzenia ekonomii pracy kolejne nisze specjalizacyjne, certyfikaty i dodatkowe zajęcia ciągną tylko mikro-przedsiębiorcę w dół jak te tytułowe „betonowe buty”.
+{{< /pullquote >}}
 
 Kusi, żeby zakończyć tym eleganckim paradoksem, ale wtedy miałbym dla swojej tezy tylko słaby dowód anegdotyczny (w sensie ścisłym), w dodatku bez jasnego związku z postawioną na początku tezą. Obietnic należy dotrzymywać. Przechodzimy więc od poziomu indywidualnego doświadczenia do poziomu doświadczenia zbiorowego, które można ująć jako klasowe właśnie. Sprawdźmy, co stanie się z tymi strategiami, gdy zmienimy skalę obserwacji.
 
