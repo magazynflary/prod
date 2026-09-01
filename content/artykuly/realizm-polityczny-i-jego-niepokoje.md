@@ -14,7 +14,7 @@ noindex: false
 ---
 **Parafrazując Petera Turchina, możemy powiedzieć, że żyjemy w czasach ostatecznych. Nasz świat się dezintegruje. Narastający kryzys można uznać za naturalny etap rozwoju lub stan, do którego doprowadziło wyczerpanie się dotychczas dominującej formuły. Tak czy inaczej stajemy w obliczu poważnych wyzwań i musimy dokonać wyboru.**
 
-Jest jesień 2008 roku. W kierownictwie instytucji finansowej zapada decyzja o masowej wyprzedaży toksycznych aktywów. Oznacza świadome działanie wbrew interesom nabywców. Nadużycie zaufania**.** Jeden z menedżerów nie chce jej dłużej firmować i postanawia odejść. Przełożony, Tuld, próbuje go zatrzymać:
+Jest jesień 2008 roku. W kierownictwie instytucji finansowej zapada decyzja o masowej wyprzedaży toksycznych aktywów. Oznacza świadome działanie wbrew interesom nabywców. Nadużycie zaufania. Jeden z menedżerów nie chce jej dłużej firmować i postanawia odejść. Przełożony, Tuld, próbuje go zatrzymać:
 
 > **Tuld:** Daj spokój. Uśmiechnij się. Dziś wykonałeś kawał dobrej roboty. \[...] To tylko pieniądze. Ludzki wymysł. Papierki z nadrukiem. \[...] Nie ma w tym nic złego. I nic nowego. \[...] Tak czy inaczej wychodzi na to samo. Nic nie możemy na to poradzić. Ani ty, ani ja nie jesteśmy w stanie zatrzymać biegu spraw, spowolnić go ani choćby odrobinę zmienić. Możemy jedynie reagować. Jeśli nam się uda, zrobimy grubą forsę. Jeżeli nie – zmiecie nas z planszy.
 
