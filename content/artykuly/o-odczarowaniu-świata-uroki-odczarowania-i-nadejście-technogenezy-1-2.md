@@ -1,7 +1,7 @@
 ---
 edition: 2026-2
 author: jakub-barański
-title: "O odczarowaniu Świata: Uroki odczarowania i nadejście technogenezy (1/2)"
+title: "O odczarowaniu świata: Uroki odczarowania i nadejście technogenezy (1/2)"
 url: /o-odczarowaniu-swiata-1/
 date: 2026-09-01T20:00:00
 draft: false
