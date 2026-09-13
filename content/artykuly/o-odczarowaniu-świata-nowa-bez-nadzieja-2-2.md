@@ -5,6 +5,11 @@ title: "O odczarowaniu świata: Nowa (bez)nadzieja (2/2)"
 url: /o-odczarowaniu-swiata-2/
 date: 2026-09-01T20:00:00
 draft: false
+tags:
+  - filozofia
+  - byung-chul han
+  - sztuczna inteligencja
+  - technologia
 image: images/uploads/n1_odczarowanie-świata.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 100% 50%

@@ -4,6 +4,12 @@ author: arkadiusz-gąsiorek
 title: Jak koreański metalurg uchwycił Zeitgeist?
 date: 2026-09-01T20:00:00
 draft: false
+tags:
+  - byung-chul han
+  - filozofia
+  - samotność
+  - praca
+  - technologia
 image: images/uploads/n1_jak-koreański-metalurg-uchwycił-zeitgeist.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 57% 50%

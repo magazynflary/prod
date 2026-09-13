@@ -4,6 +4,11 @@ author: angelika-frankowska
 title: Młodych nie ma na prowincji
 date: 2026-04-30T21:30:00
 draft: false
+tags:
+  - prowincja
+  - rynek pracy
+  - polska
+  - miasto
 image: images/uploads/młodych-nie-ma-na-prowincji.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%

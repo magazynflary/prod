@@ -4,6 +4,11 @@ author: bartosz-marcinkowski
 title: "Punkty krytyczne gospodarki cyfrowej: Google"
 date: 2026-09-01T20:00:00
 draft: false
+tags:
+  - google
+  - korporacje
+  - suwerenność cyfrowa
+  - gospodarka
 image: images/uploads/n1_punkty-krytyczne-gospodarki-cyfrowej-google.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 52% 50%

@@ -4,6 +4,11 @@ author: oleksii-cheplianskyi
 title: Dylemat białoruskiego dyktatora
 date: 2026-08-02T18:29:00
 draft: false
+tags:
+  - białoruś
+  - rosja
+  - ukraina
+  - polityka międzynarodowa
 image: images/uploads/dylemat-białoruskiego-dyktatora.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 12% 50%

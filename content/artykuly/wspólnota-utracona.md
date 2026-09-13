@@ -4,6 +4,11 @@ author: hubert-norek
 title: Wspólnota utracona?
 date: 2026-05-19T19:18:00
 draft: false
+tags:
+  - wspólnota
+  - zaufanie społeczne
+  - samotność
+  - polska
 image: images/uploads/wspólnota.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%

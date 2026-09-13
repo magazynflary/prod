@@ -4,6 +4,10 @@ author: arkadiusz-gąsiorek
 title: "Między refleksją a ideologią: granice psychoanalizy w życiu społecznym"
 date: 2026-04-30T21:30:00
 draft: false
+tags:
+  - psychoanaliza
+  - filozofia
+  - etyka
 image: images/uploads/między-refleksją-a-ideologią.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%

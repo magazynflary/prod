@@ -4,6 +4,12 @@ author: piotr-domański
 title: "Betonowe buty "
 date: 2026-09-01T20:00:00
 draft: false
+tags:
+  - klasa społeczna
+  - rynek pracy
+  - sztuczna inteligencja
+  - praca
+  - technologia
 image: images/uploads/n1_betonowe-buty.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 43% 50%

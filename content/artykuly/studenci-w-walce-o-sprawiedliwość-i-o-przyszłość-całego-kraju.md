@@ -8,6 +8,7 @@ tags:
   - serbia
   - polityka międzynarodowa
   - protesty
+  - demokracja
 image: images/uploads/studenci-w-walce-o-sprawiedliwość.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%

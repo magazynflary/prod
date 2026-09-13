@@ -4,6 +4,11 @@ author: dominik-kacprowski
 title: Zautomatyzowany transhumanistyczny kapitalizm
 date: 2026-04-30T21:30:00
 draft: false
+tags:
+  - kapitalizm
+  - automatyzacja
+  - technologia
+  - gospodarka
 image: images/uploads/zautomatyzowany-transhumanistyczny-kapitalizm.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%

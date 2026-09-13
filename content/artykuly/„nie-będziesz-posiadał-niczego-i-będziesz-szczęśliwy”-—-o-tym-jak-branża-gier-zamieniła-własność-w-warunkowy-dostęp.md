@@ -5,6 +5,11 @@ title: „Nie będziesz posiadał niczego i będziesz szczęśliwy” — o tym,
   gier zamieniła własność w warunkowy dostęp
 date: 2026-09-01T20:00:00
 draft: false
+tags:
+  - gry wideo
+  - korporacje
+  - suwerenność cyfrowa
+  - kapitalizm
 image: images/uploads/n1_giereczkowo.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 8% 50%

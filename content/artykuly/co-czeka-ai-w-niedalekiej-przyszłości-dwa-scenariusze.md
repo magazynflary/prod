@@ -4,6 +4,11 @@ author: jakub-bukowski
 title: Co czeka AI w niedalekiej przyszłości? Dwa scenariusze
 date: 2026-05-13T06:50:00
 draft: false
+tags:
+  - sztuczna inteligencja
+  - gospodarka
+  - korporacje
+  - kapitalizm
 image: images/uploads/świat-w-dobie-ai.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%

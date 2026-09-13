@@ -4,6 +4,10 @@ author: bartosz-marcinkowski
 title: Szary krajobraz IT
 date: 2026-04-30T21:30:00
 draft: false
+tags:
+  - technologia
+  - etyka
+  - praca
 image: images/uploads/szary-krajobraz-it.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%

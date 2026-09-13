@@ -7,6 +7,7 @@ image_credit_author: katarzyna-brzozowska
 image_focus: 50% 50%
 title: Od Redakcji
 tags:
+  - od redakcji
   - prezentacja
   - tekst założycielski
 image: images/uploads/flary-v2.jpg

@@ -4,6 +4,10 @@ author: arkadiusz-gąsiorek
 title: Zapowiedź Nº 1 „Zagrożenia współczesności”
 date: 2026-08-27T17:10:00
 draft: false
+tags:
+  - od redakcji
+  - zapowiedź
+  - narracje upadku
 image: images/uploads/wyzwania-współczesności-flary-n1_okładka.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
