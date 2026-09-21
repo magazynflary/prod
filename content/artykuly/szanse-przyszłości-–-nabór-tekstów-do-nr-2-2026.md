@@ -37,7 +37,7 @@ Przyjmujemy:
 
 **Co warto wiedzieć zanim zaczniesz pisać?**
 
-* [Pod tym linkiem znajdziesz BRIEF dla autorów – cenna lektura na początek](https://docs.google.com/document/d/1CS3TW5veKA4DMmA721ekAg2PqeJvAA6Q8EABrCpnSiQ/edit?usp=sharing)
+* [Pod tym linkiem znajdziesz BRIEF dla autorów – cenna lektura na początek](https://docs.google.com/document/d/1zPvcZApbm2pbWNvJJ9F_0BF_-gtbQ9Nn/edit?usp=sharing&ouid=105984784650934633130&rtpof=true&sd=true)
 * Sugerowana długość: do 2 000 słów.
 * Weź pod uwagę, że pierwszy akapit to tzw. lead – zapisany pogrubieniem będzie swego rodzaju zaproszeniem do dalszej lektury. Nie powinien być za długi.
 * Wszystkie teksty publikujemy pod imieniem i nazwiskiem.
