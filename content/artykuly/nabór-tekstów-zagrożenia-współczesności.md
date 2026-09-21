@@ -2,7 +2,7 @@
 edition: 2026-2
 author: redakcja
 title: "Nabór tekstów: „Zagrożenia współczesności”"
-url: /cfp/
+url: ""
 date: 2026-06-07T14:53:00
 draft: false
 image: images/uploads/cfp_n1.jpg
