@@ -3,7 +3,7 @@ author: joanna-pędzich-opioła
 title: Przyszłość już tu jest – nabór tekstów do nr 2/2026
 url: /cfp/
 date: 2026-09-21T11:30:00
-draft: true
+draft: false
 tags:
   - nabór tekstów
 image: images/uploads/cfp_2026-2-przyszlosc.png
