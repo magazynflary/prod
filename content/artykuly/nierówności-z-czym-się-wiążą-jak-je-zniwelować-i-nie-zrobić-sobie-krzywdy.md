@@ -5,13 +5,14 @@ title: "Nierówności: z czym się wiążą, jak je zniwelować i nie zrobić so
 date: 2026-09-01T20:00:00
 draft: false
 tags:
-  - rozwarstwienie majątkowe
+  - nierówności
   - gospodarka
   - kapitalizm
   - polska
-image: images/uploads/wyzwania-współczesności-flary-n1_okładka.jpg
+  - francja
+image: images/uploads/1000027017.jpg
 image_focus_banner: 50% 50%
-image_focus_card: 73% 50%
+image_focus_card: 23% 50%
 image_credit_author: katarzyna-brzozowska
 description: "Promil najbogatszych kontroluje 6% światowego majątku, połowa
   ludzkości – 2%. O skutkach nierówności: od wpływu miliarderów na media po
