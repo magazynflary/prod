@@ -1,9 +1,12 @@
 ---
 name: Michał Luszawski
 is_active: true
-role: Zastępca Koordynatora Administracyjnego, redaktor merytoryczny, grafik i
-  autor tekstów
+is_editor: true
+role: Zastępca Koordynatora Administracyjnego, redaktor merytoryczny, grafik, autor
 weight: 1
-bio: Prywatnie mąż, ojciec, elektryk jachtowy, edukator i człowiek wielu pasji,
-  z których największą jest historia
+bio: >-
+  Łączy czuwanie nad treścią z tworzeniem oprawy graficznej i wsparciem
+  sprawnego działania redakcyjnej machiny. Z zawodu edukator i elektryk
+  jachtowy. Prywatnie mąż, ojciec oraz człowiek wielu pasji, wśród których
+  niepodzielnie króluje historia.
 ---

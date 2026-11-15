@@ -2,11 +2,11 @@
 name: Katarzyna Brzozowska
 is_active: true
 is_editor: true
-role: Graficzka, tworzę ilustracje
+role: Graficzka i ilustratorka
 weight: 1
-bio: Z wykształcenia jestem architektką, zawodowo przez lata zajmowałam się
-  lokalizacją gier komputerowych, a obecnie pracuję w e-commerce. Grafiką i
-  ilustracją zajmuję się równolegle - tworzę m.in. dla organizacji, z którymi
-  często jestem też związana. W wolnym czasie pochłaniam kulturę wizualną w
-  każdej postaci – od gier po filmy.
+bio: >-
+  Odpowiada za wizualną stronę magazynu, tworząc ilustracje uzupełniające
+  publikowane teksty. Z wykształcenia architektka, na co dzień zawodowo
+  związana z branżą gier wideo. W wolnych chwilach z niesłabnącym apetytem
+  pochłania kulturę w każdej możliwej postaci.
 ---

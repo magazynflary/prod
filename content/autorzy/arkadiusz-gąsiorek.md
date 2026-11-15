@@ -2,9 +2,11 @@
 name: Arkadiusz Gąsiorek
 is_active: true
 is_editor: true
-role: Zastępca Koordynatora Wydawniczego, redaktor merytoryczny i autor tekstów
+role: Zastępca Koordynatora Wydawniczego, redaktor merytoryczny, autor
 weight: 1
-bio: "Prywatnie psychoterapeuta psychodynamiczny i psycholog. Pomaga autorom w
-  opracowaniu i korekcie nadesłanych artykułów. Zainteresowania: psychoanaliza,
-  historia, filozofia, procesy społeczne i medycyna."
+bio: >-
+  Czuwa nad poziomem merytorycznym publikacji i zasila magazyn autorskimi
+  artykułami. Zawodowo psycholog i psychoterapeuta pracujący w nurcie
+  psychodynamicznym. Pasjonuje się psychoanalizą, filozofią, historią, medycyną
+  oraz dynamiką procesów społecznych.
 ---
