@@ -8,7 +8,7 @@
   ],
   "scenarios": [
     {"label": "home", "url": "http://localhost:1313/test/"},
-    {"label": "article-with-audio", "url": "http://localhost:1313/test/2026/03/20/reforma-czy-rewolucja-z-przypisami-redakcji/"},
+    {"label": "article-with-audio", "url": "http://localhost:1313/test/2026/05/13/samotni-wśród-ludzi/"},
     {"label": "subscribe", "url": "http://localhost:1313/test/subskrybuj/"},
     {"label": "about", "url": "http://localhost:1313/test/pages/about/"},
     {"label": "editions", "url": "http://localhost:1313/test/wydania/"}
