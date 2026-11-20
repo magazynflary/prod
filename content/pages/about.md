@@ -6,9 +6,9 @@ layout: about
 ---
 ## O nas
 
-Jesteśmy niezależnym pismem internetowym poświęconym publicystyce politycznej i kulturalnej z perspektywy lewicowej. Publikujemy artykuły, eseje i recenzje — o pracy, prawach człowieka, kulturze oporu i nie tylko.
+Jesteśmy niezależnym pismem internetowym poświęconym publicystyce politycznej i kulturalnej. Stawiamy na wspólnotę i solidarność społeczną. Publikujemy artykuły, eseje i recenzje — o pracy, prawach człowieka, kulturze oporu i nie tylko.
 
----
+- - -
 
 ## Masz coś do powiedzenia?
 
@@ -18,7 +18,7 @@ Masz przemyślenia, pomysł, gotowy tekst? Chcesz zaprotestować, skomentować, 
 
 Czytamy każdą wiadomość. Odezwiemy się, przekażemy uwagi i wspólnie dopracujemy Twój tekst do publikacji.
 
----
+- - -
 
 ## Twórz Flary razem z nami
 
