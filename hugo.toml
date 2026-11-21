@@ -80,18 +80,15 @@ wydania = "Wydania"
 # listmonk only redirects to - and only allows CORS (needed by the ALTCHA
 # widget) from - addresses listed EXACTLY in listmonk -> Settings ->
 # Security -> Trusted URLs.
-# The test site uses only the TESTING server, never production
-# (newsletter.magazynflary.pl): url stays empty here and is set by the
-# repository variable NEWSLETTER_URL in CI (.github/workflows/deploy.yml,
-# with NEWSLETTER_LIST_UUID for listUUID), or locally by
-# HUGO_PARAMS_NEWSLETTER_URL / HUGO_PARAMS_NEWSLETTER_LISTUUID. The test
-# site's /newsletter/sprawdz-skrzynke/ URL goes into the TESTING
-# listmonk's Trusted URLs only - never into production's.
+# This is the PRODUCTION listmonk (newsletter.magazynflary.pl). Its
+# Trusted URLs hold exactly https://magazynflary.pl/newsletter/sprawdz-skrzynke/.
 [params.newsletter]
-url = ""
+url = "https://newsletter.magazynflary.pl"
 # The UUID of the newsletter list in listmonk (public, double opt-in).
-# Empty url or listUUID = no form, a "coming soon" note instead (and a
-# build warning).
+# Empty here: on launch day it comes from the repository variable
+# NEWSLETTER_LIST_UUID, which .github/workflows/deploy.yml exports as
+# HUGO_PARAMS_NEWSLETTER_LISTUUID. While it is empty the site shows a
+# "coming soon" note instead of the form (and the build warns).
 listUUID = ""
 # ALTCHA proof-of-work captcha (self-hosted by listmonk, no third
 # party). Must match listmonk -> Settings -> Security -> CAPTCHA.
