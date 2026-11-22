@@ -13,8 +13,11 @@ tags:
   - rynek pracy
   - automatyzacja
   - suwerenność cyfrowa
+image: images/uploads/czeka-nas-inna-zagłada-ai-niż-myślimy.jpg
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
+image_credit_author: katarzyna-brzozowska
+description: Koszty generatywnej sztucznej inteligencji, suwerenność technologiczna Polski.
 noindex: false
 ---
 Polska przegrywa w wyścigu technologicznym o duże modele językowe. Wobec braku polskiego LLM-a Amerykanie wespół z Chińczykami zniszczą nasz rynek pracy generatywną sztuczną inteligencją. Kapitał z Polski zostanie wyprowadzony, a my zostaniemy sprowadzeni do ról pariasa i petenta w rozgrywce gigantów. Brzmi znajomo? Taki lub podobny obraz serwują nam technaganiacze. Ale czy oni na pewno wiedzą, o czym mówią? I czy czasami nie jest łatwiej mówić o apokalipsie, która nigdy nie nastanie, zamiast o tej, która naprawdę może się wydarzyć?
