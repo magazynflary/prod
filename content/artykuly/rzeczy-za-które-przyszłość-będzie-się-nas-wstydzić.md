@@ -8,282 +8,282 @@ image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
 noindex: false
 ---
-Za trzydzieści lat ktoś spojrzy na zdjęcie z naszych czasów i nie zrozumie, dlaczego nikt nie protestował.  
+Za trzydzieści lat ktoś spojrzy na zdjęcie z naszych czasów i nie zrozumie, dlaczego nikt nie protestował.
 
-Nie będzie to zdjęcie wojny ani katastrofy.  
+Nie będzie to zdjęcie wojny ani katastrofy.
 
-Może przedstawiać poczekalnię bez krzeseł. Biuro, w którym wszyscy zostają po godzinach. Człowieka patrzącego w telefon przy łóżku chorej matki. Formularz, którego nie da się wypełnić bez instrukcji. Dziecko, które nauczyło się mówić „nic mi nie jest”, zanim nauczyło się nazywać lęk.  
+Może przedstawiać poczekalnię bez krzeseł. Biuro, w którym wszyscy zostają po godzinach. Człowieka patrzącego w telefon przy łóżku chorej matki. Formularz, którego nie da się wypełnić bez instrukcji. Dziecko, które nauczyło się mówić „nic mi nie jest”, zanim nauczyło się nazywać lęk.
 
-Przyszłość nie będzie musiała znać całej historii.  
+Przyszłość nie będzie musiała znać całej historii.
 
-Wystarczy, że zapyta:  
+Wystarczy, że zapyta:
 
-„Naprawdę uważaliście to za normalne?”  
+„Naprawdę uważaliście to za normalne?”
 
-I najgorsze, że odpowiedź zabrzmi: tak.  
-
-<p align=center>*</p>
-
-Każda epoka ma własną ślepotę.  
-
-Nie chodzi o rzeczy, których ludzie nie wiedzą.  
-
-Chodzi o te, które widzą codziennie i przestają dostrzegać.  
-
-Norma jest najbardziej skuteczną formą kamuflażu. Jeśli coś trwa wystarczająco długo, nie musi się już tłumaczyć.  
-
-Człowiek musi tłumaczyć, dlaczego nie daje rady.  
-
-System nie musi tłumaczyć, dlaczego wymaga rzeczy, które ludzi wyczerpują.  
-
-Pracownik musi wyjaśnić, dlaczego nie odebrał telefonu po godzinach.  
-
-Firma nie musi wyjaśniać, dlaczego telefon po godzinach w ogóle zadzwonił.  
-
-Pacjent musi udowodnić ból.  
-
-Instytucja nie musi udowodnić, że jej procedura ma sens.  
-
-Dziecko musi nauczyć się siedzieć spokojnie.  
-
-Nikt nie pyta, dlaczego spokój jest ważniejszy od ciekawości.  
-
-To właśnie tutaj przyszłość zaczyna nas obserwować.  
-
-Nie w laboratoriach.  
-
-W miejscach, w których wszyscy mówią: „tak już jest”.  
+I najgorsze, że odpowiedź zabrzmi: tak.
 
 <p align=center>*</p>
 
-Mam wrażenie, że największe zmiany społeczne zaczynają się od niezręczności.  
+Każda epoka ma własną ślepotę.
 
-Najpierw coś jest normalne.  
+Nie chodzi o rzeczy, których ludzie nie wiedzą.
 
-Potem staje się trochę niewygodne.  
+Chodzi o te, które widzą codziennie i przestają dostrzegać.
 
-Ktoś robi minę.  
+Norma jest najbardziej skuteczną formą kamuflażu. Jeśli coś trwa wystarczająco długo, nie musi się już tłumaczyć.
 
-Ktoś nie śmieje się z żartu, z którego dawniej śmiali się wszyscy.  
+Człowiek musi tłumaczyć, dlaczego nie daje rady.
 
-Ktoś pyta: „ale dlaczego?”.  
+System nie musi tłumaczyć, dlaczego wymaga rzeczy, które ludzi wyczerpują.
 
-To pytanie może być bardziej wywrotowe niż manifest.  
+Pracownik musi wyjaśnić, dlaczego nie odebrał telefonu po godzinach.
 
-Dlaczego pracownik ma siedzieć osiem godzin, jeśli pracę wykonał w pięć?  
+Firma nie musi wyjaśniać, dlaczego telefon po godzinach w ogóle zadzwonił.
 
-Dlaczego starszy człowiek ma stać, skoro można postawić ławkę?  
+Pacjent musi udowodnić ból.
 
-Dlaczego formularz ma być napisany językiem, którego nie rozumie osoba, której dotyczy?  
+Instytucja nie musi udowodnić, że jej procedura ma sens.
 
-Dlaczego cierpienie musi być dramatyczne, żeby zostało uznane za prawdziwe?  
+Dziecko musi nauczyć się siedzieć spokojnie.
 
-Dlaczego na odpoczynek trzeba najpierw zasłużyć?  
+Nikt nie pyta, dlaczego spokój jest ważniejszy od ciekawości.
 
-Kiedy pojawia się „dlaczego”, norma zaczyna tracić swoją niewidzialność.  
+To właśnie tutaj przyszłość zaczyna nas obserwować.
 
-A kiedy przestaje być niewidzialna, musi się obronić.  
+Nie w laboratoriach.
 
-Nie każda potrafi.  
-
-<p align=center>*</p>
-
-Być może przyszłość będzie się nas wstydzić nie za to, że mieliśmy za mało technologii –  
-
-– ale za to, że tak często używaliśmy jej, żeby szybciej robić rzeczy, których sensu nigdy nie sprawdziliśmy.  
-
-Cyfryzujemy procedurę, zamiast zapytać, czy procedura jest potrzebna.  
-
-Automatyzujemy ocenę, zamiast zapytać, czy wszystko powinno być oceniane.  
-
-Przenosimy kolejkę do internetu i nazywamy to wygodą.  
-
-Dodajemy chatbot do systemu, który nadal nie potrafi odpowiedzieć na proste ludzkie pytanie.  
-
-Przyszłość może być bardzo nowoczesna i jednocześnie bardzo stara.  
-
-Wystarczy, że nowe narzędzia będą służyły dawnym odruchom.  
-
-Kontrola może mieć aplikację.  
-
-Upokorzenie może mieć kod QR.  
-
-Brak zaufania może zostać zautomatyzowany.  
+W miejscach, w których wszyscy mówią: „tak już jest”.
 
 <p align=center>*</p>
 
-Niepokoi mnie szczególnie słowo: „odporny”.  
+Mam wrażenie, że największe zmiany społeczne zaczynają się od niezręczności.
 
-To słowo ma dobrą reputację.  
+Najpierw coś jest normalne.
 
-Odporna osoba radzi sobie.  
+Potem staje się trochę niewygodne.
 
-Nie rozsypuje się.  
+Ktoś robi minę.
 
-Pracuje mimo problemów.  
+Ktoś nie śmieje się z żartu, z którego dawniej śmiali się wszyscy.
 
-Podnosi się.  
+Ktoś pyta: „ale dlaczego?”.
 
-Wraca.  
+To pytanie może być bardziej wywrotowe niż manifest.
 
-Wytrzymuje.  
+Dlaczego pracownik ma siedzieć osiem godzin, jeśli pracę wykonał w pięć?
 
-Ale odporność łatwo pomylić z przyzwyczajeniem do przeciążenia.  
+Dlaczego starszy człowiek ma stać, skoro można postawić ławkę?
 
-Można nauczyć człowieka, że jego siłą jest to, że nie potrzebuje pomocy.  
+Dlaczego formularz ma być napisany językiem, którego nie rozumie osoba, której dotyczy?
 
-Można nagradzać go za ignorowanie sygnałów własnego ciała.  
+Dlaczego cierpienie musi być dramatyczne, żeby zostało uznane za prawdziwe?
 
-Można nazwać poświęceniem to, co w innym języku byłoby brakiem wyboru.  
+<br>Dlaczego na odpoczynek trzeba najpierw zasłużyć?
 
-Można zbudować cały system na założeniu, że dobrzy ludzie wytrzymują więcej.  
+Kiedy pojawia się „dlaczego”, norma zaczyna tracić swoją niewidzialność.
 
-A potem dziwić się, że ci sami ludzie pewnego dnia nie mają już czego dać.  
+A kiedy przestaje być niewidzialna, musi się obronić.
 
-Może przyszłość będzie miała dla tego mniej romantyczne słowo.  
-
-<p align=center>*</p>
-
-Może będzie też patrzeć z niedowierzaniem na naszą dostępność.  
-
-Na to, że urządzenie w kieszeni było jednocześnie telefonem, biurem, sklepem, mapą, gazetą, kamerą, kalendarzem, lustrem społecznym i czymś w rodzaju elektronicznego dzwonka przy drzwiach, którego nikt nie przestawał naciskać.  
-
-Na to, że człowiek mógł być fizycznie sam i jednocześnie nigdy nie pozostawać naprawdę nieosiągalny.  
-
-Na to, że cisza stała się komunikatem.  
-
-Nieodpisanie stało się decyzją.  
-
-Wyłączenie telefonu stało się czymś, co trzeba czasem wyjaśniać.  
-
-Dawniej luksusem było być w kontakcie.  
-
-Być może luksusem przyszłości będzie możliwość zniknięcia bez konsekwencji.  
+<br>Nie każda potrafi.
 
 <p align=center>*</p>
 
-Są też rzeczy tak małe, że aż trudno nazwać je problemem.  
+Być może przyszłość będzie się nas wstydzić nie za to, że mieliśmy za mało technologii –
 
-Wysoka lada, zza której ledwo widać osobę na wózku.  
+– ale za to, że tak często używaliśmy jej, żeby szybciej robić rzeczy, których sensu nigdy nie sprawdziliśmy.
 
-Korytarz bez ławki.  
+Cyfryzujemy procedurę, zamiast zapytać, czy procedura jest potrzebna.
 
-Przycisk umieszczony za wysoko.  
+Automatyzujemy ocenę, zamiast zapytać, czy wszystko powinno być oceniane.
 
-Pismo urzędowe, które zaczyna się od czterech podstaw prawnych, zanim powie człowiekowi, czego właściwie od niego chce.  
+Przenosimy kolejkę do internetu i nazywamy to wygodą.
 
-Rejestracja telefoniczna otwarta przez trzydzieści minut rano.  
+Dodajemy chatbot do systemu, który nadal nie potrafi odpowiedzieć na proste ludzkie pytanie.
 
-Strona internetowa, której nie da się obsłużyć czytnikiem ekranu.  
+Przyszłość może być bardzo nowoczesna i jednocześnie bardzo stara.
 
-Każda z tych rzeczy osobno wydaje się drobiazgiem.  
+Wystarczy, że nowe narzędzia będą służyły dawnym odruchom.
 
-Razem tworzą odpowiedź na pytanie, dla kogo świat został zaprojektowany.  
+Kontrola może mieć aplikację.
 
-I jeszcze ważniejsze: kogo projektant nie wyobraził sobie wcale.  
+Upokorzenie może mieć kod QR.
 
-Przyszłość może oceniać nas właśnie po tych drobiazgach.  
-
-Nie po deklaracjach.  
-
-Po wysokości lady.  
+Brak zaufania może zostać zautomatyzowany.
 
 <p align=center>*</p>
 
-Najbardziej podejrzane są normy, które wymagają od człowieka wdzięczności za coś podstawowego.  
+Niepokoi mnie szczególnie słowo: „odporny”.
 
-Za szacunek.  
+To słowo ma dobrą reputację.
 
-Za odpowiedź.  
+Odporna osoba radzi sobie.
 
-Za możliwość odpoczynku.  
+Nie rozsypuje się.
 
-Za dostęp do informacji.  
+Pracuje mimo problemów.
 
-Za to, że ktoś uwierzył bez upokarzającego śledztwa.  
+Podnosi się.
 
-Wdzięczność jest piękna, kiedy jest wolna.  
+Wraca.
 
-Staje się niebezpieczna, kiedy system oczekuje jej od człowieka za to, że nie został potraktowany źle.  
+<br>Wytrzymuje.
 
-Wtedy przyzwoitość zaczyna wyglądać jak bonus.  
+Ale odporność łatwo pomylić z przyzwyczajeniem do przeciążenia.
 
-<p align=center>*</p>
+Można nauczyć człowieka, że jego siłą jest to, że nie potrzebuje pomocy.
 
-Nie wiem, co dokładnie przyszłość uzna za naszą największą kompromitację.  
+Można nagradzać go za ignorowanie sygnałów własnego ciała.
 
-Być może coś, czego dziś jeszcze nie potrafimy zobaczyć.  
+Można nazwać poświęceniem to, co w innym języku byłoby brakiem wyboru.
 
-To jest najbardziej niewygodna część tej myśli.  
+Można zbudować cały system na założeniu, że dobrzy ludzie wytrzymują więcej.
 
-Łatwo rozpoznawać ślepotę poprzednich pokoleń.  
+A potem dziwić się, że ci sami ludzie pewnego dnia nie mają już czego dać.
 
-Znacznie trudniej własną.  
-
-Śmiejemy się z dawnych poradników wychowania dzieci.  
-
-Z reklam papierosów polecanych przez lekarzy.  
-
-Z biur, w których palono przy biurkach.  
-
-Z języka, który dziś brzmi brutalnie.  
-
-Z przepisów, które odbierały ludziom prawa i nazywały to porządkiem.  
-
-Oni również mieli swoje uzasadnienia.  
-
-I również uważali się za ludzi rozsądnych.  
-
-To powinno nas trochę przestraszyć.  
+Może przyszłość będzie miała dla tego mniej romantyczne słowo.
 
 <p align=center>*</p>
 
-Dlatego coraz mniej interesuje mnie pytanie: „co przyniesie przyszłość?”  
+Może będzie też patrzeć z niedowierzaniem na naszą dostępność.
 
-Bardziej interesuje mnie inne:  
+Na to, że urządzenie w kieszeni było jednocześnie telefonem, biurem, sklepem, mapą, gazetą, kamerą, kalendarzem, lustrem społecznym i czymś w rodzaju elektronicznego dzwonka przy drzwiach, którego nikt nie przestawał naciskać.
 
-„co z naszej teraźniejszości przyszłość będzie musiała nam wybaczyć?”  
+Na to, że człowiek mógł być fizycznie sam i jednocześnie nigdy nie pozostawać naprawdę nieosiągalny.
 
-Może sposób, w jaki pracujemy?  
+Na to, że cisza stała się komunikatem.
 
-Może sposób, w jaki projektujemy miasta?  
+Nieodpisanie stało się decyzją.
 
-Może to, że człowiek musi wielokrotnie opowiadać własne cierpienie różnym instytucjom, żeby każda mogła stworzyć osobny dokument potwierdzający, że cierpienie istnieje?  
+Wyłączenie telefonu stało się czymś, co trzeba czasem wyjaśniać.
 
-Może samotność ludzi otoczonych urządzeniami do komunikacji?  
+Dawniej luksusem było być w kontakcie.
 
-Może to, że odpoczynek wciąż traktujemy jak nagrodę, a nie funkcję organizmu?  
-
-Może coś zupełnie innego.  
+Być może luksusem przyszłości będzie możliwość zniknięcia bez konsekwencji.
 
 <p align=center>*</p>
 
-Wyobrażam sobie tę scenę za trzydzieści lat.  
+Są też rzeczy tak małe, że aż trudno nazwać je problemem.
 
-Ktoś patrzy na zdjęcie.  
+Wysoka lada, zza której ledwo widać osobę na wózku.
 
-Zwykłe zdjęcie.  
+Korytarz bez ławki.
 
-Nie ma na nim nic dramatycznego.  
+Przycisk umieszczony za wysoko.
 
-Kilka osób czeka.  
+Pismo urzędowe, które zaczyna się od czterech podstaw prawnych, zanim powie człowiekowi, czego właściwie od niego chce.
 
-Jedna stoi mimo bólu.  
+Rejestracja telefoniczna otwarta przez trzydzieści minut rano.
 
-Druga patrzy w telefon, choć ktoś obok próbuje coś powiedzieć.  
+Strona internetowa, której nie da się obsłużyć czytnikiem ekranu.
 
-Ktoś trzeci czyta pismo, którego nie rozumie, ale boi się zapytać.  
+Każda z tych rzeczy osobno wydaje się drobiazgiem.
 
-W tle drzwi z napisem „proszę czekać”.  
+Razem tworzą odpowiedź na pytanie, dla kogo świat został zaprojektowany.
 
-Przyszłość patrzy na to wszystko przez chwilę.  
+I jeszcze ważniejsze: kogo projektant nie wyobraził sobie wcale.
 
-I pyta:  
+Przyszłość może oceniać nas właśnie po tych drobiazgach.
 
-„Dlaczego nikt nie powiedział, że to jest źle?”  
+Nie po deklaracjach.
 
-Ktoś z naszych czasów mógłby odpowiedzieć:  
+Po wysokości lady.
 
-„Bo nic w tym nie było niezwykłego.”  
+<p align=center>*</p>
+
+Najbardziej podejrzane są normy, które wymagają od człowieka wdzięczności za coś podstawowego.
+
+Za szacunek.
+
+Za odpowiedź.
+
+Za możliwość odpoczynku.
+
+Za dostęp do informacji.
+
+Za to, że ktoś uwierzył bez upokarzającego śledztwa.
+
+Wdzięczność jest piękna, kiedy jest wolna.
+
+Staje się niebezpieczna, kiedy system oczekuje jej od człowieka za to, że nie został potraktowany źle.
+
+Wtedy przyzwoitość zaczyna wyglądać jak bonus.
+
+<p align=center>*</p>
+
+Nie wiem, co dokładnie przyszłość uzna za naszą największą kompromitację.
+
+Być może coś, czego dziś jeszcze nie potrafimy zobaczyć.
+
+<br>To jest najbardziej niewygodna część tej myśli.
+
+Łatwo rozpoznawać ślepotę poprzednich pokoleń.
+
+Znacznie trudniej własną.
+
+<br>Śmiejemy się z dawnych poradników wychowania dzieci.
+
+Z reklam papierosów polecanych przez lekarzy.
+
+Z biur, w których palono przy biurkach.
+
+Z języka, który dziś brzmi brutalnie.
+
+Z przepisów, które odbierały ludziom prawa i nazywały to porządkiem.
+
+Oni również mieli swoje uzasadnienia.
+
+I również uważali się za ludzi rozsądnych.
+
+To powinno nas trochę przestraszyć.
+
+<p align=center>*</p>
+
+Dlatego coraz mniej interesuje mnie pytanie: „co przyniesie przyszłość?”
+
+Bardziej interesuje mnie inne:
+
+„co z naszej teraźniejszości przyszłość będzie musiała nam wybaczyć?”
+
+Może sposób, w jaki pracujemy?
+
+Może sposób, w jaki projektujemy miasta?
+
+Może to, że człowiek musi wielokrotnie opowiadać własne cierpienie różnym instytucjom, żeby każda mogła stworzyć osobny dokument potwierdzający, że cierpienie istnieje?
+
+Może samotność ludzi otoczonych urządzeniami do komunikacji?
+
+Może to, że odpoczynek wciąż traktujemy jak nagrodę, a nie funkcję organizmu?
+
+Może coś zupełnie innego.
+
+<p align=center>*</p>
+
+<br>Wyobrażam sobie tę scenę za trzydzieści lat.
+
+Ktoś patrzy na zdjęcie.
+
+Zwykłe zdjęcie.
+
+Nie ma na nim nic dramatycznego.
+
+Kilka osób czeka.
+
+Jedna stoi mimo bólu.
+
+Druga patrzy w telefon, choć ktoś obok próbuje coś powiedzieć.
+
+Ktoś trzeci czyta pismo, którego nie rozumie, ale boi się zapytać.
+
+W tle drzwi z napisem „proszę czekać”.
+
+Przyszłość patrzy na to wszystko przez chwilę.
+
+I pyta:
+
+„Dlaczego nikt nie powiedział, że to jest źle?”
+
+Ktoś z naszych czasów mógłby odpowiedzieć:
+
+„Bo nic w tym nie było niezwykłego.”
 
 I właśnie to byłoby najbardziej obciążającym dowodem.
