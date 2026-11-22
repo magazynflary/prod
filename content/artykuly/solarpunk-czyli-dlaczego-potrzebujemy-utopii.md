@@ -3,7 +3,12 @@ edition: "2"
 author: kamil-nowakowski
 title: Solarpunk, czyli dlaczego potrzebujemy utopii
 date: 2026-12-20T23:46:00
-draft: true
+draft: false
+tags:
+  - technologia
+  - filozofia
+  - kapitalizm
+  - sztuczna inteligencja
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
 noindex: false
