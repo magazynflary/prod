@@ -4,8 +4,16 @@ author: justyna-majewska
 title: Rzeczy, za które przyszłość będzie się nas wstydzić
 date: 2026-12-20T20:01:00
 draft: false
+tags:
+  - filozofia
+  - praca
+  - kapitalizm
+  - technologia
+  - etyka
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
+description: Nasza największa ślepota?  O normalizacji społecznych absurdów,
+  kulturze pracy i świecie, który przestaliśmy kwestionować.
 noindex: false
 ---
 Za trzydzieści lat ktoś spojrzy na zdjęcie z naszych czasów i nie zrozumie, dlaczego nikt nie protestował.
