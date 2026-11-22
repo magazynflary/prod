@@ -11,6 +11,9 @@ tags:
   - sztuczna inteligencja
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
+description: >
+  Przyszłość łącząca technologię, ekologię i wspólnotowość. Jak wyjść poza
+  kapitalistyczną dystopię i budować świat, w którym warto żyć?
 noindex: false
 ---
 Utopia, od greckich sformułowań oznaczających „dobre miejsce” oraz „miejsce, którego nie ma”, powstała jako eksperyment filozoficzny, narzędzie pozwalające sprawdzać radykalne idee w idealnych warunkach. Czy jednak nie jest to też potrzebne  każdej i każdemu z nas?
