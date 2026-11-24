@@ -98,3 +98,23 @@ url = "https://x.com/MagazynFlary"
 artykuly = "Artykuły"
 wydania = "Wydania"
 
+
+# Newsletter - listmonk (infrastructure repository: docs/newsletter.md).
+# The form (partials/newsletter-form.html) posts straight to listmonk,
+# which redirects back to the "check your inbox" page after a sign-up.
+# listmonk only redirects to - and only allows CORS (needed by the ALTCHA
+# widget) from - addresses listed EXACTLY in listmonk -> Settings ->
+# Security -> Trusted URLs.
+# This is the PRODUCTION listmonk (newsletter.magazynflary.pl). Its
+# Trusted URLs hold exactly https://magazynflary.pl/newsletter/sprawdz-skrzynke/.
+[params.newsletter]
+url = "https://newsletter.magazynflary.pl"
+# The UUID of the newsletter list in listmonk (public, double opt-in).
+# Empty here: on launch day it comes from the repository variable
+# NEWSLETTER_LIST_UUID, which .github/workflows/deploy.yml exports as
+# HUGO_PARAMS_NEWSLETTER_LISTUUID. While it is empty the site shows a
+# "coming soon" note instead of the form (and the build warns).
+listUUID = ""
+# ALTCHA proof-of-work captcha (self-hosted by listmonk, no third
+# party). Must match listmonk -> Settings -> Security -> CAPTCHA.
+captcha = true
