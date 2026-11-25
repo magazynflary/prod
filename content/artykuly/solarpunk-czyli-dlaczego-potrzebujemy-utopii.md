@@ -22,7 +22,7 @@ W 2021 roku ukazała się stworzona przez brytyjskie studio animacji The Line re
 
 W animacji widoczne są sceny, które pod pewnymi względami nie różnią się od codzienności wielu ludzi. Ukazany zostaje jeden dzień z życia gospodarstwa rolnego: żyje się tam powoli, w pracy pomagają maszyny i technologie, które jednak nie opierają się na popularnej dzisiaj sztucznej inteligencji. Pracownicy tworzą społeczność, pracują ramię w ramię z robotami, a humanoidy traktowane są jak członkowie grupy. Osoby w każdym wieku spędzają czas razem i jedzą posiłek przy wspólnym stole. W tle przewijają się futurystyczna wizja systemu nawadniania, krowy pasące się na łąkach i znajdujące cień pod panelami słonecznymi, a po niebie suną przypominające chmury elektrownie wiatrowe. Najmłodsi odwożeni są do szkoły w majaczącym na horyzoncie mieście, które – choć wybija się z otoczenia nowoczesną architekturą – idealnie komponuje się z krajobrazem złożonym z kolorowych pól i sadów.
 
-Technologia naturalnie miesza się tutaj ze środowiskiem, nie zagraża ludziom daje im więcej czasu.
+Technologia naturalnie miesza się tutaj ze środowiskiem, nie zagraża ludziom. Daje im więcej czasu.
 
 Oto jest solarpunk.
 
