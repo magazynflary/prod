@@ -4,6 +4,9 @@ author: ""
 title: Przyszłość, która nie wyzwoliła
 date: 2026-12-12T08:15:00
 draft: false
+tags:
+  - wolność
+  - filozofia
 image_focus_banner: 50% 50%
 image_focus_card: 50% 50%
 noindex: false
