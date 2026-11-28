@@ -16,7 +16,7 @@ description: >
   kapitalistyczną dystopię i budować świat, w którym warto żyć?
 noindex: false
 ---
-Utopia, od greckich sformułowań oznaczających „dobre miejsce” oraz „miejsce, którego nie ma”, powstała jako eksperyment filozoficzny, narzędzie pozwalające sprawdzać radykalne idee w idealnych warunkach. Czy jednak nie jest to też potrzebne  każdej i każdemu z nas?
+**Utopia, od greckich sformułowań oznaczających „dobre miejsce” oraz „miejsce, którego nie ma”, powstała jako eksperyment filozoficzny, narzędzie pozwalające sprawdzać radykalne idee w idealnych warunkach. Czy jednak nie jest to też potrzebne  każdej i każdemu z nas?**
 
 W 2021 roku ukazała się stworzona przez brytyjskie studio animacji The Line reklama jogurtu. Dzięki nostalgicznym nawiązaniom do filmów studia Ghibli, a także muzyce Joe Hisaishiego, jak zwykle wywołującej emocje od pierwszych nut,  stała się na krótki czas niezwykle popularna. Jednak ta starannie przygotowana krótkometrażówka rozpropagowała szeroko nie tyle produkt, który się w niej pojawił, ile ideę stanowiącą klucz do lepszej przyszłości.
 
